@@ -1,0 +1,15 @@
+@prefix geo:  <http://www.opengis.net/ont/geosparql#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix :     <YOUR-ONTOLOGY-IRI#> .
+
+geo:Feature a owl:Class ;
+    rdfs:isDefinedBy <http://www.opengis.net/ont/geosparql> .
+
+:County a owl:Class ;
+    rdfs:subClassOf geo:Feature ;
+    rdfs:label "County"@en .
+
+:GenerationSite a owl:Class ;
+    rdfs:subClassOf geo:Feature ;
+    rdfs:label "Generation site"@en .
