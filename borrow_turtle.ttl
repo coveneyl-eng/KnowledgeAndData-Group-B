@@ -1,15 +1,16 @@
-@prefix geo:  <http://www.opengis.net/ont/geosparql#> .
-@prefix owl:  <http://www.w3.org/2002/07/owl#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix :     <YOUR-ONTOLOGY-IRI#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-geo:Feature a owl:Class ;
+geo:Geometry a owl:Class ;
     rdfs:isDefinedBy <http://www.opengis.net/ont/geosparql> .
 
-:County a owl:Class ;
-    rdfs:subClassOf geo:Feature ;
-    rdfs:label "County"@en .
+geo:hasGeometry a owl:ObjectProperty ;
+    rdfs:domain geo:Feature ;
+    rdfs:range  geo:Geometry ;
+    rdfs:isDefinedBy <http://www.opengis.net/ont/geosparql> .
 
-:GenerationSite a owl:Class ;
-    rdfs:subClassOf geo:Feature ;
-    rdfs:label "Generation site"@en .
+geo:asWKT a owl:DatatypeProperty ;
+    rdfs:domain geo:Geometry ;
+    rdfs:range  geo:wktLiteral ;
+    rdfs:isDefinedBy <http://www.opengis.net/ont/geosparql> .
+
+geo:wktLiteral a rdfs:Datatype .
