@@ -1,0 +1,133 @@
+quarter_id,sector_id,sector,value,unit
+2015-Q1,all,All metered electricity consumption,6565.0,GWh
+2015-Q1,data-centres,Data centres,291.0,GWh
+2015-Q1,other-customers,Customers other than data centres,6274.0,GWh
+2015-Q2,all,All metered electricity consumption,6086.0,GWh
+2015-Q2,data-centres,Data centres,304.0,GWh
+2015-Q2,other-customers,Customers other than data centres,5783.0,GWh
+2015-Q3,all,All metered electricity consumption,5783.0,GWh
+2015-Q3,data-centres,Data centres,316.0,GWh
+2015-Q3,other-customers,Customers other than data centres,5467.0,GWh
+2015-Q4,all,All metered electricity consumption,6165.0,GWh
+2015-Q4,data-centres,Data centres,329.0,GWh
+2015-Q4,other-customers,Customers other than data centres,5836.0,GWh
+2016-Q1,all,All metered electricity consumption,6651.0,GWh
+2016-Q1,data-centres,Data centres,341.0,GWh
+2016-Q1,other-customers,Customers other than data centres,6310.0,GWh
+2016-Q2,all,All metered electricity consumption,6471.0,GWh
+2016-Q2,data-centres,Data centres,361.0,GWh
+2016-Q2,other-customers,Customers other than data centres,6111.0,GWh
+2016-Q3,all,All metered electricity consumption,5926.0,GWh
+2016-Q3,data-centres,Data centres,386.0,GWh
+2016-Q3,other-customers,Customers other than data centres,5540.0,GWh
+2016-Q4,all,All metered electricity consumption,6307.0,GWh
+2016-Q4,data-centres,Data centres,395.0,GWh
+2016-Q4,other-customers,Customers other than data centres,5912.0,GWh
+2017-Q1,all,All metered electricity consumption,6867.0,GWh
+2017-Q1,data-centres,Data centres,407.0,GWh
+2017-Q1,other-customers,Customers other than data centres,6460.0,GWh
+2017-Q2,all,All metered electricity consumption,6429.0,GWh
+2017-Q2,data-centres,Data centres,433.0,GWh
+2017-Q2,other-customers,Customers other than data centres,5996.0,GWh
+2017-Q3,all,All metered electricity consumption,5969.0,GWh
+2017-Q3,data-centres,Data centres,450.0,GWh
+2017-Q3,other-customers,Customers other than data centres,5519.0,GWh
+2017-Q4,all,All metered electricity consumption,6461.0,GWh
+2017-Q4,data-centres,Data centres,472.0,GWh
+2017-Q4,other-customers,Customers other than data centres,5988.0,GWh
+2018-Q1,all,All metered electricity consumption,7097.0,GWh
+2018-Q1,data-centres,Data centres,491.0,GWh
+2018-Q1,other-customers,Customers other than data centres,6606.0,GWh
+2018-Q2,all,All metered electricity consumption,6845.0,GWh
+2018-Q2,data-centres,Data centres,527.0,GWh
+2018-Q2,other-customers,Customers other than data centres,6318.0,GWh
+2018-Q3,all,All metered electricity consumption,6187.0,GWh
+2018-Q3,data-centres,Data centres,574.0,GWh
+2018-Q3,other-customers,Customers other than data centres,5614.0,GWh
+2018-Q4,all,All metered electricity consumption,6601.0,GWh
+2018-Q4,data-centres,Data centres,591.0,GWh
+2018-Q4,other-customers,Customers other than data centres,6010.0,GWh
+2019-Q1,all,All metered electricity consumption,7128.0,GWh
+2019-Q1,data-centres,Data centres,578.0,GWh
+2019-Q1,other-customers,Customers other than data centres,6550.0,GWh
+2019-Q2,all,All metered electricity consumption,6349.0,GWh
+2019-Q2,data-centres,Data centres,601.0,GWh
+2019-Q2,other-customers,Customers other than data centres,5749.0,GWh
+2019-Q3,all,All metered electricity consumption,6299.0,GWh
+2019-Q3,data-centres,Data centres,638.0,GWh
+2019-Q3,other-customers,Customers other than data centres,5661.0,GWh
+2019-Q4,all,All metered electricity consumption,6728.0,GWh
+2019-Q4,data-centres,Data centres,672.0,GWh
+2019-Q4,other-customers,Customers other than data centres,6056.0,GWh
+2020-Q1,all,All metered electricity consumption,7399.0,GWh
+2020-Q1,data-centres,Data centres,691.0,GWh
+2020-Q1,other-customers,Customers other than data centres,6708.0,GWh
+2020-Q2,all,All metered electricity consumption,6429.0,GWh
+2020-Q2,data-centres,Data centres,722.0,GWh
+2020-Q2,other-customers,Customers other than data centres,5707.0,GWh
+2020-Q3,all,All metered electricity consumption,6381.0,GWh
+2020-Q3,data-centres,Data centres,766.0,GWh
+2020-Q3,other-customers,Customers other than data centres,5615.0,GWh
+2020-Q4,all,All metered electricity consumption,6847.0,GWh
+2020-Q4,data-centres,Data centres,852.0,GWh
+2020-Q4,other-customers,Customers other than data centres,5996.0,GWh
+2021-Q1,all,All metered electricity consumption,7347.0,GWh
+2021-Q1,data-centres,Data centres,922.0,GWh
+2021-Q1,other-customers,Customers other than data centres,6426.0,GWh
+2021-Q2,all,All metered electricity consumption,7222.0,GWh
+2021-Q2,data-centres,Data centres,987.0,GWh
+2021-Q2,other-customers,Customers other than data centres,6235.0,GWh
+2021-Q3,all,All metered electricity consumption,6779.0,GWh
+2021-Q3,data-centres,Data centres,1035.0,GWh
+2021-Q3,other-customers,Customers other than data centres,5744.0,GWh
+2021-Q4,all,All metered electricity consumption,7158.0,GWh
+2021-Q4,data-centres,Data centres,1069.0,GWh
+2021-Q4,other-customers,Customers other than data centres,6089.0,GWh
+2022-Q1,all,All metered electricity consumption,7847.0,GWh
+2022-Q1,data-centres,Data centres,1194.0,GWh
+2022-Q1,other-customers,Customers other than data centres,6653.0,GWh
+2022-Q2,all,All metered electricity consumption,7524.0,GWh
+2022-Q2,data-centres,Data centres,1287.0,GWh
+2022-Q2,other-customers,Customers other than data centres,6237.0,GWh
+2022-Q3,all,All metered electricity consumption,7050.0,GWh
+2022-Q3,data-centres,Data centres,1336.0,GWh
+2022-Q3,other-customers,Customers other than data centres,5714.0,GWh
+2022-Q4,all,All metered electricity consumption,7404.0,GWh
+2022-Q4,data-centres,Data centres,1457.0,GWh
+2022-Q4,other-customers,Customers other than data centres,5948.0,GWh
+2023-Q1,all,All metered electricity consumption,8038.0,GWh
+2023-Q1,data-centres,Data centres,1497.0,GWh
+2023-Q1,other-customers,Customers other than data centres,6542.0,GWh
+2023-Q2,all,All metered electricity consumption,7706.0,GWh
+2023-Q2,data-centres,Data centres,1554.0,GWh
+2023-Q2,other-customers,Customers other than data centres,6152.0,GWh
+2023-Q3,all,All metered electricity consumption,7136.0,GWh
+2023-Q3,data-centres,Data centres,1625.0,GWh
+2023-Q3,other-customers,Customers other than data centres,5510.0,GWh
+2023-Q4,all,All metered electricity consumption,7701.0,GWh
+2023-Q4,data-centres,Data centres,1663.0,GWh
+2023-Q4,other-customers,Customers other than data centres,6038.0,GWh
+2024-Q1,all,All metered electricity consumption,8348.0,GWh
+2024-Q1,data-centres,Data centres,1659.0,GWh
+2024-Q1,other-customers,Customers other than data centres,6689.0,GWh
+2024-Q2,all,All metered electricity consumption,7935.0,GWh
+2024-Q2,data-centres,Data centres,1692.0,GWh
+2024-Q2,other-customers,Customers other than data centres,6243.0,GWh
+2024-Q3,all,All metered electricity consumption,7513.0,GWh
+2024-Q3,data-centres,Data centres,1793.0,GWh
+2024-Q3,other-customers,Customers other than data centres,5720.0,GWh
+2024-Q4,all,All metered electricity consumption,8108.0,GWh
+2024-Q4,data-centres,Data centres,1830.0,GWh
+2024-Q4,other-customers,Customers other than data centres,6278.0,GWh
+2025-Q1,all,All metered electricity consumption,8706.0,GWh
+2025-Q1,data-centres,Data centres,1821.0,GWh
+2025-Q1,other-customers,Customers other than data centres,6884.0,GWh
+2025-Q2,all,All metered electricity consumption,8127.0,GWh
+2025-Q2,data-centres,Data centres,1894.0,GWh
+2025-Q2,other-customers,Customers other than data centres,6232.0,GWh
+2025-Q3,all,All metered electricity consumption,7734.0,GWh
+2025-Q3,data-centres,Data centres,1956.0,GWh
+2025-Q3,other-customers,Customers other than data centres,5778.0,GWh
+2025-Q4,all,All metered electricity consumption,8420.0,GWh
+2025-Q4,data-centres,Data centres,1991.0,GWh
+2025-Q4,other-customers,Customers other than data centres,6429.0,GWh

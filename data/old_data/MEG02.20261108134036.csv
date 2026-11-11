@@ -1,0 +1,673 @@
+STATISTIC,Statistic Label,TLIST(M1),Month,C04199V04971,Time Bands,C04200V04972,Primary Fuel Output,UNIT,VALUE
+MEG02C01,Metered Electricity Generation,202001,2020 January,-,All time periods,100,Battery Storage,Megawatt hours,
+MEG02C01,Metered Electricity Generation,202001,2020 January,-,All time periods,110,Biomass/Peat,Megawatt hours,197310.67
+MEG02C01,Metered Electricity Generation,202001,2020 January,-,All time periods,120,Coal,Megawatt hours,3916.91
+MEG02C01,Metered Electricity Generation,202001,2020 January,-,All time periods,130,Distillate,Megawatt hours,876.673
+MEG02C01,Metered Electricity Generation,202001,2020 January,-,All time periods,140,Gas,Megawatt hours,1170655.52
+MEG02C01,Metered Electricity Generation,202001,2020 January,-,All time periods,150,Renewable Hydro,Megawatt hours,104550.8447
+MEG02C01,Metered Electricity Generation,202001,2020 January,-,All time periods,160,Oil,Megawatt hours,10841.624
+MEG02C01,Metered Electricity Generation,202001,2020 January,-,All time periods,170,Solar,Megawatt hours,
+MEG02C01,Metered Electricity Generation,202001,2020 January,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,25817.589
+MEG02C01,Metered Electricity Generation,202001,2020 January,-,All time periods,190,Waste,Megawatt hours,48382.8789
+MEG02C01,Metered Electricity Generation,202001,2020 January,-,All time periods,200,Wind,Megawatt hours,1260838.503
+MEG02C01,Metered Electricity Generation,202001,2020 January,-,All time periods,210,Other Non-Renewable,Megawatt hours,2127.135
+MEG02C01,Metered Electricity Generation,202001,2020 January,-,All time periods,220,Other Renewable,Megawatt hours,15860.5021
+MEG02C01,Metered Electricity Generation,202001,2020 January,-,All time periods,-,Net Generation,Megawatt hours,2841178.85
+MEG02C01,Metered Electricity Generation,202002,2020 February,-,All time periods,100,Battery Storage,Megawatt hours,
+MEG02C01,Metered Electricity Generation,202002,2020 February,-,All time periods,110,Biomass/Peat,Megawatt hours,159984.43
+MEG02C01,Metered Electricity Generation,202002,2020 February,-,All time periods,120,Coal,Megawatt hours,0
+MEG02C01,Metered Electricity Generation,202002,2020 February,-,All time periods,130,Distillate,Megawatt hours,183.003
+MEG02C01,Metered Electricity Generation,202002,2020 February,-,All time periods,140,Gas,Megawatt hours,947987.5648
+MEG02C01,Metered Electricity Generation,202002,2020 February,-,All time periods,150,Renewable Hydro,Megawatt hours,115643.9695
+MEG02C01,Metered Electricity Generation,202002,2020 February,-,All time periods,160,Oil,Megawatt hours,4720.444
+MEG02C01,Metered Electricity Generation,202002,2020 February,-,All time periods,170,Solar,Megawatt hours,
+MEG02C01,Metered Electricity Generation,202002,2020 February,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,24629.274
+MEG02C01,Metered Electricity Generation,202002,2020 February,-,All time periods,190,Waste,Megawatt hours,45298.3985
+MEG02C01,Metered Electricity Generation,202002,2020 February,-,All time periods,200,Wind,Megawatt hours,1589648.421
+MEG02C01,Metered Electricity Generation,202002,2020 February,-,All time periods,210,Other Non-Renewable,Megawatt hours,1548.628
+MEG02C01,Metered Electricity Generation,202002,2020 February,-,All time periods,220,Other Renewable,Megawatt hours,15034.1508
+MEG02C01,Metered Electricity Generation,202002,2020 February,-,All time periods,-,Net Generation,Megawatt hours,2904678.283
+MEG02C01,Metered Electricity Generation,202003,2020 March,-,All time periods,100,Battery Storage,Megawatt hours,
+MEG02C01,Metered Electricity Generation,202003,2020 March,-,All time periods,110,Biomass/Peat,Megawatt hours,156541.05
+MEG02C01,Metered Electricity Generation,202003,2020 March,-,All time periods,120,Coal,Megawatt hours,28059.49
+MEG02C01,Metered Electricity Generation,202003,2020 March,-,All time periods,130,Distillate,Megawatt hours,1158.359
+MEG02C01,Metered Electricity Generation,202003,2020 March,-,All time periods,140,Gas,Megawatt hours,1114641.135
+MEG02C01,Metered Electricity Generation,202003,2020 March,-,All time periods,150,Renewable Hydro,Megawatt hours,125526.6719
+MEG02C01,Metered Electricity Generation,202003,2020 March,-,All time periods,160,Oil,Megawatt hours,9143.374
+MEG02C01,Metered Electricity Generation,202003,2020 March,-,All time periods,170,Solar,Megawatt hours,
+MEG02C01,Metered Electricity Generation,202003,2020 March,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,24960.637
+MEG02C01,Metered Electricity Generation,202003,2020 March,-,All time periods,190,Waste,Megawatt hours,51279.2495
+MEG02C01,Metered Electricity Generation,202003,2020 March,-,All time periods,200,Wind,Megawatt hours,1239618.092
+MEG02C01,Metered Electricity Generation,202003,2020 March,-,All time periods,210,Other Non-Renewable,Megawatt hours,1709.067
+MEG02C01,Metered Electricity Generation,202003,2020 March,-,All time periods,220,Other Renewable,Megawatt hours,16214.5336
+MEG02C01,Metered Electricity Generation,202003,2020 March,-,All time periods,-,Net Generation,Megawatt hours,2768851.659
+MEG02C01,Metered Electricity Generation,202004,2020 April,-,All time periods,100,Battery Storage,Megawatt hours,0.229
+MEG02C01,Metered Electricity Generation,202004,2020 April,-,All time periods,110,Biomass/Peat,Megawatt hours,78703.21
+MEG02C01,Metered Electricity Generation,202004,2020 April,-,All time periods,120,Coal,Megawatt hours,74230.1
+MEG02C01,Metered Electricity Generation,202004,2020 April,-,All time periods,130,Distillate,Megawatt hours,769.313
+MEG02C01,Metered Electricity Generation,202004,2020 April,-,All time periods,140,Gas,Megawatt hours,1260633.867
+MEG02C01,Metered Electricity Generation,202004,2020 April,-,All time periods,150,Renewable Hydro,Megawatt hours,33798.0958
+MEG02C01,Metered Electricity Generation,202004,2020 April,-,All time periods,160,Oil,Megawatt hours,6123.813
+MEG02C01,Metered Electricity Generation,202004,2020 April,-,All time periods,170,Solar,Megawatt hours,
+MEG02C01,Metered Electricity Generation,202004,2020 April,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,25915.266
+MEG02C01,Metered Electricity Generation,202004,2020 April,-,All time periods,190,Waste,Megawatt hours,49487.3599
+MEG02C01,Metered Electricity Generation,202004,2020 April,-,All time periods,200,Wind,Megawatt hours,607099.7573
+MEG02C01,Metered Electricity Generation,202004,2020 April,-,All time periods,210,Other Non-Renewable,Megawatt hours,1598.711
+MEG02C01,Metered Electricity Generation,202004,2020 April,-,All time periods,220,Other Renewable,Megawatt hours,16025.2771
+MEG02C01,Metered Electricity Generation,202004,2020 April,-,All time periods,-,Net Generation,Megawatt hours,2154384.999
+MEG02C01,Metered Electricity Generation,202005,2020 May,-,All time periods,100,Battery Storage,Megawatt hours,0.458
+MEG02C01,Metered Electricity Generation,202005,2020 May,-,All time periods,110,Biomass/Peat,Megawatt hours,55438.95
+MEG02C01,Metered Electricity Generation,202005,2020 May,-,All time periods,120,Coal,Megawatt hours,9896.95
+MEG02C01,Metered Electricity Generation,202005,2020 May,-,All time periods,130,Distillate,Megawatt hours,505.981
+MEG02C01,Metered Electricity Generation,202005,2020 May,-,All time periods,140,Gas,Megawatt hours,1395063.792
+MEG02C01,Metered Electricity Generation,202005,2020 May,-,All time periods,150,Renewable Hydro,Megawatt hours,9784.3442
+MEG02C01,Metered Electricity Generation,202005,2020 May,-,All time periods,160,Oil,Megawatt hours,10720.353
+MEG02C01,Metered Electricity Generation,202005,2020 May,-,All time periods,170,Solar,Megawatt hours,
+MEG02C01,Metered Electricity Generation,202005,2020 May,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,26588.759
+MEG02C01,Metered Electricity Generation,202005,2020 May,-,All time periods,190,Waste,Megawatt hours,47280.9456
+MEG02C01,Metered Electricity Generation,202005,2020 May,-,All time periods,200,Wind,Megawatt hours,819394.243
+MEG02C01,Metered Electricity Generation,202005,2020 May,-,All time periods,210,Other Non-Renewable,Megawatt hours,1624.3572
+MEG02C01,Metered Electricity Generation,202005,2020 May,-,All time periods,220,Other Renewable,Megawatt hours,15339.5791
+MEG02C01,Metered Electricity Generation,202005,2020 May,-,All time periods,-,Net Generation,Megawatt hours,2391638.712
+MEG02C01,Metered Electricity Generation,202006,2020 June,-,All time periods,100,Battery Storage,Megawatt hours,1.355
+MEG02C01,Metered Electricity Generation,202006,2020 June,-,All time periods,110,Biomass/Peat,Megawatt hours,55823.54
+MEG02C01,Metered Electricity Generation,202006,2020 June,-,All time periods,120,Coal,Megawatt hours,76033.31
+MEG02C01,Metered Electricity Generation,202006,2020 June,-,All time periods,130,Distillate,Megawatt hours,1037.948
+MEG02C01,Metered Electricity Generation,202006,2020 June,-,All time periods,140,Gas,Megawatt hours,1363903.765
+MEG02C01,Metered Electricity Generation,202006,2020 June,-,All time periods,150,Renewable Hydro,Megawatt hours,10958.3677
+MEG02C01,Metered Electricity Generation,202006,2020 June,-,All time periods,160,Oil,Megawatt hours,31426.037
+MEG02C01,Metered Electricity Generation,202006,2020 June,-,All time periods,170,Solar,Megawatt hours,
+MEG02C01,Metered Electricity Generation,202006,2020 June,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,24418.021
+MEG02C01,Metered Electricity Generation,202006,2020 June,-,All time periods,190,Waste,Megawatt hours,34531.619
+MEG02C01,Metered Electricity Generation,202006,2020 June,-,All time periods,200,Wind,Megawatt hours,775124.9189
+MEG02C01,Metered Electricity Generation,202006,2020 June,-,All time periods,210,Other Non-Renewable,Megawatt hours,1481.869
+MEG02C01,Metered Electricity Generation,202006,2020 June,-,All time periods,220,Other Renewable,Megawatt hours,15174.269
+MEG02C01,Metered Electricity Generation,202006,2020 June,-,All time periods,-,Net Generation,Megawatt hours,2389915.02
+MEG02C01,Metered Electricity Generation,202007,2020 July,-,All time periods,100,Battery Storage,Megawatt hours,13.725
+MEG02C01,Metered Electricity Generation,202007,2020 July,-,All time periods,110,Biomass/Peat,Megawatt hours,4396
+MEG02C01,Metered Electricity Generation,202007,2020 July,-,All time periods,120,Coal,Megawatt hours,97312.97
+MEG02C01,Metered Electricity Generation,202007,2020 July,-,All time periods,130,Distillate,Megawatt hours,2528.337
+MEG02C01,Metered Electricity Generation,202007,2020 July,-,All time periods,140,Gas,Megawatt hours,1442109.575
+MEG02C01,Metered Electricity Generation,202007,2020 July,-,All time periods,150,Renewable Hydro,Megawatt hours,44106.7046
+MEG02C01,Metered Electricity Generation,202007,2020 July,-,All time periods,160,Oil,Megawatt hours,22357.093
+MEG02C01,Metered Electricity Generation,202007,2020 July,-,All time periods,170,Solar,Megawatt hours,
+MEG02C01,Metered Electricity Generation,202007,2020 July,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,24610.958
+MEG02C01,Metered Electricity Generation,202007,2020 July,-,All time periods,190,Waste,Megawatt hours,54857.4867
+MEG02C01,Metered Electricity Generation,202007,2020 July,-,All time periods,200,Wind,Megawatt hours,810722.3021
+MEG02C01,Metered Electricity Generation,202007,2020 July,-,All time periods,210,Other Non-Renewable,Megawatt hours,1815.49
+MEG02C01,Metered Electricity Generation,202007,2020 July,-,All time periods,220,Other Renewable,Megawatt hours,15651.3118
+MEG02C01,Metered Electricity Generation,202007,2020 July,-,All time periods,-,Net Generation,Megawatt hours,2520481.953
+MEG02C01,Metered Electricity Generation,202008,2020 August,-,All time periods,100,Battery Storage,Megawatt hours,8.729
+MEG02C01,Metered Electricity Generation,202008,2020 August,-,All time periods,110,Biomass/Peat,Megawatt hours,17864.64
+MEG02C01,Metered Electricity Generation,202008,2020 August,-,All time periods,120,Coal,Megawatt hours,91830.97
+MEG02C01,Metered Electricity Generation,202008,2020 August,-,All time periods,130,Distillate,Megawatt hours,8551.046
+MEG02C01,Metered Electricity Generation,202008,2020 August,-,All time periods,140,Gas,Megawatt hours,1498653.809
+MEG02C01,Metered Electricity Generation,202008,2020 August,-,All time periods,150,Renewable Hydro,Megawatt hours,69350.0093
+MEG02C01,Metered Electricity Generation,202008,2020 August,-,All time periods,160,Oil,Megawatt hours,49110.24
+MEG02C01,Metered Electricity Generation,202008,2020 August,-,All time periods,170,Solar,Megawatt hours,
+MEG02C01,Metered Electricity Generation,202008,2020 August,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,25103.281
+MEG02C01,Metered Electricity Generation,202008,2020 August,-,All time periods,190,Waste,Megawatt hours,53150.2076
+MEG02C01,Metered Electricity Generation,202008,2020 August,-,All time periods,200,Wind,Megawatt hours,669057.5071
+MEG02C01,Metered Electricity Generation,202008,2020 August,-,All time periods,210,Other Non-Renewable,Megawatt hours,1667.923
+MEG02C01,Metered Electricity Generation,202008,2020 August,-,All time periods,220,Other Renewable,Megawatt hours,15154.2679
+MEG02C01,Metered Electricity Generation,202008,2020 August,-,All time periods,-,Net Generation,Megawatt hours,2499502.63
+MEG02C01,Metered Electricity Generation,202009,2020 September,-,All time periods,100,Battery Storage,Megawatt hours,4.636
+MEG02C01,Metered Electricity Generation,202009,2020 September,-,All time periods,110,Biomass/Peat,Megawatt hours,57488.92
+MEG02C01,Metered Electricity Generation,202009,2020 September,-,All time periods,120,Coal,Megawatt hours,82993.23
+MEG02C01,Metered Electricity Generation,202009,2020 September,-,All time periods,130,Distillate,Megawatt hours,1221.04
+MEG02C01,Metered Electricity Generation,202009,2020 September,-,All time periods,140,Gas,Megawatt hours,1378783.25
+MEG02C01,Metered Electricity Generation,202009,2020 September,-,All time periods,150,Renewable Hydro,Megawatt hours,58948.1206
+MEG02C01,Metered Electricity Generation,202009,2020 September,-,All time periods,160,Oil,Megawatt hours,37947.08
+MEG02C01,Metered Electricity Generation,202009,2020 September,-,All time periods,170,Solar,Megawatt hours,
+MEG02C01,Metered Electricity Generation,202009,2020 September,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,24270.563
+MEG02C01,Metered Electricity Generation,202009,2020 September,-,All time periods,190,Waste,Megawatt hours,54097.9573
+MEG02C01,Metered Electricity Generation,202009,2020 September,-,All time periods,200,Wind,Megawatt hours,804480.1621
+MEG02C01,Metered Electricity Generation,202009,2020 September,-,All time periods,210,Other Non-Renewable,Megawatt hours,1616.7133
+MEG02C01,Metered Electricity Generation,202009,2020 September,-,All time periods,220,Other Renewable,Megawatt hours,14316.6232
+MEG02C01,Metered Electricity Generation,202009,2020 September,-,All time periods,-,Net Generation,Megawatt hours,2516168.296
+MEG02C01,Metered Electricity Generation,202010,2020 October,-,All time periods,100,Battery Storage,Megawatt hours,6.346
+MEG02C01,Metered Electricity Generation,202010,2020 October,-,All time periods,110,Biomass/Peat,Megawatt hours,151259.67
+MEG02C01,Metered Electricity Generation,202010,2020 October,-,All time periods,120,Coal,Megawatt hours,74434.26
+MEG02C01,Metered Electricity Generation,202010,2020 October,-,All time periods,130,Distillate,Megawatt hours,322.637
+MEG02C01,Metered Electricity Generation,202010,2020 October,-,All time periods,140,Gas,Megawatt hours,1088241.869
+MEG02C01,Metered Electricity Generation,202010,2020 October,-,All time periods,150,Renewable Hydro,Megawatt hours,82944.539
+MEG02C01,Metered Electricity Generation,202010,2020 October,-,All time periods,160,Oil,Megawatt hours,22845.722
+MEG02C01,Metered Electricity Generation,202010,2020 October,-,All time periods,170,Solar,Megawatt hours,
+MEG02C01,Metered Electricity Generation,202010,2020 October,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,23357.264
+MEG02C01,Metered Electricity Generation,202010,2020 October,-,All time periods,190,Waste,Megawatt hours,36073.443
+MEG02C01,Metered Electricity Generation,202010,2020 October,-,All time periods,200,Wind,Megawatt hours,1192174.057
+MEG02C01,Metered Electricity Generation,202010,2020 October,-,All time periods,210,Other Non-Renewable,Megawatt hours,1683.146
+MEG02C01,Metered Electricity Generation,202010,2020 October,-,All time periods,220,Other Renewable,Megawatt hours,15564.4685
+MEG02C01,Metered Electricity Generation,202010,2020 October,-,All time periods,-,Net Generation,Megawatt hours,2688907.422
+MEG02C01,Metered Electricity Generation,202011,2020 November,-,All time periods,100,Battery Storage,Megawatt hours,1.583
+MEG02C01,Metered Electricity Generation,202011,2020 November,-,All time periods,110,Biomass/Peat,Megawatt hours,180582.48
+MEG02C01,Metered Electricity Generation,202011,2020 November,-,All time periods,120,Coal,Megawatt hours,82237.1
+MEG02C01,Metered Electricity Generation,202011,2020 November,-,All time periods,130,Distillate,Megawatt hours,870.297
+MEG02C01,Metered Electricity Generation,202011,2020 November,-,All time periods,140,Gas,Megawatt hours,1135577.341
+MEG02C01,Metered Electricity Generation,202011,2020 November,-,All time periods,150,Renewable Hydro,Megawatt hours,136579.8947
+MEG02C01,Metered Electricity Generation,202011,2020 November,-,All time periods,160,Oil,Megawatt hours,21442.964
+MEG02C01,Metered Electricity Generation,202011,2020 November,-,All time periods,170,Solar,Megawatt hours,
+MEG02C01,Metered Electricity Generation,202011,2020 November,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,16391.787
+MEG02C01,Metered Electricity Generation,202011,2020 November,-,All time periods,190,Waste,Megawatt hours,40658.5406
+MEG02C01,Metered Electricity Generation,202011,2020 November,-,All time periods,200,Wind,Megawatt hours,1103329.633
+MEG02C01,Metered Electricity Generation,202011,2020 November,-,All time periods,210,Other Non-Renewable,Megawatt hours,1950.879
+MEG02C01,Metered Electricity Generation,202011,2020 November,-,All time periods,220,Other Renewable,Megawatt hours,14462.259
+MEG02C01,Metered Electricity Generation,202011,2020 November,-,All time periods,-,Net Generation,Megawatt hours,2734084.759
+MEG02C01,Metered Electricity Generation,202012,2020 December,-,All time periods,100,Battery Storage,Megawatt hours,0
+MEG02C01,Metered Electricity Generation,202012,2020 December,-,All time periods,110,Biomass/Peat,Megawatt hours,106364.96
+MEG02C01,Metered Electricity Generation,202012,2020 December,-,All time periods,120,Coal,Megawatt hours,102495.16
+MEG02C01,Metered Electricity Generation,202012,2020 December,-,All time periods,130,Distillate,Megawatt hours,1279.663
+MEG02C01,Metered Electricity Generation,202012,2020 December,-,All time periods,140,Gas,Megawatt hours,1229475.239
+MEG02C01,Metered Electricity Generation,202012,2020 December,-,All time periods,150,Renewable Hydro,Megawatt hours,135952.3989
+MEG02C01,Metered Electricity Generation,202012,2020 December,-,All time periods,160,Oil,Megawatt hours,19612.955
+MEG02C01,Metered Electricity Generation,202012,2020 December,-,All time periods,170,Solar,Megawatt hours,
+MEG02C01,Metered Electricity Generation,202012,2020 December,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,22262.527
+MEG02C01,Metered Electricity Generation,202012,2020 December,-,All time periods,190,Waste,Megawatt hours,39160.1979
+MEG02C01,Metered Electricity Generation,202012,2020 December,-,All time periods,200,Wind,Megawatt hours,1295945.226
+MEG02C01,Metered Electricity Generation,202012,2020 December,-,All time periods,210,Other Non-Renewable,Megawatt hours,2112.5142
+MEG02C01,Metered Electricity Generation,202012,2020 December,-,All time periods,220,Other Renewable,Megawatt hours,16256.0088
+MEG02C01,Metered Electricity Generation,202012,2020 December,-,All time periods,-,Net Generation,Megawatt hours,2970916.85
+MEG02C01,Metered Electricity Generation,202101,2021 January,-,All time periods,100,Battery Storage,Megawatt hours,1.929
+MEG02C01,Metered Electricity Generation,202101,2021 January,-,All time periods,110,Biomass/Peat,Megawatt hours,58369.25
+MEG02C01,Metered Electricity Generation,202101,2021 January,-,All time periods,120,Coal,Megawatt hours,271012.83
+MEG02C01,Metered Electricity Generation,202101,2021 January,-,All time periods,130,Distillate,Megawatt hours,2866.456
+MEG02C01,Metered Electricity Generation,202101,2021 January,-,All time periods,140,Gas,Megawatt hours,1315102.076
+MEG02C01,Metered Electricity Generation,202101,2021 January,-,All time periods,150,Renewable Hydro,Megawatt hours,130841.4828
+MEG02C01,Metered Electricity Generation,202101,2021 January,-,All time periods,160,Oil,Megawatt hours,42312.954
+MEG02C01,Metered Electricity Generation,202101,2021 January,-,All time periods,170,Solar,Megawatt hours,
+MEG02C01,Metered Electricity Generation,202101,2021 January,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,23818.276
+MEG02C01,Metered Electricity Generation,202101,2021 January,-,All time periods,190,Waste,Megawatt hours,53844.6223
+MEG02C01,Metered Electricity Generation,202101,2021 January,-,All time periods,200,Wind,Megawatt hours,986100.2837
+MEG02C01,Metered Electricity Generation,202101,2021 January,-,All time periods,210,Other Non-Renewable,Megawatt hours,1534.0258
+MEG02C01,Metered Electricity Generation,202101,2021 January,-,All time periods,220,Other Renewable,Megawatt hours,16444.9151
+MEG02C01,Metered Electricity Generation,202101,2021 January,-,All time periods,-,Net Generation,Megawatt hours,2902249.1
+MEG02C01,Metered Electricity Generation,202102,2021 February,-,All time periods,100,Battery Storage,Megawatt hours,2.811
+MEG02C01,Metered Electricity Generation,202102,2021 February,-,All time periods,110,Biomass/Peat,Megawatt hours,50208.58
+MEG02C01,Metered Electricity Generation,202102,2021 February,-,All time periods,120,Coal,Megawatt hours,89989.53
+MEG02C01,Metered Electricity Generation,202102,2021 February,-,All time periods,130,Distillate,Megawatt hours,1252.772
+MEG02C01,Metered Electricity Generation,202102,2021 February,-,All time periods,140,Gas,Megawatt hours,907374.4567
+MEG02C01,Metered Electricity Generation,202102,2021 February,-,All time periods,150,Renewable Hydro,Megawatt hours,124820.099
+MEG02C01,Metered Electricity Generation,202102,2021 February,-,All time periods,160,Oil,Megawatt hours,11838.31
+MEG02C01,Metered Electricity Generation,202102,2021 February,-,All time periods,170,Solar,Megawatt hours,
+MEG02C01,Metered Electricity Generation,202102,2021 February,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,24032.202
+MEG02C01,Metered Electricity Generation,202102,2021 February,-,All time periods,190,Waste,Megawatt hours,41441.2533
+MEG02C01,Metered Electricity Generation,202102,2021 February,-,All time periods,200,Wind,Megawatt hours,1403380.974
+MEG02C01,Metered Electricity Generation,202102,2021 February,-,All time periods,210,Other Non-Renewable,Megawatt hours,1371.198
+MEG02C01,Metered Electricity Generation,202102,2021 February,-,All time periods,220,Other Renewable,Megawatt hours,14551.4354
+MEG02C01,Metered Electricity Generation,202102,2021 February,-,All time periods,-,Net Generation,Megawatt hours,2670263.622
+MEG02C01,Metered Electricity Generation,202103,2021 March,-,All time periods,100,Battery Storage,Megawatt hours,2.225
+MEG02C01,Metered Electricity Generation,202103,2021 March,-,All time periods,110,Biomass/Peat,Megawatt hours,64023.1
+MEG02C01,Metered Electricity Generation,202103,2021 March,-,All time periods,120,Coal,Megawatt hours,127890.37
+MEG02C01,Metered Electricity Generation,202103,2021 March,-,All time periods,130,Distillate,Megawatt hours,2388.305
+MEG02C01,Metered Electricity Generation,202103,2021 March,-,All time periods,140,Gas,Megawatt hours,1234647.323
+MEG02C01,Metered Electricity Generation,202103,2021 March,-,All time periods,150,Renewable Hydro,Megawatt hours,88219.4226
+MEG02C01,Metered Electricity Generation,202103,2021 March,-,All time periods,160,Oil,Megawatt hours,27589.972
+MEG02C01,Metered Electricity Generation,202103,2021 March,-,All time periods,170,Solar,Megawatt hours,
+MEG02C01,Metered Electricity Generation,202103,2021 March,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,17577.531
+MEG02C01,Metered Electricity Generation,202103,2021 March,-,All time periods,190,Waste,Megawatt hours,54992.3967
+MEG02C01,Metered Electricity Generation,202103,2021 March,-,All time periods,200,Wind,Megawatt hours,1004358.136
+MEG02C01,Metered Electricity Generation,202103,2021 March,-,All time periods,210,Other Non-Renewable,Megawatt hours,3018.228
+MEG02C01,Metered Electricity Generation,202103,2021 March,-,All time periods,220,Other Renewable,Megawatt hours,16542.7514
+MEG02C01,Metered Electricity Generation,202103,2021 March,-,All time periods,-,Net Generation,Megawatt hours,2641249.76
+MEG02C01,Metered Electricity Generation,202104,2021 April,-,All time periods,100,Battery Storage,Megawatt hours,15.247
+MEG02C01,Metered Electricity Generation,202104,2021 April,-,All time periods,110,Biomass/Peat,Megawatt hours,63741.18
+MEG02C01,Metered Electricity Generation,202104,2021 April,-,All time periods,120,Coal,Megawatt hours,225004.27
+MEG02C01,Metered Electricity Generation,202104,2021 April,-,All time periods,130,Distillate,Megawatt hours,1570.511
+MEG02C01,Metered Electricity Generation,202104,2021 April,-,All time periods,140,Gas,Megawatt hours,1221511.492
+MEG02C01,Metered Electricity Generation,202104,2021 April,-,All time periods,150,Renewable Hydro,Megawatt hours,44678.0195
+MEG02C01,Metered Electricity Generation,202104,2021 April,-,All time periods,160,Oil,Megawatt hours,40701.567
+MEG02C01,Metered Electricity Generation,202104,2021 April,-,All time periods,170,Solar,Megawatt hours,
+MEG02C01,Metered Electricity Generation,202104,2021 April,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,24242.824
+MEG02C01,Metered Electricity Generation,202104,2021 April,-,All time periods,190,Waste,Megawatt hours,55219.9783
+MEG02C01,Metered Electricity Generation,202104,2021 April,-,All time periods,200,Wind,Megawatt hours,672877.5756
+MEG02C01,Metered Electricity Generation,202104,2021 April,-,All time periods,210,Other Non-Renewable,Megawatt hours,2945.9544
+MEG02C01,Metered Electricity Generation,202104,2021 April,-,All time periods,220,Other Renewable,Megawatt hours,15604.5346
+MEG02C01,Metered Electricity Generation,202104,2021 April,-,All time periods,-,Net Generation,Megawatt hours,2368113.153
+MEG02C01,Metered Electricity Generation,202105,2021 May,-,All time periods,100,Battery Storage,Megawatt hours,24.869
+MEG02C01,Metered Electricity Generation,202105,2021 May,-,All time periods,110,Biomass/Peat,Megawatt hours,73504
+MEG02C01,Metered Electricity Generation,202105,2021 May,-,All time periods,120,Coal,Megawatt hours,246657.19
+MEG02C01,Metered Electricity Generation,202105,2021 May,-,All time periods,130,Distillate,Megawatt hours,3032.548
+MEG02C01,Metered Electricity Generation,202105,2021 May,-,All time periods,140,Gas,Megawatt hours,985604.4598
+MEG02C01,Metered Electricity Generation,202105,2021 May,-,All time periods,150,Renewable Hydro,Megawatt hours,39592.6778
+MEG02C01,Metered Electricity Generation,202105,2021 May,-,All time periods,160,Oil,Megawatt hours,78273.363
+MEG02C01,Metered Electricity Generation,202105,2021 May,-,All time periods,170,Solar,Megawatt hours,
+MEG02C01,Metered Electricity Generation,202105,2021 May,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,23716.47
+MEG02C01,Metered Electricity Generation,202105,2021 May,-,All time periods,190,Waste,Megawatt hours,54338.1033
+MEG02C01,Metered Electricity Generation,202105,2021 May,-,All time periods,200,Wind,Megawatt hours,773168.1938
+MEG02C01,Metered Electricity Generation,202105,2021 May,-,All time periods,210,Other Non-Renewable,Megawatt hours,3002.578
+MEG02C01,Metered Electricity Generation,202105,2021 May,-,All time periods,220,Other Renewable,Megawatt hours,15886.2565
+MEG02C01,Metered Electricity Generation,202105,2021 May,-,All time periods,-,Net Generation,Megawatt hours,2296800.709
+MEG02C01,Metered Electricity Generation,202106,2021 June,-,All time periods,100,Battery Storage,Megawatt hours,17.269
+MEG02C01,Metered Electricity Generation,202106,2021 June,-,All time periods,110,Biomass/Peat,Megawatt hours,67777.89
+MEG02C01,Metered Electricity Generation,202106,2021 June,-,All time periods,120,Coal,Megawatt hours,220541.91
+MEG02C01,Metered Electricity Generation,202106,2021 June,-,All time periods,130,Distillate,Megawatt hours,1566.931
+MEG02C01,Metered Electricity Generation,202106,2021 June,-,All time periods,140,Gas,Megawatt hours,1190718.906
+MEG02C01,Metered Electricity Generation,202106,2021 June,-,All time periods,150,Renewable Hydro,Megawatt hours,14695.8572
+MEG02C01,Metered Electricity Generation,202106,2021 June,-,All time periods,160,Oil,Megawatt hours,78588.448
+MEG02C01,Metered Electricity Generation,202106,2021 June,-,All time periods,170,Solar,Megawatt hours,
+MEG02C01,Metered Electricity Generation,202106,2021 June,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,22422.19
+MEG02C01,Metered Electricity Generation,202106,2021 June,-,All time periods,190,Waste,Megawatt hours,25057.5301
+MEG02C01,Metered Electricity Generation,202106,2021 June,-,All time periods,200,Wind,Megawatt hours,627494.4203
+MEG02C01,Metered Electricity Generation,202106,2021 June,-,All time periods,210,Other Non-Renewable,Megawatt hours,2887.005
+MEG02C01,Metered Electricity Generation,202106,2021 June,-,All time periods,220,Other Renewable,Megawatt hours,14515.9888
+MEG02C01,Metered Electricity Generation,202106,2021 June,-,All time periods,-,Net Generation,Megawatt hours,2266284.345
+MEG02C01,Metered Electricity Generation,202107,2021 July,-,All time periods,100,Battery Storage,Megawatt hours,22.358
+MEG02C01,Metered Electricity Generation,202107,2021 July,-,All time periods,110,Biomass/Peat,Megawatt hours,1189.34
+MEG02C01,Metered Electricity Generation,202107,2021 July,-,All time periods,120,Coal,Megawatt hours,215092
+MEG02C01,Metered Electricity Generation,202107,2021 July,-,All time periods,130,Distillate,Megawatt hours,10081.643
+MEG02C01,Metered Electricity Generation,202107,2021 July,-,All time periods,140,Gas,Megawatt hours,1340013.58
+MEG02C01,Metered Electricity Generation,202107,2021 July,-,All time periods,150,Renewable Hydro,Megawatt hours,10699.814
+MEG02C01,Metered Electricity Generation,202107,2021 July,-,All time periods,160,Oil,Megawatt hours,125839.979
+MEG02C01,Metered Electricity Generation,202107,2021 July,-,All time periods,170,Solar,Megawatt hours,
+MEG02C01,Metered Electricity Generation,202107,2021 July,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,22888.134
+MEG02C01,Metered Electricity Generation,202107,2021 July,-,All time periods,190,Waste,Megawatt hours,49616.1816
+MEG02C01,Metered Electricity Generation,202107,2021 July,-,All time periods,200,Wind,Megawatt hours,317263.9285
+MEG02C01,Metered Electricity Generation,202107,2021 July,-,All time periods,210,Other Non-Renewable,Megawatt hours,3048.869
+MEG02C01,Metered Electricity Generation,202107,2021 July,-,All time periods,220,Other Renewable,Megawatt hours,15719.7261
+MEG02C01,Metered Electricity Generation,202107,2021 July,-,All time periods,-,Net Generation,Megawatt hours,2111475.553
+MEG02C01,Metered Electricity Generation,202108,2021 August,-,All time periods,100,Battery Storage,Megawatt hours,3.489
+MEG02C01,Metered Electricity Generation,202108,2021 August,-,All time periods,110,Biomass/Peat,Megawatt hours,48965.38
+MEG02C01,Metered Electricity Generation,202108,2021 August,-,All time periods,120,Coal,Megawatt hours,248908.44
+MEG02C01,Metered Electricity Generation,202108,2021 August,-,All time periods,130,Distillate,Megawatt hours,2578.09
+MEG02C01,Metered Electricity Generation,202108,2021 August,-,All time periods,140,Gas,Megawatt hours,1319421.305
+MEG02C01,Metered Electricity Generation,202108,2021 August,-,All time periods,150,Renewable Hydro,Megawatt hours,36865.9033
+MEG02C01,Metered Electricity Generation,202108,2021 August,-,All time periods,160,Oil,Megawatt hours,42069.251
+MEG02C01,Metered Electricity Generation,202108,2021 August,-,All time periods,170,Solar,Megawatt hours,
+MEG02C01,Metered Electricity Generation,202108,2021 August,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,26244.268
+MEG02C01,Metered Electricity Generation,202108,2021 August,-,All time periods,190,Waste,Megawatt hours,56392.3924
+MEG02C01,Metered Electricity Generation,202108,2021 August,-,All time periods,200,Wind,Megawatt hours,569234.2573
+MEG02C01,Metered Electricity Generation,202108,2021 August,-,All time periods,210,Other Non-Renewable,Megawatt hours,3033.415
+MEG02C01,Metered Electricity Generation,202108,2021 August,-,All time periods,220,Other Renewable,Megawatt hours,18536.2668
+MEG02C01,Metered Electricity Generation,202108,2021 August,-,All time periods,-,Net Generation,Megawatt hours,2372252.458
+MEG02C01,Metered Electricity Generation,202109,2021 September,-,All time periods,100,Battery Storage,Megawatt hours,4.055
+MEG02C01,Metered Electricity Generation,202109,2021 September,-,All time periods,110,Biomass/Peat,Megawatt hours,71448.19
+MEG02C01,Metered Electricity Generation,202109,2021 September,-,All time periods,120,Coal,Megawatt hours,273773.5
+MEG02C01,Metered Electricity Generation,202109,2021 September,-,All time periods,130,Distillate,Megawatt hours,23649.411
+MEG02C01,Metered Electricity Generation,202109,2021 September,-,All time periods,140,Gas,Megawatt hours,1204193.136
+MEG02C01,Metered Electricity Generation,202109,2021 September,-,All time periods,150,Renewable Hydro,Megawatt hours,19083.9078
+MEG02C01,Metered Electricity Generation,202109,2021 September,-,All time periods,160,Oil,Megawatt hours,148776.256
+MEG02C01,Metered Electricity Generation,202109,2021 September,-,All time periods,170,Solar,Megawatt hours,
+MEG02C01,Metered Electricity Generation,202109,2021 September,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,23399.316
+MEG02C01,Metered Electricity Generation,202109,2021 September,-,All time periods,190,Waste,Megawatt hours,52325.6708
+MEG02C01,Metered Electricity Generation,202109,2021 September,-,All time periods,200,Wind,Megawatt hours,540086.4528
+MEG02C01,Metered Electricity Generation,202109,2021 September,-,All time periods,210,Other Non-Renewable,Megawatt hours,2974.5881
+MEG02C01,Metered Electricity Generation,202109,2021 September,-,All time periods,220,Other Renewable,Megawatt hours,17106.6064
+MEG02C01,Metered Electricity Generation,202109,2021 September,-,All time periods,-,Net Generation,Megawatt hours,2376821.09
+MEG02C01,Metered Electricity Generation,202110,2021 October,-,All time periods,100,Battery Storage,Megawatt hours,73.625
+MEG02C01,Metered Electricity Generation,202110,2021 October,-,All time periods,110,Biomass/Peat,Megawatt hours,54622.01
+MEG02C01,Metered Electricity Generation,202110,2021 October,-,All time periods,120,Coal,Megawatt hours,229457.19
+MEG02C01,Metered Electricity Generation,202110,2021 October,-,All time periods,130,Distillate,Megawatt hours,13439.635
+MEG02C01,Metered Electricity Generation,202110,2021 October,-,All time periods,140,Gas,Megawatt hours,1018705.007
+MEG02C01,Metered Electricity Generation,202110,2021 October,-,All time periods,150,Renewable Hydro,Megawatt hours,69626.2529
+MEG02C01,Metered Electricity Generation,202110,2021 October,-,All time periods,160,Oil,Megawatt hours,170464.106
+MEG02C01,Metered Electricity Generation,202110,2021 October,-,All time periods,170,Solar,Megawatt hours,
+MEG02C01,Metered Electricity Generation,202110,2021 October,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,24171.581
+MEG02C01,Metered Electricity Generation,202110,2021 October,-,All time periods,190,Waste,Megawatt hours,51574.9695
+MEG02C01,Metered Electricity Generation,202110,2021 October,-,All time periods,200,Wind,Megawatt hours,961003.7109
+MEG02C01,Metered Electricity Generation,202110,2021 October,-,All time periods,210,Other Non-Renewable,Megawatt hours,2976.89
+MEG02C01,Metered Electricity Generation,202110,2021 October,-,All time periods,220,Other Renewable,Megawatt hours,14661.2521
+MEG02C01,Metered Electricity Generation,202110,2021 October,-,All time periods,-,Net Generation,Megawatt hours,2610776.229
+MEG02C01,Metered Electricity Generation,202111,2021 November,-,All time periods,100,Battery Storage,Megawatt hours,15.127
+MEG02C01,Metered Electricity Generation,202111,2021 November,-,All time periods,110,Biomass/Peat,Megawatt hours,58990.97
+MEG02C01,Metered Electricity Generation,202111,2021 November,-,All time periods,120,Coal,Megawatt hours,310853.72
+MEG02C01,Metered Electricity Generation,202111,2021 November,-,All time periods,130,Distillate,Megawatt hours,9688.353
+MEG02C01,Metered Electricity Generation,202111,2021 November,-,All time periods,140,Gas,Megawatt hours,1144131.906
+MEG02C01,Metered Electricity Generation,202111,2021 November,-,All time periods,150,Renewable Hydro,Megawatt hours,71495.0522
+MEG02C01,Metered Electricity Generation,202111,2021 November,-,All time periods,160,Oil,Megawatt hours,161426.016
+MEG02C01,Metered Electricity Generation,202111,2021 November,-,All time periods,170,Solar,Megawatt hours,
+MEG02C01,Metered Electricity Generation,202111,2021 November,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,24075.871
+MEG02C01,Metered Electricity Generation,202111,2021 November,-,All time periods,190,Waste,Megawatt hours,51201.5996
+MEG02C01,Metered Electricity Generation,202111,2021 November,-,All time periods,200,Wind,Megawatt hours,965880.2445
+MEG02C01,Metered Electricity Generation,202111,2021 November,-,All time periods,210,Other Non-Renewable,Megawatt hours,2796.4884
+MEG02C01,Metered Electricity Generation,202111,2021 November,-,All time periods,220,Other Renewable,Megawatt hours,17772.6451
+MEG02C01,Metered Electricity Generation,202111,2021 November,-,All time periods,-,Net Generation,Megawatt hours,2818327.993
+MEG02C01,Metered Electricity Generation,202112,2021 December,-,All time periods,100,Battery Storage,Megawatt hours,67.991
+MEG02C01,Metered Electricity Generation,202112,2021 December,-,All time periods,110,Biomass/Peat,Megawatt hours,69364.61
+MEG02C01,Metered Electricity Generation,202112,2021 December,-,All time periods,120,Coal,Megawatt hours,321131.4
+MEG02C01,Metered Electricity Generation,202112,2021 December,-,All time periods,130,Distillate,Megawatt hours,20921.73
+MEG02C01,Metered Electricity Generation,202112,2021 December,-,All time periods,140,Gas,Megawatt hours,1075864.341
+MEG02C01,Metered Electricity Generation,202112,2021 December,-,All time periods,150,Renewable Hydro,Megawatt hours,96684.7134
+MEG02C01,Metered Electricity Generation,202112,2021 December,-,All time periods,160,Oil,Megawatt hours,138460.602
+MEG02C01,Metered Electricity Generation,202112,2021 December,-,All time periods,170,Solar,Megawatt hours,
+MEG02C01,Metered Electricity Generation,202112,2021 December,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,26228.831
+MEG02C01,Metered Electricity Generation,202112,2021 December,-,All time periods,190,Waste,Megawatt hours,56475.4248
+MEG02C01,Metered Electricity Generation,202112,2021 December,-,All time periods,200,Wind,Megawatt hours,1268798.25
+MEG02C01,Metered Electricity Generation,202112,2021 December,-,All time periods,210,Other Non-Renewable,Megawatt hours,2893.578
+MEG02C01,Metered Electricity Generation,202112,2021 December,-,All time periods,220,Other Renewable,Megawatt hours,16050.3819
+MEG02C01,Metered Electricity Generation,202112,2021 December,-,All time periods,-,Net Generation,Megawatt hours,3092941.853
+MEG02C01,Metered Electricity Generation,202201,2022 January,-,All time periods,100,Battery Storage,Megawatt hours,85.191
+MEG02C01,Metered Electricity Generation,202201,2022 January,-,All time periods,110,Biomass/Peat,Megawatt hours,71264.04
+MEG02C01,Metered Electricity Generation,202201,2022 January,-,All time periods,120,Coal,Megawatt hours,309338.49
+MEG02C01,Metered Electricity Generation,202201,2022 January,-,All time periods,130,Distillate,Megawatt hours,3318.941
+MEG02C01,Metered Electricity Generation,202201,2022 January,-,All time periods,140,Gas,Megawatt hours,1307987.505
+MEG02C01,Metered Electricity Generation,202201,2022 January,-,All time periods,150,Renewable Hydro,Megawatt hours,95787.3415
+MEG02C01,Metered Electricity Generation,202201,2022 January,-,All time periods,160,Oil,Megawatt hours,129559.679
+MEG02C01,Metered Electricity Generation,202201,2022 January,-,All time periods,170,Solar,Megawatt hours,
+MEG02C01,Metered Electricity Generation,202201,2022 January,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,25070.443
+MEG02C01,Metered Electricity Generation,202201,2022 January,-,All time periods,190,Waste,Megawatt hours,52650.2398
+MEG02C01,Metered Electricity Generation,202201,2022 January,-,All time periods,200,Wind,Megawatt hours,1023024.582
+MEG02C01,Metered Electricity Generation,202201,2022 January,-,All time periods,210,Other Non-Renewable,Megawatt hours,2758.92
+MEG02C01,Metered Electricity Generation,202201,2022 January,-,All time periods,220,Other Renewable,Megawatt hours,13899.2668
+MEG02C01,Metered Electricity Generation,202201,2022 January,-,All time periods,-,Net Generation,Megawatt hours,3034744.639
+MEG02C01,Metered Electricity Generation,202202,2022 February,-,All time periods,100,Battery Storage,Megawatt hours,115.049
+MEG02C01,Metered Electricity Generation,202202,2022 February,-,All time periods,110,Biomass/Peat,Megawatt hours,56395.84
+MEG02C01,Metered Electricity Generation,202202,2022 February,-,All time periods,120,Coal,Megawatt hours,243395.16
+MEG02C01,Metered Electricity Generation,202202,2022 February,-,All time periods,130,Distillate,Megawatt hours,820.54
+MEG02C01,Metered Electricity Generation,202202,2022 February,-,All time periods,140,Gas,Megawatt hours,784246.9936
+MEG02C01,Metered Electricity Generation,202202,2022 February,-,All time periods,150,Renewable Hydro,Megawatt hours,97392.1835
+MEG02C01,Metered Electricity Generation,202202,2022 February,-,All time periods,160,Oil,Megawatt hours,6431.966
+MEG02C01,Metered Electricity Generation,202202,2022 February,-,All time periods,170,Solar,Megawatt hours,
+MEG02C01,Metered Electricity Generation,202202,2022 February,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,25135.553
+MEG02C01,Metered Electricity Generation,202202,2022 February,-,All time periods,190,Waste,Megawatt hours,46109.8089
+MEG02C01,Metered Electricity Generation,202202,2022 February,-,All time periods,200,Wind,Megawatt hours,1549488.292
+MEG02C01,Metered Electricity Generation,202202,2022 February,-,All time periods,210,Other Non-Renewable,Megawatt hours,2398.3835
+MEG02C01,Metered Electricity Generation,202202,2022 February,-,All time periods,220,Other Renewable,Megawatt hours,12230.7813
+MEG02C01,Metered Electricity Generation,202202,2022 February,-,All time periods,-,Net Generation,Megawatt hours,2824160.551
+MEG02C01,Metered Electricity Generation,202203,2022 March,-,All time periods,100,Battery Storage,Megawatt hours,319.116
+MEG02C01,Metered Electricity Generation,202203,2022 March,-,All time periods,110,Biomass/Peat,Megawatt hours,62940.84
+MEG02C01,Metered Electricity Generation,202203,2022 March,-,All time periods,120,Coal,Megawatt hours,278966.66
+MEG02C01,Metered Electricity Generation,202203,2022 March,-,All time periods,130,Distillate,Megawatt hours,12719.706
+MEG02C01,Metered Electricity Generation,202203,2022 March,-,All time periods,140,Gas,Megawatt hours,1127425.418
+MEG02C01,Metered Electricity Generation,202203,2022 March,-,All time periods,150,Renewable Hydro,Megawatt hours,88410.4551
+MEG02C01,Metered Electricity Generation,202203,2022 March,-,All time periods,160,Oil,Megawatt hours,171018.979
+MEG02C01,Metered Electricity Generation,202203,2022 March,-,All time periods,170,Solar,Megawatt hours,
+MEG02C01,Metered Electricity Generation,202203,2022 March,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,25501.788
+MEG02C01,Metered Electricity Generation,202203,2022 March,-,All time periods,190,Waste,Megawatt hours,52610.4814
+MEG02C01,Metered Electricity Generation,202203,2022 March,-,All time periods,200,Wind,Megawatt hours,963955.4436
+MEG02C01,Metered Electricity Generation,202203,2022 March,-,All time periods,210,Other Non-Renewable,Megawatt hours,2289.776
+MEG02C01,Metered Electricity Generation,202203,2022 March,-,All time periods,220,Other Renewable,Megawatt hours,14424.4057
+MEG02C01,Metered Electricity Generation,202203,2022 March,-,All time periods,-,Net Generation,Megawatt hours,2800583.069
+MEG02C01,Metered Electricity Generation,202204,2022 April,-,All time periods,100,Battery Storage,Megawatt hours,224.508
+MEG02C01,Metered Electricity Generation,202204,2022 April,-,All time periods,110,Biomass/Peat,Megawatt hours,49645.75
+MEG02C01,Metered Electricity Generation,202204,2022 April,-,All time periods,120,Coal,Megawatt hours,157463.52
+MEG02C01,Metered Electricity Generation,202204,2022 April,-,All time periods,130,Distillate,Megawatt hours,3209.023
+MEG02C01,Metered Electricity Generation,202204,2022 April,-,All time periods,140,Gas,Megawatt hours,1290096.388
+MEG02C01,Metered Electricity Generation,202204,2022 April,-,All time periods,150,Renewable Hydro,Megawatt hours,31961.4895
+MEG02C01,Metered Electricity Generation,202204,2022 April,-,All time periods,160,Oil,Megawatt hours,56318.489
+MEG02C01,Metered Electricity Generation,202204,2022 April,-,All time periods,170,Solar,Megawatt hours,0
+MEG02C01,Metered Electricity Generation,202204,2022 April,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,21911.336
+MEG02C01,Metered Electricity Generation,202204,2022 April,-,All time periods,190,Waste,Megawatt hours,49971.218
+MEG02C01,Metered Electricity Generation,202204,2022 April,-,All time periods,200,Wind,Megawatt hours,859287.5859
+MEG02C01,Metered Electricity Generation,202204,2022 April,-,All time periods,210,Other Non-Renewable,Megawatt hours,1276.195
+MEG02C01,Metered Electricity Generation,202204,2022 April,-,All time periods,220,Other Renewable,Megawatt hours,13536.1245
+MEG02C01,Metered Electricity Generation,202204,2022 April,-,All time periods,-,Net Generation,Megawatt hours,2534901.627
+MEG02C01,Metered Electricity Generation,202205,2022 May,-,All time periods,100,Battery Storage,Megawatt hours,197.617
+MEG02C01,Metered Electricity Generation,202205,2022 May,-,All time periods,110,Biomass/Peat,Megawatt hours,57554.76
+MEG02C01,Metered Electricity Generation,202205,2022 May,-,All time periods,120,Coal,Megawatt hours,125922.62
+MEG02C01,Metered Electricity Generation,202205,2022 May,-,All time periods,130,Distillate,Megawatt hours,377.362
+MEG02C01,Metered Electricity Generation,202205,2022 May,-,All time periods,140,Gas,Megawatt hours,1333110.378
+MEG02C01,Metered Electricity Generation,202205,2022 May,-,All time periods,150,Renewable Hydro,Megawatt hours,20924.4411
+MEG02C01,Metered Electricity Generation,202205,2022 May,-,All time periods,160,Oil,Megawatt hours,42445.275
+MEG02C01,Metered Electricity Generation,202205,2022 May,-,All time periods,170,Solar,Megawatt hours,0.967
+MEG02C01,Metered Electricity Generation,202205,2022 May,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,8654.205
+MEG02C01,Metered Electricity Generation,202205,2022 May,-,All time periods,190,Waste,Megawatt hours,53021.3579
+MEG02C01,Metered Electricity Generation,202205,2022 May,-,All time periods,200,Wind,Megawatt hours,869679.3422
+MEG02C01,Metered Electricity Generation,202205,2022 May,-,All time periods,210,Other Non-Renewable,Megawatt hours,1328.5181
+MEG02C01,Metered Electricity Generation,202205,2022 May,-,All time periods,220,Other Renewable,Megawatt hours,14385.2011
+MEG02C01,Metered Electricity Generation,202205,2022 May,-,All time periods,-,Net Generation,Megawatt hours,2527602.044
+MEG02C01,Metered Electricity Generation,202206,2022 June,-,All time periods,100,Battery Storage,Megawatt hours,84.611
+MEG02C01,Metered Electricity Generation,202206,2022 June,-,All time periods,110,Biomass/Peat,Megawatt hours,63889.56
+MEG02C01,Metered Electricity Generation,202206,2022 June,-,All time periods,120,Coal,Megawatt hours,128407.99
+MEG02C01,Metered Electricity Generation,202206,2022 June,-,All time periods,130,Distillate,Megawatt hours,1136.954
+MEG02C01,Metered Electricity Generation,202206,2022 June,-,All time periods,140,Gas,Megawatt hours,1389156.167
+MEG02C01,Metered Electricity Generation,202206,2022 June,-,All time periods,150,Renewable Hydro,Megawatt hours,14672.4978
+MEG02C01,Metered Electricity Generation,202206,2022 June,-,All time periods,160,Oil,Megawatt hours,39774.455
+MEG02C01,Metered Electricity Generation,202206,2022 June,-,All time periods,170,Solar,Megawatt hours,1323.0718
+MEG02C01,Metered Electricity Generation,202206,2022 June,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,0.05
+MEG02C01,Metered Electricity Generation,202206,2022 June,-,All time periods,190,Waste,Megawatt hours,27273.8335
+MEG02C01,Metered Electricity Generation,202206,2022 June,-,All time periods,200,Wind,Megawatt hours,741540.222
+MEG02C01,Metered Electricity Generation,202206,2022 June,-,All time periods,210,Other Non-Renewable,Megawatt hours,1267.0311
+MEG02C01,Metered Electricity Generation,202206,2022 June,-,All time periods,220,Other Renewable,Megawatt hours,14033.7715
+MEG02C01,Metered Electricity Generation,202206,2022 June,-,All time periods,-,Net Generation,Megawatt hours,2422560.214
+MEG02C01,Metered Electricity Generation,202207,2022 July,-,All time periods,100,Battery Storage,Megawatt hours,334.144
+MEG02C01,Metered Electricity Generation,202207,2022 July,-,All time periods,110,Biomass/Peat,Megawatt hours,14566.21
+MEG02C01,Metered Electricity Generation,202207,2022 July,-,All time periods,120,Coal,Megawatt hours,292014.89
+MEG02C01,Metered Electricity Generation,202207,2022 July,-,All time periods,130,Distillate,Megawatt hours,6656.418
+MEG02C01,Metered Electricity Generation,202207,2022 July,-,All time periods,140,Gas,Megawatt hours,1555944.807
+MEG02C01,Metered Electricity Generation,202207,2022 July,-,All time periods,150,Renewable Hydro,Megawatt hours,17935.2535
+MEG02C01,Metered Electricity Generation,202207,2022 July,-,All time periods,160,Oil,Megawatt hours,4309.975
+MEG02C01,Metered Electricity Generation,202207,2022 July,-,All time periods,170,Solar,Megawatt hours,1833.9752
+MEG02C01,Metered Electricity Generation,202207,2022 July,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,17545.474
+MEG02C01,Metered Electricity Generation,202207,2022 July,-,All time periods,190,Waste,Megawatt hours,56484.9338
+MEG02C01,Metered Electricity Generation,202207,2022 July,-,All time periods,200,Wind,Megawatt hours,527659.4277
+MEG02C01,Metered Electricity Generation,202207,2022 July,-,All time periods,210,Other Non-Renewable,Megawatt hours,1296.4906
+MEG02C01,Metered Electricity Generation,202207,2022 July,-,All time periods,220,Other Renewable,Megawatt hours,15044.018
+MEG02C01,Metered Electricity Generation,202207,2022 July,-,All time periods,-,Net Generation,Megawatt hours,2511626.017
+MEG02C01,Metered Electricity Generation,202208,2022 August,-,All time periods,100,Battery Storage,Megawatt hours,366.306
+MEG02C01,Metered Electricity Generation,202208,2022 August,-,All time periods,110,Biomass/Peat,Megawatt hours,46979
+MEG02C01,Metered Electricity Generation,202208,2022 August,-,All time periods,120,Coal,Megawatt hours,256099.49
+MEG02C01,Metered Electricity Generation,202208,2022 August,-,All time periods,130,Distillate,Megawatt hours,28937.981
+MEG02C01,Metered Electricity Generation,202208,2022 August,-,All time periods,140,Gas,Megawatt hours,1636187.185
+MEG02C01,Metered Electricity Generation,202208,2022 August,-,All time periods,150,Renewable Hydro,Megawatt hours,6593.5166
+MEG02C01,Metered Electricity Generation,202208,2022 August,-,All time periods,160,Oil,Megawatt hours,0
+MEG02C01,Metered Electricity Generation,202208,2022 August,-,All time periods,170,Solar,Megawatt hours,3307.3864
+MEG02C01,Metered Electricity Generation,202208,2022 August,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,21664.225
+MEG02C01,Metered Electricity Generation,202208,2022 August,-,All time periods,190,Waste,Megawatt hours,53586.3803
+MEG02C01,Metered Electricity Generation,202208,2022 August,-,All time periods,200,Wind,Megawatt hours,521486.3946
+MEG02C01,Metered Electricity Generation,202208,2022 August,-,All time periods,210,Other Non-Renewable,Megawatt hours,1297.3258
+MEG02C01,Metered Electricity Generation,202208,2022 August,-,All time periods,220,Other Renewable,Megawatt hours,15232.2552
+MEG02C01,Metered Electricity Generation,202208,2022 August,-,All time periods,-,Net Generation,Megawatt hours,2591737.446
+MEG02C01,Metered Electricity Generation,202209,2022 September,-,All time periods,100,Battery Storage,Megawatt hours,171.994
+MEG02C01,Metered Electricity Generation,202209,2022 September,-,All time periods,110,Biomass/Peat,Megawatt hours,65484.91
+MEG02C01,Metered Electricity Generation,202209,2022 September,-,All time periods,120,Coal,Megawatt hours,284269.65
+MEG02C01,Metered Electricity Generation,202209,2022 September,-,All time periods,130,Distillate,Megawatt hours,6935.006
+MEG02C01,Metered Electricity Generation,202209,2022 September,-,All time periods,140,Gas,Megawatt hours,1346104.13
+MEG02C01,Metered Electricity Generation,202209,2022 September,-,All time periods,150,Renewable Hydro,Megawatt hours,24415.6113
+MEG02C01,Metered Electricity Generation,202209,2022 September,-,All time periods,160,Oil,Megawatt hours,28949.753
+MEG02C01,Metered Electricity Generation,202209,2022 September,-,All time periods,170,Solar,Megawatt hours,4452.6333
+MEG02C01,Metered Electricity Generation,202209,2022 September,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,19480.283
+MEG02C01,Metered Electricity Generation,202209,2022 September,-,All time periods,190,Waste,Megawatt hours,54098.5859
+MEG02C01,Metered Electricity Generation,202209,2022 September,-,All time periods,200,Wind,Megawatt hours,654945.6021
+MEG02C01,Metered Electricity Generation,202209,2022 September,-,All time periods,210,Other Non-Renewable,Megawatt hours,1339.335
+MEG02C01,Metered Electricity Generation,202209,2022 September,-,All time periods,220,Other Renewable,Megawatt hours,13944.3917
+MEG02C01,Metered Electricity Generation,202209,2022 September,-,All time periods,-,Net Generation,Megawatt hours,2504591.885
+MEG02C01,Metered Electricity Generation,202210,2022 October,-,All time periods,100,Battery Storage,Megawatt hours,237.667
+MEG02C01,Metered Electricity Generation,202210,2022 October,-,All time periods,110,Biomass/Peat,Megawatt hours,51665.33
+MEG02C01,Metered Electricity Generation,202210,2022 October,-,All time periods,120,Coal,Megawatt hours,108609.66
+MEG02C01,Metered Electricity Generation,202210,2022 October,-,All time periods,130,Distillate,Megawatt hours,1271.088
+MEG02C01,Metered Electricity Generation,202210,2022 October,-,All time periods,140,Gas,Megawatt hours,1056745.622
+MEG02C01,Metered Electricity Generation,202210,2022 October,-,All time periods,150,Renewable Hydro,Megawatt hours,93750.8317
+MEG02C01,Metered Electricity Generation,202210,2022 October,-,All time periods,160,Oil,Megawatt hours,52142.809
+MEG02C01,Metered Electricity Generation,202210,2022 October,-,All time periods,170,Solar,Megawatt hours,3631.2524
+MEG02C01,Metered Electricity Generation,202210,2022 October,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,24635.795
+MEG02C01,Metered Electricity Generation,202210,2022 October,-,All time periods,190,Waste,Megawatt hours,44836.4437
+MEG02C01,Metered Electricity Generation,202210,2022 October,-,All time periods,200,Wind,Megawatt hours,1262786.391
+MEG02C01,Metered Electricity Generation,202210,2022 October,-,All time periods,210,Other Non-Renewable,Megawatt hours,1356.3455
+MEG02C01,Metered Electricity Generation,202210,2022 October,-,All time periods,220,Other Renewable,Megawatt hours,12495.3013
+MEG02C01,Metered Electricity Generation,202210,2022 October,-,All time periods,-,Net Generation,Megawatt hours,2714164.537
+MEG02C01,Metered Electricity Generation,202211,2022 November,-,All time periods,100,Battery Storage,Megawatt hours,326.477
+MEG02C01,Metered Electricity Generation,202211,2022 November,-,All time periods,110,Biomass/Peat,Megawatt hours,53793.14
+MEG02C01,Metered Electricity Generation,202211,2022 November,-,All time periods,120,Coal,Megawatt hours,109204.58
+MEG02C01,Metered Electricity Generation,202211,2022 November,-,All time periods,130,Distillate,Megawatt hours,3016.626
+MEG02C01,Metered Electricity Generation,202211,2022 November,-,All time periods,140,Gas,Megawatt hours,1132252.63
+MEG02C01,Metered Electricity Generation,202211,2022 November,-,All time periods,150,Renewable Hydro,Megawatt hours,121025.8313
+MEG02C01,Metered Electricity Generation,202211,2022 November,-,All time periods,160,Oil,Megawatt hours,27219.823
+MEG02C01,Metered Electricity Generation,202211,2022 November,-,All time periods,170,Solar,Megawatt hours,3024.2198
+MEG02C01,Metered Electricity Generation,202211,2022 November,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,27424.327
+MEG02C01,Metered Electricity Generation,202211,2022 November,-,All time periods,190,Waste,Megawatt hours,48719.8028
+MEG02C01,Metered Electricity Generation,202211,2022 November,-,All time periods,200,Wind,Megawatt hours,1349075.224
+MEG02C01,Metered Electricity Generation,202211,2022 November,-,All time periods,210,Other Non-Renewable,Megawatt hours,1253.9462
+MEG02C01,Metered Electricity Generation,202211,2022 November,-,All time periods,220,Other Renewable,Megawatt hours,13695.2878
+MEG02C01,Metered Electricity Generation,202211,2022 November,-,All time periods,-,Net Generation,Megawatt hours,2890031.915
+MEG02C01,Metered Electricity Generation,202212,2022 December,-,All time periods,100,Battery Storage,Megawatt hours,317.136
+MEG02C01,Metered Electricity Generation,202212,2022 December,-,All time periods,110,Biomass/Peat,Megawatt hours,56028.58
+MEG02C01,Metered Electricity Generation,202212,2022 December,-,All time periods,120,Coal,Megawatt hours,226387.83
+MEG02C01,Metered Electricity Generation,202212,2022 December,-,All time periods,130,Distillate,Megawatt hours,17841.871
+MEG02C01,Metered Electricity Generation,202212,2022 December,-,All time periods,140,Gas,Megawatt hours,1404173.008
+MEG02C01,Metered Electricity Generation,202212,2022 December,-,All time periods,150,Renewable Hydro,Megawatt hours,85936.7557
+MEG02C01,Metered Electricity Generation,202212,2022 December,-,All time periods,160,Oil,Megawatt hours,75677.074
+MEG02C01,Metered Electricity Generation,202212,2022 December,-,All time periods,170,Solar,Megawatt hours,2546.2084
+MEG02C01,Metered Electricity Generation,202212,2022 December,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,26952.962
+MEG02C01,Metered Electricity Generation,202212,2022 December,-,All time periods,190,Waste,Megawatt hours,51238.6607
+MEG02C01,Metered Electricity Generation,202212,2022 December,-,All time periods,200,Wind,Megawatt hours,1047832.244
+MEG02C01,Metered Electricity Generation,202212,2022 December,-,All time periods,210,Other Non-Renewable,Megawatt hours,1648.0236
+MEG02C01,Metered Electricity Generation,202212,2022 December,-,All time periods,220,Other Renewable,Megawatt hours,14683.1316
+MEG02C01,Metered Electricity Generation,202212,2022 December,-,All time periods,-,Net Generation,Megawatt hours,3011263.485
+MEG02C01,Metered Electricity Generation,202301,2023 January,-,All time periods,100,Battery Storage,Megawatt hours,311.97
+MEG02C01,Metered Electricity Generation,202301,2023 January,-,All time periods,110,Biomass/Peat,Megawatt hours,38932.63
+MEG02C01,Metered Electricity Generation,202301,2023 January,-,All time periods,120,Coal,Megawatt hours,147130.76
+MEG02C01,Metered Electricity Generation,202301,2023 January,-,All time periods,130,Distillate,Megawatt hours,1289.573
+MEG02C01,Metered Electricity Generation,202301,2023 January,-,All time periods,140,Gas,Megawatt hours,1237899.214
+MEG02C01,Metered Electricity Generation,202301,2023 January,-,All time periods,150,Renewable Hydro,Megawatt hours,120909.915
+MEG02C01,Metered Electricity Generation,202301,2023 January,-,All time periods,160,Oil,Megawatt hours,9261.902
+MEG02C01,Metered Electricity Generation,202301,2023 January,-,All time periods,170,Solar,Megawatt hours,4139.5107
+MEG02C01,Metered Electricity Generation,202301,2023 January,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,24456.531
+MEG02C01,Metered Electricity Generation,202301,2023 January,-,All time periods,190,Waste,Megawatt hours,53347.3807
+MEG02C01,Metered Electricity Generation,202301,2023 January,-,All time periods,200,Wind,Megawatt hours,1226818.533
+MEG02C01,Metered Electricity Generation,202301,2023 January,-,All time periods,210,Other Non-Renewable,Megawatt hours,1281.025
+MEG02C01,Metered Electricity Generation,202301,2023 January,-,All time periods,220,Other Renewable,Megawatt hours,13475.8958
+MEG02C01,Metered Electricity Generation,202301,2023 January,-,All time periods,-,Net Generation,Megawatt hours,2879254.841
+MEG02C01,Metered Electricity Generation,202302,2023 February,-,All time periods,100,Battery Storage,Megawatt hours,334.865
+MEG02C01,Metered Electricity Generation,202302,2023 February,-,All time periods,110,Biomass/Peat,Megawatt hours,40168.38
+MEG02C01,Metered Electricity Generation,202302,2023 February,-,All time periods,120,Coal,Megawatt hours,81292
+MEG02C01,Metered Electricity Generation,202302,2023 February,-,All time periods,130,Distillate,Megawatt hours,434.932
+MEG02C01,Metered Electricity Generation,202302,2023 February,-,All time periods,140,Gas,Megawatt hours,1154667.354
+MEG02C01,Metered Electricity Generation,202302,2023 February,-,All time periods,150,Renewable Hydro,Megawatt hours,54962.4092
+MEG02C01,Metered Electricity Generation,202302,2023 February,-,All time periods,160,Oil,Megawatt hours,49830.23
+MEG02C01,Metered Electricity Generation,202302,2023 February,-,All time periods,170,Solar,Megawatt hours,10150.2732
+MEG02C01,Metered Electricity Generation,202302,2023 February,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,25205.736
+MEG02C01,Metered Electricity Generation,202302,2023 February,-,All time periods,190,Waste,Megawatt hours,38170.0909
+MEG02C01,Metered Electricity Generation,202302,2023 February,-,All time periods,200,Wind,Megawatt hours,1121320.669
+MEG02C01,Metered Electricity Generation,202302,2023 February,-,All time periods,210,Other Non-Renewable,Megawatt hours,1157.1642
+MEG02C01,Metered Electricity Generation,202302,2023 February,-,All time periods,220,Other Renewable,Megawatt hours,13052.4947
+MEG02C01,Metered Electricity Generation,202302,2023 February,-,All time periods,-,Net Generation,Megawatt hours,2590746.598
+MEG02C01,Metered Electricity Generation,202303,2023 March,-,All time periods,100,Battery Storage,Megawatt hours,582.881
+MEG02C01,Metered Electricity Generation,202303,2023 March,-,All time periods,110,Biomass/Peat,Megawatt hours,56797.43
+MEG02C01,Metered Electricity Generation,202303,2023 March,-,All time periods,120,Coal,Megawatt hours,125702.3
+MEG02C01,Metered Electricity Generation,202303,2023 March,-,All time periods,130,Distillate,Megawatt hours,797.294
+MEG02C01,Metered Electricity Generation,202303,2023 March,-,All time periods,140,Gas,Megawatt hours,1293719.525
+MEG02C01,Metered Electricity Generation,202303,2023 March,-,All time periods,150,Renewable Hydro,Megawatt hours,81582.6613
+MEG02C01,Metered Electricity Generation,202303,2023 March,-,All time periods,160,Oil,Megawatt hours,14810.7
+MEG02C01,Metered Electricity Generation,202303,2023 March,-,All time periods,170,Solar,Megawatt hours,17170.7776
+MEG02C01,Metered Electricity Generation,202303,2023 March,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,26155.277
+MEG02C01,Metered Electricity Generation,202303,2023 March,-,All time periods,190,Waste,Megawatt hours,47352.0548
+MEG02C01,Metered Electricity Generation,202303,2023 March,-,All time periods,200,Wind,Megawatt hours,1139128.575
+MEG02C01,Metered Electricity Generation,202303,2023 March,-,All time periods,210,Other Non-Renewable,Megawatt hours,1273.8854
+MEG02C01,Metered Electricity Generation,202303,2023 March,-,All time periods,220,Other Renewable,Megawatt hours,13944.0006
+MEG02C01,Metered Electricity Generation,202303,2023 March,-,All time periods,-,Net Generation,Megawatt hours,2819017.361
+MEG02C01,Metered Electricity Generation,202304,2023 April,-,All time periods,100,Battery Storage,Megawatt hours,634.252
+MEG02C01,Metered Electricity Generation,202304,2023 April,-,All time periods,110,Biomass/Peat,Megawatt hours,50997.64
+MEG02C01,Metered Electricity Generation,202304,2023 April,-,All time periods,120,Coal,Megawatt hours,88623.73
+MEG02C01,Metered Electricity Generation,202304,2023 April,-,All time periods,130,Distillate,Megawatt hours,635.127
+MEG02C01,Metered Electricity Generation,202304,2023 April,-,All time periods,140,Gas,Megawatt hours,1201111.299
+MEG02C01,Metered Electricity Generation,202304,2023 April,-,All time periods,150,Renewable Hydro,Megawatt hours,85664.2202
+MEG02C01,Metered Electricity Generation,202304,2023 April,-,All time periods,160,Oil,Megawatt hours,0.31
+MEG02C01,Metered Electricity Generation,202304,2023 April,-,All time periods,170,Solar,Megawatt hours,36343.799
+MEG02C01,Metered Electricity Generation,202304,2023 April,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,23635.449
+MEG02C01,Metered Electricity Generation,202304,2023 April,-,All time periods,190,Waste,Megawatt hours,46855.1706
+MEG02C01,Metered Electricity Generation,202304,2023 April,-,All time periods,200,Wind,Megawatt hours,944095.1742
+MEG02C01,Metered Electricity Generation,202304,2023 April,-,All time periods,210,Other Non-Renewable,Megawatt hours,1152.815
+MEG02C01,Metered Electricity Generation,202304,2023 April,-,All time periods,220,Other Renewable,Megawatt hours,14359.0876
+MEG02C01,Metered Electricity Generation,202304,2023 April,-,All time periods,-,Net Generation,Megawatt hours,2494108.074
+MEG02C01,Metered Electricity Generation,202305,2023 May,-,All time periods,100,Battery Storage,Megawatt hours,544.265
+MEG02C01,Metered Electricity Generation,202305,2023 May,-,All time periods,110,Biomass/Peat,Megawatt hours,57293.98
+MEG02C01,Metered Electricity Generation,202305,2023 May,-,All time periods,120,Coal,Megawatt hours,82746.39
+MEG02C01,Metered Electricity Generation,202305,2023 May,-,All time periods,130,Distillate,Megawatt hours,119.072
+MEG02C01,Metered Electricity Generation,202305,2023 May,-,All time periods,140,Gas,Megawatt hours,1421462.298
+MEG02C01,Metered Electricity Generation,202305,2023 May,-,All time periods,150,Renewable Hydro,Megawatt hours,40225.2551
+MEG02C01,Metered Electricity Generation,202305,2023 May,-,All time periods,160,Oil,Megawatt hours,0
+MEG02C01,Metered Electricity Generation,202305,2023 May,-,All time periods,170,Solar,Megawatt hours,65689.5753
+MEG02C01,Metered Electricity Generation,202305,2023 May,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,4846.75
+MEG02C01,Metered Electricity Generation,202305,2023 May,-,All time periods,190,Waste,Megawatt hours,55513.7565
+MEG02C01,Metered Electricity Generation,202305,2023 May,-,All time periods,200,Wind,Megawatt hours,579222.867
+MEG02C01,Metered Electricity Generation,202305,2023 May,-,All time periods,210,Other Non-Renewable,Megawatt hours,1217.4383
+MEG02C01,Metered Electricity Generation,202305,2023 May,-,All time periods,220,Other Renewable,Megawatt hours,14461.5456
+MEG02C01,Metered Electricity Generation,202305,2023 May,-,All time periods,-,Net Generation,Megawatt hours,2323343.192
+MEG02C01,Metered Electricity Generation,202306,2023 June,-,All time periods,100,Battery Storage,Megawatt hours,470.964
+MEG02C01,Metered Electricity Generation,202306,2023 June,-,All time periods,110,Biomass/Peat,Megawatt hours,53839.764
+MEG02C01,Metered Electricity Generation,202306,2023 June,-,All time periods,120,Coal,Megawatt hours,99594.16
+MEG02C01,Metered Electricity Generation,202306,2023 June,-,All time periods,130,Distillate,Megawatt hours,3091.232
+MEG02C01,Metered Electricity Generation,202306,2023 June,-,All time periods,140,Gas,Megawatt hours,1358163.338
+MEG02C01,Metered Electricity Generation,202306,2023 June,-,All time periods,150,Renewable Hydro,Megawatt hours,7704.4462
+MEG02C01,Metered Electricity Generation,202306,2023 June,-,All time periods,160,Oil,Megawatt hours,0
+MEG02C01,Metered Electricity Generation,202306,2023 June,-,All time periods,170,Solar,Megawatt hours,68119.5313
+MEG02C01,Metered Electricity Generation,202306,2023 June,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,24876.571
+MEG02C01,Metered Electricity Generation,202306,2023 June,-,All time periods,190,Waste,Megawatt hours,43810.4719
+MEG02C01,Metered Electricity Generation,202306,2023 June,-,All time periods,200,Wind,Megawatt hours,552350.3319
+MEG02C01,Metered Electricity Generation,202306,2023 June,-,All time periods,210,Other Non-Renewable,Megawatt hours,1243.8559
+MEG02C01,Metered Electricity Generation,202306,2023 June,-,All time periods,220,Other Renewable,Megawatt hours,13875.0112
+MEG02C01,Metered Electricity Generation,202306,2023 June,-,All time periods,-,Net Generation,Megawatt hours,2227139.678
+MEG02C01,Metered Electricity Generation,202307,2023 July,-,All time periods,100,Battery Storage,Megawatt hours,552.156
+MEG02C01,Metered Electricity Generation,202307,2023 July,-,All time periods,110,Biomass/Peat,Megawatt hours,0
+MEG02C01,Metered Electricity Generation,202307,2023 July,-,All time periods,120,Coal,Megawatt hours,86098.99
+MEG02C01,Metered Electricity Generation,202307,2023 July,-,All time periods,130,Distillate,Megawatt hours,159.796
+MEG02C01,Metered Electricity Generation,202307,2023 July,-,All time periods,140,Gas,Megawatt hours,1158527.833
+MEG02C01,Metered Electricity Generation,202307,2023 July,-,All time periods,150,Renewable Hydro,Megawatt hours,59908.0615
+MEG02C01,Metered Electricity Generation,202307,2023 July,-,All time periods,160,Oil,Megawatt hours,0
+MEG02C01,Metered Electricity Generation,202307,2023 July,-,All time periods,170,Solar,Megawatt hours,63630.4012
+MEG02C01,Metered Electricity Generation,202307,2023 July,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,27232.818
+MEG02C01,Metered Electricity Generation,202307,2023 July,-,All time periods,190,Waste,Megawatt hours,37066.9974
+MEG02C01,Metered Electricity Generation,202307,2023 July,-,All time periods,200,Wind,Megawatt hours,887835.5541
+MEG02C01,Metered Electricity Generation,202307,2023 July,-,All time periods,210,Other Non-Renewable,Megawatt hours,1260.214
+MEG02C01,Metered Electricity Generation,202307,2023 July,-,All time periods,220,Other Renewable,Megawatt hours,14248.4981
+MEG02C01,Metered Electricity Generation,202307,2023 July,-,All time periods,-,Net Generation,Megawatt hours,2336521.319
+MEG02C01,Metered Electricity Generation,202308,2023 August,-,All time periods,100,Battery Storage,Megawatt hours,896.22
+MEG02C01,Metered Electricity Generation,202308,2023 August,-,All time periods,110,Biomass/Peat,Megawatt hours,0
+MEG02C01,Metered Electricity Generation,202308,2023 August,-,All time periods,120,Coal,Megawatt hours,75746.77
+MEG02C01,Metered Electricity Generation,202308,2023 August,-,All time periods,130,Distillate,Megawatt hours,467.447
+MEG02C01,Metered Electricity Generation,202308,2023 August,-,All time periods,140,Gas,Megawatt hours,1134077.411
+MEG02C01,Metered Electricity Generation,202308,2023 August,-,All time periods,150,Renewable Hydro,Megawatt hours,89005.0992
+MEG02C01,Metered Electricity Generation,202308,2023 August,-,All time periods,160,Oil,Megawatt hours,0
+MEG02C01,Metered Electricity Generation,202308,2023 August,-,All time periods,170,Solar,Megawatt hours,59179.0464
+MEG02C01,Metered Electricity Generation,202308,2023 August,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,26584.911
+MEG02C01,Metered Electricity Generation,202308,2023 August,-,All time periods,190,Waste,Megawatt hours,56846.8646
+MEG02C01,Metered Electricity Generation,202308,2023 August,-,All time periods,200,Wind,Megawatt hours,895663.1614
+MEG02C01,Metered Electricity Generation,202308,2023 August,-,All time periods,210,Other Non-Renewable,Megawatt hours,1230.442
+MEG02C01,Metered Electricity Generation,202308,2023 August,-,All time periods,220,Other Renewable,Megawatt hours,13637.2132
+MEG02C01,Metered Electricity Generation,202308,2023 August,-,All time periods,-,Net Generation,Megawatt hours,2353334.585
+MEG02C01,Metered Electricity Generation,202309,2023 September,-,All time periods,100,Battery Storage,Megawatt hours,314.507
+MEG02C01,Metered Electricity Generation,202309,2023 September,-,All time periods,110,Biomass/Peat,Megawatt hours,8161.97
+MEG02C01,Metered Electricity Generation,202309,2023 September,-,All time periods,120,Coal,Megawatt hours,119761.38
+MEG02C01,Metered Electricity Generation,202309,2023 September,-,All time periods,130,Distillate,Megawatt hours,281.619
+MEG02C01,Metered Electricity Generation,202309,2023 September,-,All time periods,140,Gas,Megawatt hours,1119447.964
+MEG02C01,Metered Electricity Generation,202309,2023 September,-,All time periods,150,Renewable Hydro,Megawatt hours,55324.6409
+MEG02C01,Metered Electricity Generation,202309,2023 September,-,All time periods,160,Oil,Megawatt hours,0
+MEG02C01,Metered Electricity Generation,202309,2023 September,-,All time periods,170,Solar,Megawatt hours,44700.6734
+MEG02C01,Metered Electricity Generation,202309,2023 September,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,26792.994
+MEG02C01,Metered Electricity Generation,202309,2023 September,-,All time periods,190,Waste,Megawatt hours,52546.6469
+MEG02C01,Metered Electricity Generation,202309,2023 September,-,All time periods,200,Wind,Megawatt hours,859627.736
+MEG02C01,Metered Electricity Generation,202309,2023 September,-,All time periods,210,Other Non-Renewable,Megawatt hours,1158.03
+MEG02C01,Metered Electricity Generation,202309,2023 September,-,All time periods,220,Other Renewable,Megawatt hours,13045.6604
+MEG02C01,Metered Electricity Generation,202309,2023 September,-,All time periods,-,Net Generation,Megawatt hours,2301163.822
+MEG02C01,Metered Electricity Generation,202310,2023 October,-,All time periods,100,Battery Storage,Megawatt hours,493.508
+MEG02C01,Metered Electricity Generation,202310,2023 October,-,All time periods,110,Biomass/Peat,Megawatt hours,40056.78
+MEG02C01,Metered Electricity Generation,202310,2023 October,-,All time periods,120,Coal,Megawatt hours,93273.15
+MEG02C01,Metered Electricity Generation,202310,2023 October,-,All time periods,130,Distillate,Megawatt hours,570.205
+MEG02C01,Metered Electricity Generation,202310,2023 October,-,All time periods,140,Gas,Megawatt hours,1132289.864
+MEG02C01,Metered Electricity Generation,202310,2023 October,-,All time periods,150,Renewable Hydro,Megawatt hours,101217.0408
+MEG02C01,Metered Electricity Generation,202310,2023 October,-,All time periods,160,Oil,Megawatt hours,20042.44
+MEG02C01,Metered Electricity Generation,202310,2023 October,-,All time periods,170,Solar,Megawatt hours,36655.6037
+MEG02C01,Metered Electricity Generation,202310,2023 October,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,29433.381
+MEG02C01,Metered Electricity Generation,202310,2023 October,-,All time periods,190,Waste,Megawatt hours,56588.2356
+MEG02C01,Metered Electricity Generation,202310,2023 October,-,All time periods,200,Wind,Megawatt hours,844081.4829
+MEG02C01,Metered Electricity Generation,202310,2023 October,-,All time periods,210,Other Non-Renewable,Megawatt hours,1169.82
+MEG02C01,Metered Electricity Generation,202310,2023 October,-,All time periods,220,Other Renewable,Megawatt hours,14302.3463
+MEG02C01,Metered Electricity Generation,202310,2023 October,-,All time periods,-,Net Generation,Megawatt hours,2370173.857
+MEG02C01,Metered Electricity Generation,202311,2023 November,-,All time periods,100,Battery Storage,Megawatt hours,1034.679
+MEG02C01,Metered Electricity Generation,202311,2023 November,-,All time periods,110,Biomass/Peat,Megawatt hours,39000.73
+MEG02C01,Metered Electricity Generation,202311,2023 November,-,All time periods,120,Coal,Megawatt hours,105821.91
+MEG02C01,Metered Electricity Generation,202311,2023 November,-,All time periods,130,Distillate,Megawatt hours,880.954
+MEG02C01,Metered Electricity Generation,202311,2023 November,-,All time periods,140,Gas,Megawatt hours,1132552.05
+MEG02C01,Metered Electricity Generation,202311,2023 November,-,All time periods,150,Renewable Hydro,Megawatt hours,114791.3473
+MEG02C01,Metered Electricity Generation,202311,2023 November,-,All time periods,160,Oil,Megawatt hours,9938.477
+MEG02C01,Metered Electricity Generation,202311,2023 November,-,All time periods,170,Solar,Megawatt hours,22584.4376
+MEG02C01,Metered Electricity Generation,202311,2023 November,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,28191.714
+MEG02C01,Metered Electricity Generation,202311,2023 November,-,All time periods,190,Waste,Megawatt hours,48876.5298
+MEG02C01,Metered Electricity Generation,202311,2023 November,-,All time periods,200,Wind,Megawatt hours,1147792.719
+MEG02C01,Metered Electricity Generation,202311,2023 November,-,All time periods,210,Other Non-Renewable,Megawatt hours,1083.2352
+MEG02C01,Metered Electricity Generation,202311,2023 November,-,All time periods,220,Other Renewable,Megawatt hours,13860.0031
+MEG02C01,Metered Electricity Generation,202311,2023 November,-,All time periods,-,Net Generation,Megawatt hours,2666408.786
+MEG02C01,Metered Electricity Generation,202312,2023 December,-,All time periods,100,Battery Storage,Megawatt hours,1043.159
+MEG02C01,Metered Electricity Generation,202312,2023 December,-,All time periods,110,Biomass/Peat,Megawatt hours,32243.18
+MEG02C01,Metered Electricity Generation,202312,2023 December,-,All time periods,120,Coal,Megawatt hours,110699.26
+MEG02C01,Metered Electricity Generation,202312,2023 December,-,All time periods,130,Distillate,Megawatt hours,403.388
+MEG02C01,Metered Electricity Generation,202312,2023 December,-,All time periods,140,Gas,Megawatt hours,903479.5063
+MEG02C01,Metered Electricity Generation,202312,2023 December,-,All time periods,150,Renewable Hydro,Megawatt hours,121932.8274
+MEG02C01,Metered Electricity Generation,202312,2023 December,-,All time periods,160,Oil,Megawatt hours,4735.46
+MEG02C01,Metered Electricity Generation,202312,2023 December,-,All time periods,170,Solar,Megawatt hours,10798.1835
+MEG02C01,Metered Electricity Generation,202312,2023 December,-,All time periods,180,Pumped Storage Hydro,Megawatt hours,24192.248
+MEG02C01,Metered Electricity Generation,202312,2023 December,-,All time periods,190,Waste,Megawatt hours,56534.2406
+MEG02C01,Metered Electricity Generation,202312,2023 December,-,All time periods,200,Wind,Megawatt hours,1547436.035
+MEG02C01,Metered Electricity Generation,202312,2023 December,-,All time periods,210,Other Non-Renewable,Megawatt hours,1196.986
+MEG02C01,Metered Electricity Generation,202312,2023 December,-,All time periods,220,Other Renewable,Megawatt hours,14572.9474
+MEG02C01,Metered Electricity Generation,202312,2023 December,-,All time periods,-,Net Generation,Megawatt hours,2829267.421

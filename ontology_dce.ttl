@@ -1,0 +1,286 @@
+@prefix : <http://example.org/dce#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://example.org/dce> .
+
+<http://example.org/dce> rdf:type owl:Ontology ;
+                          owl:imports <http://www.opengis.net/ont/geosparql> ;
+                          rdfs:label "Data Centre Energy in Ireland"@en .
+
+#################################################################
+#    Datatypes
+#################################################################
+
+###  http://www.opengis.net/ont/geosparql#wktLiteral
+<http://www.opengis.net/ont/geosparql#wktLiteral> rdf:type rdfs:Datatype .
+
+
+###  http://www.w3.org/2001/XMLSchema#date
+xsd:date rdf:type rdfs:Datatype .
+
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://example.org/dce#hasFuelSource
+:hasFuelSource rdf:type owl:ObjectProperty ;
+               rdfs:domain :Production ;
+               rdfs:range :FuelSource ;
+               rdfs:label "has fuel source"@en .
+
+
+###  http://example.org/dce#hasItem
+:hasItem rdf:type owl:ObjectProperty ;
+         owl:inverseOf :locatedIn ;
+         rdfs:domain :County ;
+         rdfs:range [ rdf:type owl:Class ;
+                      owl:unionOf ( :DataCentreApplication
+                                    :WindFarm
+                                    :Consumption
+                                  )
+                    ] ;
+         rdfs:label "has item"@en .
+
+
+###  http://example.org/dce#inPeriod
+:inPeriod rdf:type owl:ObjectProperty ;
+          rdfs:domain :EnergyObservation ;
+          rdfs:range :TimePeriod ;
+          rdfs:label "in period"@en .
+
+
+###  http://example.org/dce#locatedIn
+:locatedIn rdf:type owl:ObjectProperty ;
+           rdfs:domain [ rdf:type owl:Class ;
+                         owl:unionOf ( :DataCentreApplication
+                                       :WindFarm
+                                       :Consumption
+                                     )
+                       ] ;
+           rdfs:range :County ;
+           rdfs:label "located in"@en .
+
+
+###  http://example.org/dce#nearTo
+:nearTo rdf:type owl:ObjectProperty ,
+                 owl:SymmetricProperty ;
+        rdfs:domain [ rdf:type owl:Class ;
+                      owl:unionOf ( :DataCentreApplication
+                                    :WindFarm
+                                  )
+                    ] ;
+        rdfs:range [ rdf:type owl:Class ;
+                     owl:unionOf ( :DataCentreApplication
+                                   :WindFarm
+                                 )
+                   ] ;
+        rdfs:label "near to"@en .
+
+
+###  http://example.org/dce#partOf
+:partOf rdf:type owl:ObjectProperty ,
+                 owl:TransitiveProperty ;
+        rdfs:domain :TimePeriod ;
+        rdfs:range :TimePeriod ;
+        rdfs:label "part of"@en .
+
+
+###  http://www.opengis.net/ont/geosparql#hasGeometry
+<http://www.opengis.net/ont/geosparql#hasGeometry> rdf:type owl:ObjectProperty ;
+                                                   rdfs:domain <http://www.opengis.net/ont/geosparql#Feature> ;
+                                                   rdfs:range <http://www.opengis.net/ont/geosparql#Geometry> ;
+                                                   rdfs:label "has geometry"@en .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://example.org/dce#applicationDate
+:applicationDate rdf:type owl:DatatypeProperty ;
+                 rdfs:domain :DataCentreApplication ;
+                 rdfs:range xsd:date ;
+                 rdfs:label "application date"@en .
+
+
+###  http://example.org/dce#connectionDate
+:connectionDate rdf:type owl:DatatypeProperty ;
+                rdfs:domain :WindFarm ;
+                rdfs:range xsd:date ;
+                rdfs:label "connection date"@en .
+
+
+###  http://example.org/dce#decisionDate
+:decisionDate rdf:type owl:DatatypeProperty ;
+              rdfs:domain :DataCentreApplication ;
+              rdfs:range xsd:date ;
+              rdfs:label "decision date"@en .
+
+
+###  http://example.org/dce#decisionStatus
+:decisionStatus rdf:type owl:DatatypeProperty ;
+                rdfs:domain :DataCentreApplication ;
+                rdfs:range xsd:string ;
+                rdfs:label "decision status"@en .
+
+
+###  http://example.org/dce#exportCapacityMW
+:exportCapacityMW rdf:type owl:DatatypeProperty ;
+                  rdfs:domain :WindFarm ;
+                  rdfs:range xsd:float ;
+                  rdfs:label "export capacity (MW)"@en .
+
+
+###  http://example.org/dce#fuelName
+:fuelName rdf:type owl:DatatypeProperty ;
+          rdfs:domain :FuelSource ;
+          rdfs:range xsd:string ;
+          rdfs:label "fuel name"@en .
+
+
+###  http://example.org/dce#name
+:name rdf:type owl:DatatypeProperty ;
+      rdfs:domain :County ;
+      rdfs:range xsd:string ;
+      rdfs:label "name"@en .
+
+
+###  http://example.org/dce#province
+:province rdf:type owl:DatatypeProperty ;
+          rdfs:domain :County ;
+          rdfs:range xsd:string ;
+          rdfs:label "province"@en .
+
+
+###  http://example.org/dce#renewable
+:renewable rdf:type owl:DatatypeProperty ;
+           rdfs:domain :FuelSource ;
+           rdfs:range xsd:boolean ;
+           rdfs:label "renewable"@en .
+
+
+###  http://example.org/dce#sector
+:sector rdf:type owl:DatatypeProperty ;
+        rdfs:domain :Consumption ;
+        rdfs:range xsd:string ;
+        rdfs:label "sector"@en .
+
+
+###  http://example.org/dce#unit
+:unit rdf:type owl:DatatypeProperty ;
+      rdfs:domain :EnergyObservation ;
+      rdfs:range xsd:string ;
+      rdfs:label "unit"@en .
+
+
+###  http://example.org/dce#value
+:value rdf:type owl:DatatypeProperty ;
+       rdfs:domain :EnergyObservation ;
+       rdfs:range xsd:float ;
+       rdfs:label "value"@en .
+
+
+###  http://www.opengis.net/ont/geosparql#asWKT
+<http://www.opengis.net/ont/geosparql#asWKT> rdf:type owl:DatatypeProperty ;
+                                             rdfs:domain <http://www.opengis.net/ont/geosparql#Geometry> ;
+                                             rdfs:range <http://www.opengis.net/ont/geosparql#wktLiteral> ;
+                                             rdfs:label "as WKT"@en .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://example.org/dce#Consumption
+:Consumption rdf:type owl:Class ;
+             rdfs:subClassOf :EnergyObservation ;
+             rdfs:label "Consumption"@en .
+
+
+###  http://example.org/dce#County
+:County rdf:type owl:Class ;
+        rdfs:label "County"@en .
+
+
+###  http://example.org/dce#DataCentreApplication
+:DataCentreApplication rdf:type owl:Class ;
+                       rdfs:subClassOf <http://www.opengis.net/ont/geosparql#Feature> ,
+                                       [ rdf:type owl:Restriction ;
+                                         owl:onProperty :locatedIn ;
+                                         owl:someValuesFrom :County
+                                       ] ;
+                       rdfs:label "Data Centre Application"@en .
+
+
+###  http://example.org/dce#EnergyObservation
+:EnergyObservation rdf:type owl:Class ;
+                   rdfs:subClassOf [ rdf:type owl:Restriction ;
+                                     owl:onProperty :inPeriod ;
+                                     owl:someValuesFrom :TimePeriod
+                                   ] ;
+                   rdfs:label "Energy Observation"@en .
+
+
+###  http://example.org/dce#FuelSource
+:FuelSource rdf:type owl:Class ;
+            rdfs:label "Fuel Source"@en .
+
+
+###  http://example.org/dce#Month
+:Month rdf:type owl:Class ;
+       rdfs:subClassOf :TimePeriod ;
+       rdfs:label "Month"@en .
+
+
+###  http://example.org/dce#Production
+:Production rdf:type owl:Class ;
+            rdfs:subClassOf :EnergyObservation ,
+                            [ rdf:type owl:Restriction ;
+                              owl:onProperty :hasFuelSource ;
+                              owl:someValuesFrom :FuelSource
+                            ] ;
+            rdfs:label "Production"@en .
+
+
+###  http://example.org/dce#Quarter
+:Quarter rdf:type owl:Class ;
+         rdfs:subClassOf :TimePeriod ;
+         rdfs:label "Quarter"@en .
+
+
+###  http://example.org/dce#TimePeriod
+:TimePeriod rdf:type owl:Class ;
+            rdfs:label "Time Period"@en .
+
+
+###  http://example.org/dce#WindFarm
+:WindFarm rdf:type owl:Class ;
+          rdfs:subClassOf <http://www.opengis.net/ont/geosparql#Feature> ;
+          rdfs:label "Wind Farm"@en .
+
+
+###  http://example.org/dce#Year
+:Year rdf:type owl:Class ;
+      rdfs:subClassOf :TimePeriod ;
+      rdfs:label "Year"@en .
+
+
+###  http://www.opengis.net/ont/geosparql#Feature
+<http://www.opengis.net/ont/geosparql#Feature> rdf:type owl:Class ;
+                                               rdfs:subClassOf [ rdf:type owl:Restriction ;
+                                                                 owl:onProperty <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+                                                                 owl:someValuesFrom <http://www.opengis.net/ont/geosparql#Geometry>
+                                                               ] ;
+                                               rdfs:label "Feature"@en .
+
+
+###  http://www.opengis.net/ont/geosparql#Geometry
+<http://www.opengis.net/ont/geosparql#Geometry> rdf:type owl:Class ;
+                                                rdfs:label "Geometry"@en .
+
+
+###  Generated by the OWL API (version 4.5.13) https://github.com/owlcs/owlapi

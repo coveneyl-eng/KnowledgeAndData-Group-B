@@ -1,0 +1,14 @@
+fuel_id,fuel_name,renewable
+wind,Wind,true
+solar,Solar,true
+renewable-hydro,Renewable Hydro,true
+other-renewable,Other Renewable,true
+biomass-peat,Biomass/Peat,false
+waste,Waste,false
+battery-storage,Battery Storage,false
+pumped-storage-hydro,Pumped Storage Hydro,false
+coal,Coal,false
+gas,Gas,false
+oil,Oil,false
+distillate,Distillate,false
+other-non-renewable,Other Non-Renewable,false

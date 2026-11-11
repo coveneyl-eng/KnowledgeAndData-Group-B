@@ -1,0 +1,859 @@
+year_id,county_id,sector_id,sector,value,unit
+2015,clare,all,All sectors,531.0,GWh
+2015,clare,residential,Residential,205.0,GWh
+2015,clare,non-residential,Non-residential,326.0,GWh
+2015,cork,all,All sectors,2812.0,GWh
+2015,cork,residential,Residential,1002.0,GWh
+2015,cork,non-residential,Non-residential,1810.0,GWh
+2015,cavan,all,All sectors,462.0,GWh
+2015,cavan,residential,Residential,138.0,GWh
+2015,cavan,non-residential,Non-residential,324.0,GWh
+2015,carlow,all,All sectors,249.0,GWh
+2015,carlow,residential,Residential,107.0,GWh
+2015,carlow,non-residential,Non-residential,142.0,GWh
+2015,donegal,all,All sectors,606.0,GWh
+2015,donegal,residential,Residential,273.0,GWh
+2015,donegal,non-residential,Non-residential,333.0,GWh
+2015,dublin,all,All sectors,6325.0,GWh
+2015,dublin,residential,Residential,2188.0,GWh
+2015,dublin,non-residential,Non-residential,4137.0,GWh
+2015,galway,all,All sectors,1113.0,GWh
+2015,galway,residential,Residential,475.0,GWh
+2015,galway,non-residential,Non-residential,638.0,GWh
+2015,kildare,all,All sectors,921.0,GWh
+2015,kildare,residential,Residential,372.0,GWh
+2015,kildare,non-residential,Non-residential,549.0,GWh
+2015,kilkenny,all,All sectors,370.0,GWh
+2015,kilkenny,residential,Residential,163.0,GWh
+2015,kilkenny,non-residential,Non-residential,207.0,GWh
+2015,kerry,all,All sectors,688.0,GWh
+2015,kerry,residential,Residential,299.0,GWh
+2015,kerry,non-residential,Non-residential,389.0,GWh
+2015,longford,all,All sectors,210.0,GWh
+2015,longford,residential,Residential,76.0,GWh
+2015,longford,non-residential,Non-residential,134.0,GWh
+2015,louth,all,All sectors,544.0,GWh
+2015,louth,residential,Residential,229.0,GWh
+2015,louth,non-residential,Non-residential,315.0,GWh
+2015,limerick,all,All sectors,1019.0,GWh
+2015,limerick,residential,Residential,362.0,GWh
+2015,limerick,non-residential,Non-residential,657.0,GWh
+2015,leitrim,all,All sectors,125.0,GWh
+2015,leitrim,residential,Residential,64.0,GWh
+2015,leitrim,non-residential,Non-residential,61.0,GWh
+2015,laois,all,All sectors,290.0,GWh
+2015,laois,residential,Residential,132.0,GWh
+2015,laois,non-residential,Non-residential,159.0,GWh
+2015,meath,all,All sectors,625.0,GWh
+2015,meath,residential,Residential,318.0,GWh
+2015,meath,non-residential,Non-residential,308.0,GWh
+2015,monaghan,all,All sectors,332.0,GWh
+2015,monaghan,residential,Residential,113.0,GWh
+2015,monaghan,non-residential,Non-residential,219.0,GWh
+2015,mayo,all,All sectors,584.0,GWh
+2015,mayo,residential,Residential,240.0,GWh
+2015,mayo,non-residential,Non-residential,344.0,GWh
+2015,offaly,all,All sectors,281.0,GWh
+2015,offaly,residential,Residential,125.0,GWh
+2015,offaly,non-residential,Non-residential,156.0,GWh
+2015,roscommon,all,All sectors,232.0,GWh
+2015,roscommon,residential,Residential,100.0,GWh
+2015,roscommon,non-residential,Non-residential,132.0,GWh
+2015,sligo,all,All sectors,303.0,GWh
+2015,sligo,residential,Residential,120.0,GWh
+2015,sligo,non-residential,Non-residential,183.0,GWh
+2015,tipperary,all,All sectors,775.0,GWh
+2015,tipperary,residential,Residential,316.0,GWh
+2015,tipperary,non-residential,Non-residential,459.0,GWh
+2015,waterford,all,All sectors,677.0,GWh
+2015,waterford,residential,Residential,226.0,GWh
+2015,waterford,non-residential,Non-residential,450.0,GWh
+2015,wicklow,all,All sectors,564.0,GWh
+2015,wicklow,residential,Residential,261.0,GWh
+2015,wicklow,non-residential,Non-residential,303.0,GWh
+2015,westmeath,all,All sectors,460.0,GWh
+2015,westmeath,residential,Residential,179.0,GWh
+2015,westmeath,non-residential,Non-residential,282.0,GWh
+2015,wexford,all,All sectors,617.0,GWh
+2015,wexford,residential,Residential,290.0,GWh
+2015,wexford,non-residential,Non-residential,327.0,GWh
+2016,clare,all,All sectors,536.0,GWh
+2016,clare,residential,Residential,202.0,GWh
+2016,clare,non-residential,Non-residential,334.0,GWh
+2016,cork,all,All sectors,2864.0,GWh
+2016,cork,residential,Residential,1010.0,GWh
+2016,cork,non-residential,Non-residential,1854.0,GWh
+2016,cavan,all,All sectors,476.0,GWh
+2016,cavan,residential,Residential,137.0,GWh
+2016,cavan,non-residential,Non-residential,338.0,GWh
+2016,carlow,all,All sectors,255.0,GWh
+2016,carlow,residential,Residential,109.0,GWh
+2016,carlow,non-residential,Non-residential,146.0,GWh
+2016,donegal,all,All sectors,611.0,GWh
+2016,donegal,residential,Residential,272.0,GWh
+2016,donegal,non-residential,Non-residential,338.0,GWh
+2016,dublin,all,All sectors,6376.0,GWh
+2016,dublin,residential,Residential,2182.0,GWh
+2016,dublin,non-residential,Non-residential,4196.0,GWh
+2016,galway,all,All sectors,1129.0,GWh
+2016,galway,residential,Residential,475.0,GWh
+2016,galway,non-residential,Non-residential,655.0,GWh
+2016,kildare,all,All sectors,932.0,GWh
+2016,kildare,residential,Residential,377.0,GWh
+2016,kildare,non-residential,Non-residential,555.0,GWh
+2016,kilkenny,all,All sectors,383.0,GWh
+2016,kilkenny,residential,Residential,165.0,GWh
+2016,kilkenny,non-residential,Non-residential,218.0,GWh
+2016,kerry,all,All sectors,690.0,GWh
+2016,kerry,residential,Residential,297.0,GWh
+2016,kerry,non-residential,Non-residential,393.0,GWh
+2016,longford,all,All sectors,214.0,GWh
+2016,longford,residential,Residential,77.0,GWh
+2016,longford,non-residential,Non-residential,138.0,GWh
+2016,louth,all,All sectors,555.0,GWh
+2016,louth,residential,Residential,228.0,GWh
+2016,louth,non-residential,Non-residential,328.0,GWh
+2016,limerick,all,All sectors,1037.0,GWh
+2016,limerick,residential,Residential,367.0,GWh
+2016,limerick,non-residential,Non-residential,671.0,GWh
+2016,leitrim,all,All sectors,123.0,GWh
+2016,leitrim,residential,Residential,62.0,GWh
+2016,leitrim,non-residential,Non-residential,61.0,GWh
+2016,laois,all,All sectors,295.0,GWh
+2016,laois,residential,Residential,133.0,GWh
+2016,laois,non-residential,Non-residential,162.0,GWh
+2016,meath,all,All sectors,643.0,GWh
+2016,meath,residential,Residential,324.0,GWh
+2016,meath,non-residential,Non-residential,319.0,GWh
+2016,monaghan,all,All sectors,343.0,GWh
+2016,monaghan,residential,Residential,115.0,GWh
+2016,monaghan,non-residential,Non-residential,228.0,GWh
+2016,mayo,all,All sectors,588.0,GWh
+2016,mayo,residential,Residential,238.0,GWh
+2016,mayo,non-residential,Non-residential,350.0,GWh
+2016,offaly,all,All sectors,288.0,GWh
+2016,offaly,residential,Residential,127.0,GWh
+2016,offaly,non-residential,Non-residential,161.0,GWh
+2016,roscommon,all,All sectors,229.0,GWh
+2016,roscommon,residential,Residential,96.0,GWh
+2016,roscommon,non-residential,Non-residential,133.0,GWh
+2016,sligo,all,All sectors,303.0,GWh
+2016,sligo,residential,Residential,118.0,GWh
+2016,sligo,non-residential,Non-residential,185.0,GWh
+2016,tipperary,all,All sectors,794.0,GWh
+2016,tipperary,residential,Residential,322.0,GWh
+2016,tipperary,non-residential,Non-residential,472.0,GWh
+2016,waterford,all,All sectors,678.0,GWh
+2016,waterford,residential,Residential,230.0,GWh
+2016,waterford,non-residential,Non-residential,448.0,GWh
+2016,wicklow,all,All sectors,569.0,GWh
+2016,wicklow,residential,Residential,264.0,GWh
+2016,wicklow,non-residential,Non-residential,304.0,GWh
+2016,westmeath,all,All sectors,465.0,GWh
+2016,westmeath,residential,Residential,177.0,GWh
+2016,westmeath,non-residential,Non-residential,288.0,GWh
+2016,wexford,all,All sectors,632.0,GWh
+2016,wexford,residential,Residential,293.0,GWh
+2016,wexford,non-residential,Non-residential,339.0,GWh
+2017,clare,all,All sectors,541.0,GWh
+2017,clare,residential,Residential,205.0,GWh
+2017,clare,non-residential,Non-residential,336.0,GWh
+2017,cork,all,All sectors,2874.0,GWh
+2017,cork,residential,Residential,1010.0,GWh
+2017,cork,non-residential,Non-residential,1864.0,GWh
+2017,cavan,all,All sectors,467.0,GWh
+2017,cavan,residential,Residential,138.0,GWh
+2017,cavan,non-residential,Non-residential,329.0,GWh
+2017,carlow,all,All sectors,260.0,GWh
+2017,carlow,residential,Residential,110.0,GWh
+2017,carlow,non-residential,Non-residential,150.0,GWh
+2017,donegal,all,All sectors,618.0,GWh
+2017,donegal,residential,Residential,273.0,GWh
+2017,donegal,non-residential,Non-residential,346.0,GWh
+2017,dublin,all,All sectors,6419.0,GWh
+2017,dublin,residential,Residential,2170.0,GWh
+2017,dublin,non-residential,Non-residential,4248.0,GWh
+2017,galway,all,All sectors,1136.0,GWh
+2017,galway,residential,Residential,479.0,GWh
+2017,galway,non-residential,Non-residential,658.0,GWh
+2017,kildare,all,All sectors,936.0,GWh
+2017,kildare,residential,Residential,378.0,GWh
+2017,kildare,non-residential,Non-residential,557.0,GWh
+2017,kilkenny,all,All sectors,384.0,GWh
+2017,kilkenny,residential,Residential,166.0,GWh
+2017,kilkenny,non-residential,Non-residential,218.0,GWh
+2017,kerry,all,All sectors,692.0,GWh
+2017,kerry,residential,Residential,299.0,GWh
+2017,kerry,non-residential,Non-residential,393.0,GWh
+2017,longford,all,All sectors,218.0,GWh
+2017,longford,residential,Residential,77.0,GWh
+2017,longford,non-residential,Non-residential,141.0,GWh
+2017,louth,all,All sectors,559.0,GWh
+2017,louth,residential,Residential,228.0,GWh
+2017,louth,non-residential,Non-residential,332.0,GWh
+2017,limerick,all,All sectors,1061.0,GWh
+2017,limerick,residential,Residential,369.0,GWh
+2017,limerick,non-residential,Non-residential,692.0,GWh
+2017,leitrim,all,All sectors,124.0,GWh
+2017,leitrim,residential,Residential,63.0,GWh
+2017,leitrim,non-residential,Non-residential,61.0,GWh
+2017,laois,all,All sectors,297.0,GWh
+2017,laois,residential,Residential,134.0,GWh
+2017,laois,non-residential,Non-residential,163.0,GWh
+2017,meath,all,All sectors,654.0,GWh
+2017,meath,residential,Residential,326.0,GWh
+2017,meath,non-residential,Non-residential,328.0,GWh
+2017,monaghan,all,All sectors,346.0,GWh
+2017,monaghan,residential,Residential,115.0,GWh
+2017,monaghan,non-residential,Non-residential,231.0,GWh
+2017,mayo,all,All sectors,586.0,GWh
+2017,mayo,residential,Residential,236.0,GWh
+2017,mayo,non-residential,Non-residential,350.0,GWh
+2017,offaly,all,All sectors,292.0,GWh
+2017,offaly,residential,Residential,128.0,GWh
+2017,offaly,non-residential,Non-residential,163.0,GWh
+2017,roscommon,all,All sectors,229.0,GWh
+2017,roscommon,residential,Residential,96.0,GWh
+2017,roscommon,non-residential,Non-residential,133.0,GWh
+2017,sligo,all,All sectors,297.0,GWh
+2017,sligo,residential,Residential,119.0,GWh
+2017,sligo,non-residential,Non-residential,178.0,GWh
+2017,tipperary,all,All sectors,800.0,GWh
+2017,tipperary,residential,Residential,325.0,GWh
+2017,tipperary,non-residential,Non-residential,475.0,GWh
+2017,waterford,all,All sectors,686.0,GWh
+2017,waterford,residential,Residential,230.0,GWh
+2017,waterford,non-residential,Non-residential,456.0,GWh
+2017,wicklow,all,All sectors,558.0,GWh
+2017,wicklow,residential,Residential,266.0,GWh
+2017,wicklow,non-residential,Non-residential,292.0,GWh
+2017,westmeath,all,All sectors,474.0,GWh
+2017,westmeath,residential,Residential,179.0,GWh
+2017,westmeath,non-residential,Non-residential,295.0,GWh
+2017,wexford,all,All sectors,643.0,GWh
+2017,wexford,residential,Residential,295.0,GWh
+2017,wexford,non-residential,Non-residential,348.0,GWh
+2018,clare,all,All sectors,546.0,GWh
+2018,clare,residential,Residential,210.0,GWh
+2018,clare,non-residential,Non-residential,337.0,GWh
+2018,cork,all,All sectors,2967.0,GWh
+2018,cork,residential,Residential,1047.0,GWh
+2018,cork,non-residential,Non-residential,1919.0,GWh
+2018,cavan,all,All sectors,470.0,GWh
+2018,cavan,residential,Residential,142.0,GWh
+2018,cavan,non-residential,Non-residential,328.0,GWh
+2018,carlow,all,All sectors,270.0,GWh
+2018,carlow,residential,Residential,113.0,GWh
+2018,carlow,non-residential,Non-residential,156.0,GWh
+2018,donegal,all,All sectors,633.0,GWh
+2018,donegal,residential,Residential,280.0,GWh
+2018,donegal,non-residential,Non-residential,354.0,GWh
+2018,dublin,all,All sectors,6580.0,GWh
+2018,dublin,residential,Residential,2230.0,GWh
+2018,dublin,non-residential,Non-residential,4356.0,GWh
+2018,galway,all,All sectors,1174.0,GWh
+2018,galway,residential,Residential,497.0,GWh
+2018,galway,non-residential,Non-residential,677.0,GWh
+2018,kildare,all,All sectors,961.0,GWh
+2018,kildare,residential,Residential,390.0,GWh
+2018,kildare,non-residential,Non-residential,571.0,GWh
+2018,kilkenny,all,All sectors,405.0,GWh
+2018,kilkenny,residential,Residential,172.0,GWh
+2018,kilkenny,non-residential,Non-residential,233.0,GWh
+2018,kerry,all,All sectors,716.0,GWh
+2018,kerry,residential,Residential,310.0,GWh
+2018,kerry,non-residential,Non-residential,407.0,GWh
+2018,longford,all,All sectors,226.0,GWh
+2018,longford,residential,Residential,80.0,GWh
+2018,longford,non-residential,Non-residential,146.0,GWh
+2018,louth,all,All sectors,570.0,GWh
+2018,louth,residential,Residential,233.0,GWh
+2018,louth,non-residential,Non-residential,337.0,GWh
+2018,limerick,all,All sectors,1092.0,GWh
+2018,limerick,residential,Residential,377.0,GWh
+2018,limerick,non-residential,Non-residential,716.0,GWh
+2018,leitrim,all,All sectors,128.0,GWh
+2018,leitrim,residential,Residential,65.0,GWh
+2018,leitrim,non-residential,Non-residential,63.0,GWh
+2018,laois,all,All sectors,307.0,GWh
+2018,laois,residential,Residential,139.0,GWh
+2018,laois,non-residential,Non-residential,168.0,GWh
+2018,meath,all,All sectors,676.0,GWh
+2018,meath,residential,Residential,338.0,GWh
+2018,meath,non-residential,Non-residential,337.0,GWh
+2018,monaghan,all,All sectors,355.0,GWh
+2018,monaghan,residential,Residential,119.0,GWh
+2018,monaghan,non-residential,Non-residential,236.0,GWh
+2018,mayo,all,All sectors,609.0,GWh
+2018,mayo,residential,Residential,244.0,GWh
+2018,mayo,non-residential,Non-residential,365.0,GWh
+2018,offaly,all,All sectors,306.0,GWh
+2018,offaly,residential,Residential,133.0,GWh
+2018,offaly,non-residential,Non-residential,173.0,GWh
+2018,roscommon,all,All sectors,237.0,GWh
+2018,roscommon,residential,Residential,100.0,GWh
+2018,roscommon,non-residential,Non-residential,137.0,GWh
+2018,sligo,all,All sectors,299.0,GWh
+2018,sligo,residential,Residential,121.0,GWh
+2018,sligo,non-residential,Non-residential,178.0,GWh
+2018,tipperary,all,All sectors,818.0,GWh
+2018,tipperary,residential,Residential,335.0,GWh
+2018,tipperary,non-residential,Non-residential,483.0,GWh
+2018,waterford,all,All sectors,706.0,GWh
+2018,waterford,residential,Residential,236.0,GWh
+2018,waterford,non-residential,Non-residential,470.0,GWh
+2018,wicklow,all,All sectors,574.0,GWh
+2018,wicklow,residential,Residential,273.0,GWh
+2018,wicklow,non-residential,Non-residential,302.0,GWh
+2018,westmeath,all,All sectors,474.0,GWh
+2018,westmeath,residential,Residential,185.0,GWh
+2018,westmeath,non-residential,Non-residential,289.0,GWh
+2018,wexford,all,All sectors,660.0,GWh
+2018,wexford,residential,Residential,304.0,GWh
+2018,wexford,non-residential,Non-residential,357.0,GWh
+2019,clare,all,All sectors,530.0,GWh
+2019,clare,residential,Residential,201.0,GWh
+2019,clare,non-residential,Non-residential,328.0,GWh
+2019,cork,all,All sectors,2899.0,GWh
+2019,cork,residential,Residential,999.0,GWh
+2019,cork,non-residential,Non-residential,1900.0,GWh
+2019,cavan,all,All sectors,468.0,GWh
+2019,cavan,residential,Residential,137.0,GWh
+2019,cavan,non-residential,Non-residential,332.0,GWh
+2019,carlow,all,All sectors,266.0,GWh
+2019,carlow,residential,Residential,111.0,GWh
+2019,carlow,non-residential,Non-residential,155.0,GWh
+2019,donegal,all,All sectors,623.0,GWh
+2019,donegal,residential,Residential,271.0,GWh
+2019,donegal,non-residential,Non-residential,352.0,GWh
+2019,dublin,all,All sectors,6381.0,GWh
+2019,dublin,residential,Residential,2127.0,GWh
+2019,dublin,non-residential,Non-residential,4254.0,GWh
+2019,galway,all,All sectors,1134.0,GWh
+2019,galway,residential,Residential,479.0,GWh
+2019,galway,non-residential,Non-residential,655.0,GWh
+2019,kildare,all,All sectors,945.0,GWh
+2019,kildare,residential,Residential,378.0,GWh
+2019,kildare,non-residential,Non-residential,566.0,GWh
+2019,kilkenny,all,All sectors,402.0,GWh
+2019,kilkenny,residential,Residential,167.0,GWh
+2019,kilkenny,non-residential,Non-residential,235.0,GWh
+2019,kerry,all,All sectors,646.0,GWh
+2019,kerry,residential,Residential,298.0,GWh
+2019,kerry,non-residential,Non-residential,349.0,GWh
+2019,longford,all,All sectors,228.0,GWh
+2019,longford,residential,Residential,77.0,GWh
+2019,longford,non-residential,Non-residential,151.0,GWh
+2019,louth,all,All sectors,539.0,GWh
+2019,louth,residential,Residential,225.0,GWh
+2019,louth,non-residential,Non-residential,314.0,GWh
+2019,limerick,all,All sectors,1072.0,GWh
+2019,limerick,residential,Residential,363.0,GWh
+2019,limerick,non-residential,Non-residential,709.0,GWh
+2019,leitrim,all,All sectors,124.0,GWh
+2019,leitrim,residential,Residential,63.0,GWh
+2019,leitrim,non-residential,Non-residential,61.0,GWh
+2019,laois,all,All sectors,301.0,GWh
+2019,laois,residential,Residential,136.0,GWh
+2019,laois,non-residential,Non-residential,165.0,GWh
+2019,meath,all,All sectors,668.0,GWh
+2019,meath,residential,Residential,332.0,GWh
+2019,meath,non-residential,Non-residential,336.0,GWh
+2019,monaghan,all,All sectors,350.0,GWh
+2019,monaghan,residential,Residential,115.0,GWh
+2019,monaghan,non-residential,Non-residential,235.0,GWh
+2019,mayo,all,All sectors,589.0,GWh
+2019,mayo,residential,Residential,235.0,GWh
+2019,mayo,non-residential,Non-residential,354.0,GWh
+2019,offaly,all,All sectors,294.0,GWh
+2019,offaly,residential,Residential,127.0,GWh
+2019,offaly,non-residential,Non-residential,167.0,GWh
+2019,roscommon,all,All sectors,233.0,GWh
+2019,roscommon,residential,Residential,97.0,GWh
+2019,roscommon,non-residential,Non-residential,135.0,GWh
+2019,sligo,all,All sectors,289.0,GWh
+2019,sligo,residential,Residential,116.0,GWh
+2019,sligo,non-residential,Non-residential,173.0,GWh
+2019,tipperary,all,All sectors,786.0,GWh
+2019,tipperary,residential,Residential,320.0,GWh
+2019,tipperary,non-residential,Non-residential,466.0,GWh
+2019,waterford,all,All sectors,697.0,GWh
+2019,waterford,residential,Residential,229.0,GWh
+2019,waterford,non-residential,Non-residential,468.0,GWh
+2019,wicklow,all,All sectors,567.0,GWh
+2019,wicklow,residential,Residential,263.0,GWh
+2019,wicklow,non-residential,Non-residential,304.0,GWh
+2019,westmeath,all,All sectors,449.0,GWh
+2019,westmeath,residential,Residential,179.0,GWh
+2019,westmeath,non-residential,Non-residential,271.0,GWh
+2019,wexford,all,All sectors,647.0,GWh
+2019,wexford,residential,Residential,295.0,GWh
+2019,wexford,non-residential,Non-residential,352.0,GWh
+2020,clare,all,All sectors,517.0,GWh
+2020,clare,residential,Residential,224.0,GWh
+2020,clare,non-residential,Non-residential,293.0,GWh
+2020,cork,all,All sectors,2924.0,GWh
+2020,cork,residential,Residential,1109.0,GWh
+2020,cork,non-residential,Non-residential,1815.0,GWh
+2020,cavan,all,All sectors,478.0,GWh
+2020,cavan,residential,Residential,151.0,GWh
+2020,cavan,non-residential,Non-residential,327.0,GWh
+2020,carlow,all,All sectors,266.0,GWh
+2020,carlow,residential,Residential,122.0,GWh
+2020,carlow,non-residential,Non-residential,144.0,GWh
+2020,donegal,all,All sectors,631.0,GWh
+2020,donegal,residential,Residential,297.0,GWh
+2020,donegal,non-residential,Non-residential,334.0,GWh
+2020,dublin,all,All sectors,6258.0,GWh
+2020,dublin,residential,Residential,2357.0,GWh
+2020,dublin,non-residential,Non-residential,3900.0,GWh
+2020,galway,all,All sectors,1128.0,GWh
+2020,galway,residential,Residential,528.0,GWh
+2020,galway,non-residential,Non-residential,601.0,GWh
+2020,kildare,all,All sectors,962.0,GWh
+2020,kildare,residential,Residential,425.0,GWh
+2020,kildare,non-residential,Non-residential,537.0,GWh
+2020,kilkenny,all,All sectors,393.0,GWh
+2020,kilkenny,residential,Residential,184.0,GWh
+2020,kilkenny,non-residential,Non-residential,209.0,GWh
+2020,kerry,all,All sectors,633.0,GWh
+2020,kerry,residential,Residential,324.0,GWh
+2020,kerry,non-residential,Non-residential,310.0,GWh
+2020,longford,all,All sectors,235.0,GWh
+2020,longford,residential,Residential,85.0,GWh
+2020,longford,non-residential,Non-residential,150.0,GWh
+2020,louth,all,All sectors,534.0,GWh
+2020,louth,residential,Residential,249.0,GWh
+2020,louth,non-residential,Non-residential,285.0,GWh
+2020,limerick,all,All sectors,1081.0,GWh
+2020,limerick,residential,Residential,400.0,GWh
+2020,limerick,non-residential,Non-residential,681.0,GWh
+2020,leitrim,all,All sectors,124.0,GWh
+2020,leitrim,residential,Residential,69.0,GWh
+2020,leitrim,non-residential,Non-residential,55.0,GWh
+2020,laois,all,All sectors,311.0,GWh
+2020,laois,residential,Residential,151.0,GWh
+2020,laois,non-residential,Non-residential,160.0,GWh
+2020,meath,all,All sectors,699.0,GWh
+2020,meath,residential,Residential,370.0,GWh
+2020,meath,non-residential,Non-residential,329.0,GWh
+2020,monaghan,all,All sectors,348.0,GWh
+2020,monaghan,residential,Residential,126.0,GWh
+2020,monaghan,non-residential,Non-residential,222.0,GWh
+2020,mayo,all,All sectors,593.0,GWh
+2020,mayo,residential,Residential,259.0,GWh
+2020,mayo,non-residential,Non-residential,334.0,GWh
+2020,offaly,all,All sectors,303.0,GWh
+2020,offaly,residential,Residential,141.0,GWh
+2020,offaly,non-residential,Non-residential,162.0,GWh
+2020,roscommon,all,All sectors,241.0,GWh
+2020,roscommon,residential,Residential,108.0,GWh
+2020,roscommon,non-residential,Non-residential,133.0,GWh
+2020,sligo,all,All sectors,293.0,GWh
+2020,sligo,residential,Residential,128.0,GWh
+2020,sligo,non-residential,Non-residential,164.0,GWh
+2020,tipperary,all,All sectors,810.0,GWh
+2020,tipperary,residential,Residential,355.0,GWh
+2020,tipperary,non-residential,Non-residential,454.0,GWh
+2020,waterford,all,All sectors,707.0,GWh
+2020,waterford,residential,Residential,251.0,GWh
+2020,waterford,non-residential,Non-residential,456.0,GWh
+2020,wicklow,all,All sectors,586.0,GWh
+2020,wicklow,residential,Residential,296.0,GWh
+2020,wicklow,non-residential,Non-residential,291.0,GWh
+2020,westmeath,all,All sectors,471.0,GWh
+2020,westmeath,residential,Residential,196.0,GWh
+2020,westmeath,non-residential,Non-residential,275.0,GWh
+2020,wexford,all,All sectors,660.0,GWh
+2020,wexford,residential,Residential,328.0,GWh
+2020,wexford,non-residential,Non-residential,333.0,GWh
+2021,clare,all,All sectors,518.0,GWh
+2021,clare,residential,Residential,226.0,GWh
+2021,clare,non-residential,Non-residential,292.0,GWh
+2021,cork,all,All sectors,3010.0,GWh
+2021,cork,residential,Residential,1118.0,GWh
+2021,cork,non-residential,Non-residential,1893.0,GWh
+2021,cavan,all,All sectors,500.0,GWh
+2021,cavan,residential,Residential,154.0,GWh
+2021,cavan,non-residential,Non-residential,346.0,GWh
+2021,carlow,all,All sectors,283.0,GWh
+2021,carlow,residential,Residential,124.0,GWh
+2021,carlow,non-residential,Non-residential,159.0,GWh
+2021,donegal,all,All sectors,645.0,GWh
+2021,donegal,residential,Residential,302.0,GWh
+2021,donegal,non-residential,Non-residential,342.0,GWh
+2021,dublin,all,All sectors,6380.0,GWh
+2021,dublin,residential,Residential,2339.0,GWh
+2021,dublin,non-residential,Non-residential,4046.0,GWh
+2021,galway,all,All sectors,1140.0,GWh
+2021,galway,residential,Residential,533.0,GWh
+2021,galway,non-residential,Non-residential,607.0,GWh
+2021,kildare,all,All sectors,977.0,GWh
+2021,kildare,residential,Residential,433.0,GWh
+2021,kildare,non-residential,Non-residential,544.0,GWh
+2021,kilkenny,all,All sectors,395.0,GWh
+2021,kilkenny,residential,Residential,188.0,GWh
+2021,kilkenny,non-residential,Non-residential,207.0,GWh
+2021,kerry,all,All sectors,640.0,GWh
+2021,kerry,residential,Residential,328.0,GWh
+2021,kerry,non-residential,Non-residential,312.0,GWh
+2021,longford,all,All sectors,244.0,GWh
+2021,longford,residential,Residential,86.0,GWh
+2021,longford,non-residential,Non-residential,158.0,GWh
+2021,louth,all,All sectors,559.0,GWh
+2021,louth,residential,Residential,249.0,GWh
+2021,louth,non-residential,Non-residential,310.0,GWh
+2021,limerick,all,All sectors,1102.0,GWh
+2021,limerick,residential,Residential,401.0,GWh
+2021,limerick,non-residential,Non-residential,701.0,GWh
+2021,leitrim,all,All sectors,128.0,GWh
+2021,leitrim,residential,Residential,70.0,GWh
+2021,leitrim,non-residential,Non-residential,58.0,GWh
+2021,laois,all,All sectors,320.0,GWh
+2021,laois,residential,Residential,152.0,GWh
+2021,laois,non-residential,Non-residential,168.0,GWh
+2021,meath,all,All sectors,723.0,GWh
+2021,meath,residential,Residential,376.0,GWh
+2021,meath,non-residential,Non-residential,347.0,GWh
+2021,monaghan,all,All sectors,361.0,GWh
+2021,monaghan,residential,Residential,129.0,GWh
+2021,monaghan,non-residential,Non-residential,231.0,GWh
+2021,mayo,all,All sectors,599.0,GWh
+2021,mayo,residential,Residential,263.0,GWh
+2021,mayo,non-residential,Non-residential,336.0,GWh
+2021,offaly,all,All sectors,312.0,GWh
+2021,offaly,residential,Residential,145.0,GWh
+2021,offaly,non-residential,Non-residential,167.0,GWh
+2021,roscommon,all,All sectors,243.0,GWh
+2021,roscommon,residential,Residential,109.0,GWh
+2021,roscommon,non-residential,Non-residential,134.0,GWh
+2021,sligo,all,All sectors,295.0,GWh
+2021,sligo,residential,Residential,130.0,GWh
+2021,sligo,non-residential,Non-residential,165.0,GWh
+2021,tipperary,all,All sectors,837.0,GWh
+2021,tipperary,residential,Residential,359.0,GWh
+2021,tipperary,non-residential,Non-residential,478.0,GWh
+2021,waterford,all,All sectors,739.0,GWh
+2021,waterford,residential,Residential,255.0,GWh
+2021,waterford,non-residential,Non-residential,484.0,GWh
+2021,wicklow,all,All sectors,599.0,GWh
+2021,wicklow,residential,Residential,297.0,GWh
+2021,wicklow,non-residential,Non-residential,301.0,GWh
+2021,westmeath,all,All sectors,484.0,GWh
+2021,westmeath,residential,Residential,200.0,GWh
+2021,westmeath,non-residential,Non-residential,285.0,GWh
+2021,wexford,all,All sectors,673.0,GWh
+2021,wexford,residential,Residential,336.0,GWh
+2021,wexford,non-residential,Non-residential,337.0,GWh
+2022,clare,all,All sectors,522.0,GWh
+2022,clare,residential,Residential,212.0,GWh
+2022,clare,non-residential,Non-residential,310.0,GWh
+2022,cork,all,All sectors,2998.0,GWh
+2022,cork,residential,Residential,1048.0,GWh
+2022,cork,non-residential,Non-residential,1950.0,GWh
+2022,cavan,all,All sectors,487.0,GWh
+2022,cavan,residential,Residential,144.0,GWh
+2022,cavan,non-residential,Non-residential,342.0,GWh
+2022,carlow,all,All sectors,283.0,GWh
+2022,carlow,residential,Residential,118.0,GWh
+2022,carlow,non-residential,Non-residential,165.0,GWh
+2022,donegal,all,All sectors,643.0,GWh
+2022,donegal,residential,Residential,285.0,GWh
+2022,donegal,non-residential,Non-residential,358.0,GWh
+2022,dublin,all,All sectors,6494.0,GWh
+2022,dublin,residential,Residential,2189.0,GWh
+2022,dublin,non-residential,Non-residential,4304.0,GWh
+2022,galway,all,All sectors,1139.0,GWh
+2022,galway,residential,Residential,501.0,GWh
+2022,galway,non-residential,Non-residential,637.0,GWh
+2022,kildare,all,All sectors,982.0,GWh
+2022,kildare,residential,Residential,417.0,GWh
+2022,kildare,non-residential,Non-residential,565.0,GWh
+2022,kilkenny,all,All sectors,390.0,GWh
+2022,kilkenny,residential,Residential,176.0,GWh
+2022,kilkenny,non-residential,Non-residential,213.0,GWh
+2022,kerry,all,All sectors,643.0,GWh
+2022,kerry,residential,Residential,307.0,GWh
+2022,kerry,non-residential,Non-residential,336.0,GWh
+2022,longford,all,All sectors,241.0,GWh
+2022,longford,residential,Residential,81.0,GWh
+2022,longford,non-residential,Non-residential,160.0,GWh
+2022,louth,all,All sectors,553.0,GWh
+2022,louth,residential,Residential,238.0,GWh
+2022,louth,non-residential,Non-residential,315.0,GWh
+2022,limerick,all,All sectors,1108.0,GWh
+2022,limerick,residential,Residential,377.0,GWh
+2022,limerick,non-residential,Non-residential,731.0,GWh
+2022,leitrim,all,All sectors,127.0,GWh
+2022,leitrim,residential,Residential,66.0,GWh
+2022,leitrim,non-residential,Non-residential,62.0,GWh
+2022,laois,all,All sectors,318.0,GWh
+2022,laois,residential,Residential,146.0,GWh
+2022,laois,non-residential,Non-residential,172.0,GWh
+2022,meath,all,All sectors,727.0,GWh
+2022,meath,residential,Residential,362.0,GWh
+2022,meath,non-residential,Non-residential,364.0,GWh
+2022,monaghan,all,All sectors,353.0,GWh
+2022,monaghan,residential,Residential,121.0,GWh
+2022,monaghan,non-residential,Non-residential,232.0,GWh
+2022,mayo,all,All sectors,608.0,GWh
+2022,mayo,residential,Residential,245.0,GWh
+2022,mayo,non-residential,Non-residential,363.0,GWh
+2022,offaly,all,All sectors,307.0,GWh
+2022,offaly,residential,Residential,136.0,GWh
+2022,offaly,non-residential,Non-residential,171.0,GWh
+2022,roscommon,all,All sectors,242.0,GWh
+2022,roscommon,residential,Residential,104.0,GWh
+2022,roscommon,non-residential,Non-residential,138.0,GWh
+2022,sligo,all,All sectors,293.0,GWh
+2022,sligo,residential,Residential,122.0,GWh
+2022,sligo,non-residential,Non-residential,171.0,GWh
+2022,tipperary,all,All sectors,826.0,GWh
+2022,tipperary,residential,Residential,339.0,GWh
+2022,tipperary,non-residential,Non-residential,487.0,GWh
+2022,waterford,all,All sectors,724.0,GWh
+2022,waterford,residential,Residential,238.0,GWh
+2022,waterford,non-residential,Non-residential,487.0,GWh
+2022,wicklow,all,All sectors,597.0,GWh
+2022,wicklow,residential,Residential,284.0,GWh
+2022,wicklow,non-residential,Non-residential,313.0,GWh
+2022,westmeath,all,All sectors,473.0,GWh
+2022,westmeath,residential,Residential,188.0,GWh
+2022,westmeath,non-residential,Non-residential,285.0,GWh
+2022,wexford,all,All sectors,671.0,GWh
+2022,wexford,residential,Residential,317.0,GWh
+2022,wexford,non-residential,Non-residential,354.0,GWh
+2023,clare,all,All sectors,517.0,GWh
+2023,clare,residential,Residential,207.0,GWh
+2023,clare,non-residential,Non-residential,310.0,GWh
+2023,cork,all,All sectors,2977.0,GWh
+2023,cork,residential,Residential,1029.0,GWh
+2023,cork,non-residential,Non-residential,1947.0,GWh
+2023,cavan,all,All sectors,468.0,GWh
+2023,cavan,residential,Residential,142.0,GWh
+2023,cavan,non-residential,Non-residential,326.0,GWh
+2023,carlow,all,All sectors,277.0,GWh
+2023,carlow,residential,Residential,115.0,GWh
+2023,carlow,non-residential,Non-residential,161.0,GWh
+2023,donegal,all,All sectors,627.0,GWh
+2023,donegal,residential,Residential,280.0,GWh
+2023,donegal,non-residential,Non-residential,347.0,GWh
+2023,dublin,all,All sectors,6236.0,GWh
+2023,dublin,residential,Residential,2131.0,GWh
+2023,dublin,non-residential,Non-residential,4103.0,GWh
+2023,galway,all,All sectors,1127.0,GWh
+2023,galway,residential,Residential,490.0,GWh
+2023,galway,non-residential,Non-residential,637.0,GWh
+2023,kildare,all,All sectors,966.0,GWh
+2023,kildare,residential,Residential,415.0,GWh
+2023,kildare,non-residential,Non-residential,551.0,GWh
+2023,kilkenny,all,All sectors,385.0,GWh
+2023,kilkenny,residential,Residential,172.0,GWh
+2023,kilkenny,non-residential,Non-residential,213.0,GWh
+2023,kerry,all,All sectors,631.0,GWh
+2023,kerry,residential,Residential,301.0,GWh
+2023,kerry,non-residential,Non-residential,330.0,GWh
+2023,longford,all,All sectors,238.0,GWh
+2023,longford,residential,Residential,79.0,GWh
+2023,longford,non-residential,Non-residential,159.0,GWh
+2023,louth,all,All sectors,538.0,GWh
+2023,louth,residential,Residential,234.0,GWh
+2023,louth,non-residential,Non-residential,303.0,GWh
+2023,limerick,all,All sectors,1115.0,GWh
+2023,limerick,residential,Residential,369.0,GWh
+2023,limerick,non-residential,Non-residential,746.0,GWh
+2023,leitrim,all,All sectors,125.0,GWh
+2023,leitrim,residential,Residential,64.0,GWh
+2023,leitrim,non-residential,Non-residential,61.0,GWh
+2023,laois,all,All sectors,312.0,GWh
+2023,laois,residential,Residential,145.0,GWh
+2023,laois,non-residential,Non-residential,167.0,GWh
+2023,meath,all,All sectors,733.0,GWh
+2023,meath,residential,Residential,360.0,GWh
+2023,meath,non-residential,Non-residential,373.0,GWh
+2023,monaghan,all,All sectors,351.0,GWh
+2023,monaghan,residential,Residential,120.0,GWh
+2023,monaghan,non-residential,Non-residential,232.0,GWh
+2023,mayo,all,All sectors,604.0,GWh
+2023,mayo,residential,Residential,238.0,GWh
+2023,mayo,non-residential,Non-residential,366.0,GWh
+2023,offaly,all,All sectors,303.0,GWh
+2023,offaly,residential,Residential,134.0,GWh
+2023,offaly,non-residential,Non-residential,169.0,GWh
+2023,roscommon,all,All sectors,238.0,GWh
+2023,roscommon,residential,Residential,102.0,GWh
+2023,roscommon,non-residential,Non-residential,136.0,GWh
+2023,sligo,all,All sectors,289.0,GWh
+2023,sligo,residential,Residential,119.0,GWh
+2023,sligo,non-residential,Non-residential,169.0,GWh
+2023,tipperary,all,All sectors,804.0,GWh
+2023,tipperary,residential,Residential,329.0,GWh
+2023,tipperary,non-residential,Non-residential,475.0,GWh
+2023,waterford,all,All sectors,710.0,GWh
+2023,waterford,residential,Residential,233.0,GWh
+2023,waterford,non-residential,Non-residential,478.0,GWh
+2023,wicklow,all,All sectors,584.0,GWh
+2023,wicklow,residential,Residential,277.0,GWh
+2023,wicklow,non-residential,Non-residential,306.0,GWh
+2023,westmeath,all,All sectors,460.0,GWh
+2023,westmeath,residential,Residential,183.0,GWh
+2023,westmeath,non-residential,Non-residential,278.0,GWh
+2023,wexford,all,All sectors,655.0,GWh
+2023,wexford,residential,Residential,309.0,GWh
+2023,wexford,non-residential,Non-residential,347.0,GWh
+2024,clare,all,All sectors,532.0,GWh
+2024,clare,residential,Residential,217.0,GWh
+2024,clare,non-residential,Non-residential,315.0,GWh
+2024,cork,all,All sectors,3042.0,GWh
+2024,cork,residential,Residential,1067.0,GWh
+2024,cork,non-residential,Non-residential,1975.0,GWh
+2024,cavan,all,All sectors,480.0,GWh
+2024,cavan,residential,Residential,146.0,GWh
+2024,cavan,non-residential,Non-residential,334.0,GWh
+2024,carlow,all,All sectors,270.0,GWh
+2024,carlow,residential,Residential,120.0,GWh
+2024,carlow,non-residential,Non-residential,150.0,GWh
+2024,donegal,all,All sectors,640.0,GWh
+2024,donegal,residential,Residential,293.0,GWh
+2024,donegal,non-residential,Non-residential,347.0,GWh
+2024,dublin,all,All sectors,6396.0,GWh
+2024,dublin,residential,Residential,2228.0,GWh
+2024,dublin,non-residential,Non-residential,4166.0,GWh
+2024,galway,all,All sectors,1154.0,GWh
+2024,galway,residential,Residential,510.0,GWh
+2024,galway,non-residential,Non-residential,644.0,GWh
+2024,kildare,all,All sectors,1008.0,GWh
+2024,kildare,residential,Residential,440.0,GWh
+2024,kildare,non-residential,Non-residential,568.0,GWh
+2024,kilkenny,all,All sectors,404.0,GWh
+2024,kilkenny,residential,Residential,180.0,GWh
+2024,kilkenny,non-residential,Non-residential,224.0,GWh
+2024,kerry,all,All sectors,650.0,GWh
+2024,kerry,residential,Residential,312.0,GWh
+2024,kerry,non-residential,Non-residential,338.0,GWh
+2024,longford,all,All sectors,244.0,GWh
+2024,longford,residential,Residential,83.0,GWh
+2024,longford,non-residential,Non-residential,161.0,GWh
+2024,louth,all,All sectors,556.0,GWh
+2024,louth,residential,Residential,246.0,GWh
+2024,louth,non-residential,Non-residential,310.0,GWh
+2024,limerick,all,All sectors,1155.0,GWh
+2024,limerick,residential,Residential,381.0,GWh
+2024,limerick,non-residential,Non-residential,774.0,GWh
+2024,leitrim,all,All sectors,128.0,GWh
+2024,leitrim,residential,Residential,66.0,GWh
+2024,leitrim,non-residential,Non-residential,61.0,GWh
+2024,laois,all,All sectors,323.0,GWh
+2024,laois,residential,Residential,152.0,GWh
+2024,laois,non-residential,Non-residential,171.0,GWh
+2024,meath,all,All sectors,731.0,GWh
+2024,meath,residential,Residential,379.0,GWh
+2024,meath,non-residential,Non-residential,352.0,GWh
+2024,monaghan,all,All sectors,357.0,GWh
+2024,monaghan,residential,Residential,123.0,GWh
+2024,monaghan,non-residential,Non-residential,234.0,GWh
+2024,mayo,all,All sectors,612.0,GWh
+2024,mayo,residential,Residential,246.0,GWh
+2024,mayo,non-residential,Non-residential,366.0,GWh
+2024,offaly,all,All sectors,310.0,GWh
+2024,offaly,residential,Residential,141.0,GWh
+2024,offaly,non-residential,Non-residential,169.0,GWh
+2024,roscommon,all,All sectors,245.0,GWh
+2024,roscommon,residential,Residential,106.0,GWh
+2024,roscommon,non-residential,Non-residential,139.0,GWh
+2024,sligo,all,All sectors,297.0,GWh
+2024,sligo,residential,Residential,124.0,GWh
+2024,sligo,non-residential,Non-residential,173.0,GWh
+2024,tipperary,all,All sectors,820.0,GWh
+2024,tipperary,residential,Residential,342.0,GWh
+2024,tipperary,non-residential,Non-residential,478.0,GWh
+2024,waterford,all,All sectors,716.0,GWh
+2024,waterford,residential,Residential,242.0,GWh
+2024,waterford,non-residential,Non-residential,474.0,GWh
+2024,wicklow,all,All sectors,601.0,GWh
+2024,wicklow,residential,Residential,292.0,GWh
+2024,wicklow,non-residential,Non-residential,309.0,GWh
+2024,westmeath,all,All sectors,469.0,GWh
+2024,westmeath,residential,Residential,191.0,GWh
+2024,westmeath,non-residential,Non-residential,279.0,GWh
+2024,wexford,all,All sectors,673.0,GWh
+2024,wexford,residential,Residential,323.0,GWh
+2024,wexford,non-residential,Non-residential,350.0,GWh
+2025,clare,all,All sectors,528.0,GWh
+2025,clare,residential,Residential,218.0,GWh
+2025,clare,non-residential,Non-residential,311.0,GWh
+2025,cork,all,All sectors,3055.0,GWh
+2025,cork,residential,Residential,1079.0,GWh
+2025,cork,non-residential,Non-residential,1976.0,GWh
+2025,cavan,all,All sectors,475.0,GWh
+2025,cavan,residential,Residential,146.0,GWh
+2025,cavan,non-residential,Non-residential,328.0,GWh
+2025,carlow,all,All sectors,268.0,GWh
+2025,carlow,residential,Residential,122.0,GWh
+2025,carlow,non-residential,Non-residential,146.0,GWh
+2025,donegal,all,All sectors,646.0,GWh
+2025,donegal,residential,Residential,295.0,GWh
+2025,donegal,non-residential,Non-residential,351.0,GWh
+2025,dublin,all,All sectors,6500.0,GWh
+2025,dublin,residential,Residential,2267.0,GWh
+2025,dublin,non-residential,Non-residential,4235.0,GWh
+2025,galway,all,All sectors,1164.0,GWh
+2025,galway,residential,Residential,510.0,GWh
+2025,galway,non-residential,Non-residential,654.0,GWh
+2025,kildare,all,All sectors,1022.0,GWh
+2025,kildare,residential,Residential,452.0,GWh
+2025,kildare,non-residential,Non-residential,570.0,GWh
+2025,kilkenny,all,All sectors,422.0,GWh
+2025,kilkenny,residential,Residential,183.0,GWh
+2025,kilkenny,non-residential,Non-residential,239.0,GWh
+2025,kerry,all,All sectors,652.0,GWh
+2025,kerry,residential,Residential,311.0,GWh
+2025,kerry,non-residential,Non-residential,341.0,GWh
+2025,longford,all,All sectors,246.0,GWh
+2025,longford,residential,Residential,82.0,GWh
+2025,longford,non-residential,Non-residential,163.0,GWh
+2025,louth,all,All sectors,559.0,GWh
+2025,louth,residential,Residential,254.0,GWh
+2025,louth,non-residential,Non-residential,306.0,GWh
+2025,limerick,all,All sectors,1189.0,GWh
+2025,limerick,residential,Residential,383.0,GWh
+2025,limerick,non-residential,Non-residential,805.0,GWh
+2025,leitrim,all,All sectors,123.0,GWh
+2025,leitrim,residential,Residential,66.0,GWh
+2025,leitrim,non-residential,Non-residential,56.0,GWh
+2025,laois,all,All sectors,331.0,GWh
+2025,laois,residential,Residential,160.0,GWh
+2025,laois,non-residential,Non-residential,171.0,GWh
+2025,meath,all,All sectors,744.0,GWh
+2025,meath,residential,Residential,390.0,GWh
+2025,meath,non-residential,Non-residential,354.0,GWh
+2025,monaghan,all,All sectors,356.0,GWh
+2025,monaghan,residential,Residential,126.0,GWh
+2025,monaghan,non-residential,Non-residential,231.0,GWh
+2025,mayo,all,All sectors,611.0,GWh
+2025,mayo,residential,Residential,246.0,GWh
+2025,mayo,non-residential,Non-residential,365.0,GWh
+2025,offaly,all,All sectors,311.0,GWh
+2025,offaly,residential,Residential,144.0,GWh
+2025,offaly,non-residential,Non-residential,167.0,GWh
+2025,roscommon,all,All sectors,247.0,GWh
+2025,roscommon,residential,Residential,106.0,GWh
+2025,roscommon,non-residential,Non-residential,141.0,GWh
+2025,sligo,all,All sectors,298.0,GWh
+2025,sligo,residential,Residential,125.0,GWh
+2025,sligo,non-residential,Non-residential,173.0,GWh
+2025,tipperary,all,All sectors,812.0,GWh
+2025,tipperary,residential,Residential,345.0,GWh
+2025,tipperary,non-residential,Non-residential,468.0,GWh
+2025,waterford,all,All sectors,701.0,GWh
+2025,waterford,residential,Residential,244.0,GWh
+2025,waterford,non-residential,Non-residential,457.0,GWh
+2025,wicklow,all,All sectors,609.0,GWh
+2025,wicklow,residential,Residential,301.0,GWh
+2025,wicklow,non-residential,Non-residential,308.0,GWh
+2025,westmeath,all,All sectors,470.0,GWh
+2025,westmeath,residential,Residential,193.0,GWh
+2025,westmeath,non-residential,Non-residential,277.0,GWh
+2025,wexford,all,All sectors,682.0,GWh
+2025,wexford,residential,Residential,328.0,GWh
+2025,wexford,non-residential,Non-residential,354.0,GWh
