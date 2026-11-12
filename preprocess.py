@@ -32,10 +32,14 @@ PROVINCES = {
     "Ulster": ["Cavan", "Donegal", "Monaghan"],
 }
 counties = pd.DataFrame(
-    [(c, c, p) for p, cs in PROVINCES.items() for c in cs],
+    [(make_id(c), c, p) for p, cs in PROVINCES.items() for c in cs],
     columns=["county_id", "name", "province"],
 )
 KNOWN = set(counties.name)
+
+# Pseudo-county for offshore wind farms (no province); added after KNOWN so
+# county_id() still treats "Offshore" as non-county for the other datasets.
+counties.loc[len(counties)] = ["offshore", "Offshore", ""]
 
 counties.to_csv("data/clean_data/counties.csv", index=False)
 
@@ -158,3 +162,19 @@ app.to_csv("data/clean_data/datacentre_applications_clean.csv", index=False)
 
 
 # Wind farms
+wind = pd.read_csv("data/old_data/WindFarmsConnectedJune2022_cleaned.csv")
+name = wind["Windfarm_Name"].str.split().str.join(" ")
+ref = wind["Connection_Ref"].str.strip()
+date = pd.to_datetime(wind["Date_of_Connection"], format="%d/%m/%Y")
+
+wind = pd.DataFrame(
+    {
+        "windfarm_id": ref.map(make_id),
+        "label": name,
+        "county_id": wind["County"].map(county_id).replace("", "offshore"),
+        "connection_date": date.dt.strftime("%Y-%m-%d"),
+        "capacity_mw": wind["MEC__MW_"],
+        "wkt": [f"POINT({x} {y})" for x, y in zip(wind["Longitude"], wind["Latitude"])],
+    }
+)
+wind.to_csv("data/clean_data/wind_farms_clean.csv", index=False)
