@@ -1,0 +1,660 @@
+<http://example.org/dce#consumption/2015-Q4/other-customers> <http://example.org/dce#sector> "Customers other than data centres" .
+<http://example.org/dce#consumption/2019-Q1/data-centres> <http://example.org/dce#sector> "Data centres" .
+<http://example.org/dce#consumption/2017-Q1/all> <http://example.org/dce#sector> "All metered electricity consumption" .
+<http://example.org/dce#consumption/2017-Q3/all> <http://example.org/dce#sector> "All metered electricity consumption" .
+<http://example.org/dce#consumption/2016-Q2/other-customers> <http://example.org/dce#sector> "Customers other than data centres" .
+<http://example.org/dce#consumption/2016-Q3/other-customers> <http://example.org/dce#sector> "Customers other than data centres" .
+<http://example.org/dce#consumption/2019-Q3/other-customers> <http://example.org/dce#sector> "Customers other than data centres" .
+<http://example.org/dce#consumption/2022-Q4/all> <http://example.org/dce#sector> "All metered electricity consumption" .
+<http://example.org/dce#consumption/2021-Q3/data-centres> <http://example.org/dce#sector> "Data centres" .
+<http://example.org/dce#consumption/2021-Q4/other-customers> <http://example.org/dce#sector> "Customers other than data centres" .
+<http://example.org/dce#consumption/2021-Q2/other-customers> <http://example.org/dce#sector> "Customers other than data centres" .
+<http://example.org/dce#consumption/2015-Q4/all> <http://example.org/dce#sector> "All metered electricity consumption" .
+<http://example.org/dce#consumption/2017-Q4/all> <http://example.org/dce#sector> "All metered electricity consumption" .
+<http://example.org/dce#consumption/2016-Q2/data-centres> <http://example.org/dce#sector> "Data centres" .
+<http://example.org/dce#consumption/2023-Q2/other-customers> <http://example.org/dce#sector> "Customers other than data centres" .
+<http://example.org/dce#consumption/2017-Q2/data-centres> <http://example.org/dce#sector> "Data centres" .
+<http://example.org/dce#consumption/2017-Q3/other-customers> <http://example.org/dce#sector> "Customers other than data centres" .
+<http://example.org/dce#consumption/2018-Q3/all> <http://example.org/dce#sector> "All metered electricity consumption" .
+<http://example.org/dce#consumption/2021-Q1/other-customers> <http://example.org/dce#sector> "Customers other than data centres" .
+<http://example.org/dce#consumption/2018-Q4/all> <http://example.org/dce#sector> "All metered electricity consumption" .
+<http://example.org/dce#consumption/2017-Q1/other-customers> <http://example.org/dce#sector> "Customers other than data centres" .
+<http://example.org/dce#consumption/2015-Q3/other-customers> <http://example.org/dce#sector> "Customers other than data centres" .
+<http://example.org/dce#consumption/2015-Q1/all> <http://example.org/dce#sector> "All metered electricity consumption" .
+<http://example.org/dce#consumption/2022-Q3/all> <http://example.org/dce#sector> "All metered electricity consumption" .
+<http://example.org/dce#consumption/2023-Q3/data-centres> <http://example.org/dce#sector> "Data centres" .
+<http://example.org/dce#consumption/2015-Q3/data-centres> <http://example.org/dce#sector> "Data centres" .
+<http://example.org/dce#consumption/2024-Q4/other-customers> <http://example.org/dce#sector> "Customers other than data centres" .
+<http://example.org/dce#consumption/2018-Q1/other-customers> <http://example.org/dce#sector> "Customers other than data centres" .
+<http://example.org/dce#consumption/2021-Q3/all> <http://example.org/dce#sector> "All metered electricity consumption" .
+<http://example.org/dce#consumption/2021-Q2/all> <http://example.org/dce#sector> "All metered electricity consumption" .
+<http://example.org/dce#consumption/2025-Q1/data-centres> <http://example.org/dce#sector> "Data centres" .
+<http://example.org/dce#consumption/2022-Q1/data-centres> <http://example.org/dce#sector> "Data centres" .
+<http://example.org/dce#consumption/2024-Q4/all> <http://example.org/dce#sector> "All metered electricity consumption" .
+<http://example.org/dce#consumption/2020-Q4/data-centres> <http://example.org/dce#sector> "Data centres" .
+<http://example.org/dce#consumption/2023-Q1/data-centres> <http://example.org/dce#sector> "Data centres" .
+<http://example.org/dce#consumption/2021-Q2/data-centres> <http://example.org/dce#sector> "Data centres" .
+<http://example.org/dce#consumption/2023-Q4/data-centres> <http://example.org/dce#sector> "Data centres" .
+<http://example.org/dce#consumption/2022-Q2/other-customers> <http://example.org/dce#sector> "Customers other than data centres" .
+<http://example.org/dce#consumption/2024-Q1/all> <http://example.org/dce#sector> "All metered electricity consumption" .
+<http://example.org/dce#consumption/2019-Q2/all> <http://example.org/dce#sector> "All metered electricity consumption" .
+<http://example.org/dce#consumption/2016-Q1/all> <http://example.org/dce#sector> "All metered electricity consumption" .
+<http://example.org/dce#consumption/2020-Q2/data-centres> <http://example.org/dce#sector> "Data centres" .
+<http://example.org/dce#consumption/2022-Q4/other-customers> <http://example.org/dce#sector> "Customers other than data centres" .
+<http://example.org/dce#consumption/2023-Q3/other-customers> <http://example.org/dce#sector> "Customers other than data centres" .
+<http://example.org/dce#consumption/2017-Q3/data-centres> <http://example.org/dce#sector> "Data centres" .
+<http://example.org/dce#consumption/2024-Q4/data-centres> <http://example.org/dce#sector> "Data centres" .
+<http://example.org/dce#consumption/2017-Q2/other-customers> <http://example.org/dce#sector> "Customers other than data centres" .
+<http://example.org/dce#consumption/2019-Q4/other-customers> <http://example.org/dce#sector> "Customers other than data centres" .
+<http://example.org/dce#consumption/2019-Q2/data-centres> <http://example.org/dce#sector> "Data centres" .
+<http://example.org/dce#consumption/2018-Q2/all> <http://example.org/dce#sector> "All metered electricity consumption" .
+<http://example.org/dce#consumption/2022-Q3/data-centres> <http://example.org/dce#sector> "Data centres" .
+<http://example.org/dce#consumption/2016-Q4/all> <http://example.org/dce#sector> "All metered electricity consumption" .
+<http://example.org/dce#consumption/2025-Q4/other-customers> <http://example.org/dce#sector> "Customers other than data centres" .
+<http://example.org/dce#consumption/2022-Q1/all> <http://example.org/dce#sector> "All metered electricity consumption" .
+<http://example.org/dce#consumption/2017-Q4/data-centres> <http://example.org/dce#sector> "Data centres" .
+<http://example.org/dce#consumption/2020-Q3/data-centres> <http://example.org/dce#sector> "Data centres" .
+<http://example.org/dce#consumption/2019-Q1/all> <http://example.org/dce#sector> "All metered electricity consumption" .
+<http://example.org/dce#consumption/2017-Q1/data-centres> <http://example.org/dce#sector> "Data centres" .
+<http://example.org/dce#consumption/2023-Q4/all> <http://example.org/dce#sector> "All metered electricity consumption" .
+<http://example.org/dce#consumption/2023-Q2/all> <http://example.org/dce#sector> "All metered electricity consumption" .
+<http://example.org/dce#consumption/2025-Q4/all> <http://example.org/dce#sector> "All metered electricity consumption" .
+<http://example.org/dce#consumption/2017-Q2/all> <http://example.org/dce#sector> "All metered electricity consumption" .
+<http://example.org/dce#consumption/2018-Q3/data-centres> <http://example.org/dce#sector> "Data centres" .
+<http://example.org/dce#consumption/2019-Q3/all> <http://example.org/dce#sector> "All metered electricity consumption" .
+<http://example.org/dce#consumption/2025-Q2/other-customers> <http://example.org/dce#sector> "Customers other than data centres" .
+<http://example.org/dce#consumption/2024-Q1/data-centres> <http://example.org/dce#sector> "Data centres" .
+<http://example.org/dce#consumption/2025-Q2/all> <http://example.org/dce#sector> "All metered electricity consumption" .
+<http://example.org/dce#consumption/2019-Q2/other-customers> <http://example.org/dce#sector> "Customers other than data centres" .
+<http://example.org/dce#consumption/2024-Q2/all> <http://example.org/dce#sector> "All metered electricity consumption" .
+<http://example.org/dce#consumption/2022-Q1/other-customers> <http://example.org/dce#sector> "Customers other than data centres" .
+<http://example.org/dce#consumption/2022-Q2/all> <http://example.org/dce#sector> "All metered electricity consumption" .
+<http://example.org/dce#consumption/2022-Q4/data-centres> <http://example.org/dce#sector> "Data centres" .
+<http://example.org/dce#consumption/2020-Q1/data-centres> <http://example.org/dce#sector> "Data centres" .
+<http://example.org/dce#consumption/2015-Q2/other-customers> <http://example.org/dce#sector> "Customers other than data centres" .
+<http://example.org/dce#consumption/2024-Q3/data-centres> <http://example.org/dce#sector> "Data centres" .
+<http://example.org/dce#consumption/2022-Q2/data-centres> <http://example.org/dce#sector> "Data centres" .
+<http://example.org/dce#consumption/2021-Q3/other-customers> <http://example.org/dce#sector> "Customers other than data centres" .
+<http://example.org/dce#consumption/2021-Q4/data-centres> <http://example.org/dce#sector> "Data centres" .
+<http://example.org/dce#consumption/2020-Q2/all> <http://example.org/dce#sector> "All metered electricity consumption" .
+<http://example.org/dce#consumption/2023-Q3/all> <http://example.org/dce#sector> "All metered electricity consumption" .
+<http://example.org/dce#consumption/2017-Q4/other-customers> <http://example.org/dce#sector> "Customers other than data centres" .
+<http://example.org/dce#consumption/2015-Q2/data-centres> <http://example.org/dce#sector> "Data centres" .
+<http://example.org/dce#consumption/2023-Q2/data-centres> <http://example.org/dce#sector> "Data centres" .
+<http://example.org/dce#consumption/2025-Q1/other-customers> <http://example.org/dce#sector> "Customers other than data centres" .
+<http://example.org/dce#consumption/2020-Q4/other-customers> <http://example.org/dce#sector> "Customers other than data centres" .
+<http://example.org/dce#consumption/2015-Q1/other-customers> <http://example.org/dce#sector> "Customers other than data centres" .
+<http://example.org/dce#consumption/2024-Q2/other-customers> <http://example.org/dce#sector> "Customers other than data centres" .
+<http://example.org/dce#consumption/2024-Q3/other-customers> <http://example.org/dce#sector> "Customers other than data centres" .
+<http://example.org/dce#consumption/2016-Q3/all> <http://example.org/dce#sector> "All metered electricity consumption" .
+<http://example.org/dce#consumption/2019-Q4/data-centres> <http://example.org/dce#sector> "Data centres" .
+<http://example.org/dce#consumption/2023-Q1/other-customers> <http://example.org/dce#sector> "Customers other than data centres" .
+<http://example.org/dce#consumption/2015-Q1/data-centres> <http://example.org/dce#sector> "Data centres" .
+<http://example.org/dce#consumption/2018-Q4/data-centres> <http://example.org/dce#sector> "Data centres" .
+<http://example.org/dce#consumption/2024-Q3/all> <http://example.org/dce#sector> "All metered electricity consumption" .
+<http://example.org/dce#consumption/2016-Q1/other-customers> <http://example.org/dce#sector> "Customers other than data centres" .
+<http://example.org/dce#consumption/2023-Q1/all> <http://example.org/dce#sector> "All metered electricity consumption" .
+<http://example.org/dce#consumption/2015-Q2/all> <http://example.org/dce#sector> "All metered electricity consumption" .
+<http://example.org/dce#consumption/2020-Q2/other-customers> <http://example.org/dce#sector> "Customers other than data centres" .
+<http://example.org/dce#consumption/2016-Q2/all> <http://example.org/dce#sector> "All metered electricity consumption" .
+<http://example.org/dce#consumption/2016-Q3/data-centres> <http://example.org/dce#sector> "Data centres" .
+<http://example.org/dce#consumption/2018-Q1/data-centres> <http://example.org/dce#sector> "Data centres" .
+<http://example.org/dce#consumption/2019-Q3/data-centres> <http://example.org/dce#sector> "Data centres" .
+<http://example.org/dce#consumption/2016-Q1/data-centres> <http://example.org/dce#sector> "Data centres" .
+<http://example.org/dce#consumption/2018-Q2/other-customers> <http://example.org/dce#sector> "Customers other than data centres" .
+<http://example.org/dce#consumption/2020-Q3/other-customers> <http://example.org/dce#sector> "Customers other than data centres" .
+<http://example.org/dce#consumption/2020-Q4/all> <http://example.org/dce#sector> "All metered electricity consumption" .
+<http://example.org/dce#consumption/2025-Q3/data-centres> <http://example.org/dce#sector> "Data centres" .
+<http://example.org/dce#consumption/2024-Q2/data-centres> <http://example.org/dce#sector> "Data centres" .
+<http://example.org/dce#consumption/2023-Q4/other-customers> <http://example.org/dce#sector> "Customers other than data centres" .
+<http://example.org/dce#consumption/2021-Q4/all> <http://example.org/dce#sector> "All metered electricity consumption" .
+<http://example.org/dce#consumption/2021-Q1/data-centres> <http://example.org/dce#sector> "Data centres" .
+<http://example.org/dce#consumption/2016-Q4/other-customers> <http://example.org/dce#sector> "Customers other than data centres" .
+<http://example.org/dce#consumption/2025-Q3/other-customers> <http://example.org/dce#sector> "Customers other than data centres" .
+<http://example.org/dce#consumption/2018-Q1/all> <http://example.org/dce#sector> "All metered electricity consumption" .
+<http://example.org/dce#consumption/2024-Q1/other-customers> <http://example.org/dce#sector> "Customers other than data centres" .
+<http://example.org/dce#consumption/2018-Q4/other-customers> <http://example.org/dce#sector> "Customers other than data centres" .
+<http://example.org/dce#consumption/2025-Q2/data-centres> <http://example.org/dce#sector> "Data centres" .
+<http://example.org/dce#consumption/2025-Q3/all> <http://example.org/dce#sector> "All metered electricity consumption" .
+<http://example.org/dce#consumption/2015-Q4/data-centres> <http://example.org/dce#sector> "Data centres" .
+<http://example.org/dce#consumption/2015-Q3/all> <http://example.org/dce#sector> "All metered electricity consumption" .
+<http://example.org/dce#consumption/2020-Q1/all> <http://example.org/dce#sector> "All metered electricity consumption" .
+<http://example.org/dce#consumption/2021-Q1/all> <http://example.org/dce#sector> "All metered electricity consumption" .
+<http://example.org/dce#consumption/2025-Q1/all> <http://example.org/dce#sector> "All metered electricity consumption" .
+<http://example.org/dce#consumption/2020-Q1/other-customers> <http://example.org/dce#sector> "Customers other than data centres" .
+<http://example.org/dce#consumption/2019-Q1/other-customers> <http://example.org/dce#sector> "Customers other than data centres" .
+<http://example.org/dce#consumption/2016-Q4/data-centres> <http://example.org/dce#sector> "Data centres" .
+<http://example.org/dce#consumption/2020-Q3/all> <http://example.org/dce#sector> "All metered electricity consumption" .
+<http://example.org/dce#consumption/2022-Q3/other-customers> <http://example.org/dce#sector> "Customers other than data centres" .
+<http://example.org/dce#consumption/2019-Q4/all> <http://example.org/dce#sector> "All metered electricity consumption" .
+<http://example.org/dce#consumption/2025-Q4/data-centres> <http://example.org/dce#sector> "Data centres" .
+<http://example.org/dce#consumption/2018-Q3/other-customers> <http://example.org/dce#sector> "Customers other than data centres" .
+<http://example.org/dce#consumption/2018-Q2/data-centres> <http://example.org/dce#sector> "Data centres" .
+<http://example.org/dce#consumption/2022-Q3/all> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2024-Q2/all> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2019-Q4/other-customers> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2023-Q3/data-centres> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2025-Q1/data-centres> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2025-Q4/data-centres> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2016-Q2/all> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2017-Q1/data-centres> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2025-Q1/all> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2023-Q1/all> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2017-Q2/other-customers> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2022-Q1/all> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2015-Q4/all> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2018-Q2/data-centres> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2015-Q2/all> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2016-Q3/all> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2019-Q1/data-centres> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2016-Q3/data-centres> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2025-Q2/other-customers> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2020-Q1/data-centres> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2017-Q3/all> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2024-Q3/all> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2018-Q2/other-customers> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2020-Q2/all> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2023-Q1/other-customers> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2019-Q4/all> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2018-Q3/other-customers> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2022-Q2/data-centres> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2023-Q2/data-centres> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2021-Q2/all> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2018-Q1/other-customers> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2019-Q1/other-customers> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2016-Q4/data-centres> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2020-Q4/data-centres> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2021-Q4/other-customers> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2017-Q1/all> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2024-Q4/data-centres> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2025-Q2/all> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2015-Q3/data-centres> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2015-Q2/data-centres> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2015-Q4/data-centres> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2024-Q3/other-customers> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2019-Q2/all> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2025-Q4/all> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2025-Q4/other-customers> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2020-Q3/all> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2020-Q2/other-customers> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2016-Q4/all> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2021-Q2/data-centres> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2018-Q4/other-customers> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2015-Q4/other-customers> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2015-Q2/other-customers> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2022-Q3/other-customers> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2020-Q4/all> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2016-Q2/other-customers> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2024-Q1/other-customers> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2021-Q3/other-customers> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2024-Q3/data-centres> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2021-Q1/other-customers> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2017-Q3/data-centres> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2024-Q4/other-customers> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2022-Q2/all> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2020-Q4/other-customers> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2023-Q1/data-centres> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2023-Q2/all> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2024-Q4/all> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2021-Q1/data-centres> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2024-Q2/data-centres> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2020-Q2/data-centres> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2022-Q3/data-centres> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2023-Q2/other-customers> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2022-Q4/data-centres> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2018-Q1/data-centres> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2024-Q1/all> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2022-Q1/other-customers> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2018-Q2/all> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2019-Q2/data-centres> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2016-Q1/other-customers> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2022-Q4/all> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2025-Q1/other-customers> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2019-Q3/all> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2015-Q1/data-centres> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2016-Q2/data-centres> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2019-Q1/all> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2018-Q3/data-centres> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2021-Q3/data-centres> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2015-Q1/all> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2018-Q4/all> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2025-Q3/data-centres> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2019-Q2/other-customers> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2021-Q1/all> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2025-Q2/data-centres> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2021-Q4/all> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2017-Q3/other-customers> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2021-Q4/data-centres> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2017-Q2/data-centres> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2021-Q2/other-customers> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2017-Q4/other-customers> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2017-Q1/other-customers> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2016-Q1/data-centres> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2023-Q4/other-customers> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2023-Q3/all> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2022-Q2/other-customers> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2015-Q3/all> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2020-Q1/other-customers> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2018-Q4/data-centres> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2019-Q3/other-customers> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2024-Q1/data-centres> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2024-Q2/other-customers> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2020-Q3/data-centres> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2016-Q1/all> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2017-Q4/all> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2015-Q1/other-customers> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2016-Q3/other-customers> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2020-Q1/all> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2023-Q3/other-customers> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2025-Q3/other-customers> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2017-Q2/all> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2020-Q3/other-customers> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2018-Q3/all> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2025-Q3/all> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2021-Q3/all> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2015-Q3/other-customers> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2023-Q4/all> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2016-Q4/other-customers> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2018-Q1/all> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2022-Q1/data-centres> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2019-Q4/data-centres> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2023-Q4/data-centres> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2022-Q4/other-customers> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2017-Q4/data-centres> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2019-Q3/data-centres> <http://example.org/dce#unit> "GWh" .
+<http://example.org/dce#consumption/2024-Q4/all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2018-Q3/other-customers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2023-Q4/data-centres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2024-Q1/other-customers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2022-Q4/data-centres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2024-Q3/data-centres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2025-Q3/data-centres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2022-Q1/data-centres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2016-Q3/data-centres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2022-Q3/data-centres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2015-Q1/other-customers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2018-Q4/other-customers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2024-Q3/other-customers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2025-Q1/all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2018-Q1/data-centres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2021-Q2/data-centres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2015-Q3/data-centres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2015-Q2/data-centres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2022-Q1/all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2015-Q2/all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2017-Q3/data-centres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2018-Q2/data-centres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2016-Q4/other-customers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2025-Q4/other-customers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2017-Q1/all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2019-Q2/data-centres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2018-Q3/data-centres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2020-Q4/data-centres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2021-Q2/all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2023-Q3/data-centres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2025-Q1/other-customers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2021-Q3/other-customers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2020-Q4/all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2016-Q4/data-centres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2025-Q4/data-centres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2015-Q3/other-customers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2018-Q4/data-centres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2019-Q2/all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2020-Q2/all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2015-Q1/all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2020-Q2/other-customers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2023-Q1/other-customers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2018-Q2/other-customers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2020-Q4/other-customers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2022-Q1/other-customers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2016-Q4/all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2020-Q3/data-centres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2021-Q4/all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2023-Q1/all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2023-Q2/all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2018-Q2/all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2017-Q2/all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2018-Q3/all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2019-Q4/data-centres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2017-Q4/data-centres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2023-Q3/other-customers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2024-Q4/other-customers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2021-Q1/other-customers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2022-Q2/other-customers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2015-Q2/other-customers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2019-Q1/other-customers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2017-Q2/other-customers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2021-Q4/data-centres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2022-Q3/all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2025-Q4/all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2017-Q4/all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2022-Q2/data-centres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2023-Q1/data-centres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2016-Q3/all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2019-Q4/all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2017-Q2/data-centres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2017-Q3/all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2025-Q2/all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2016-Q2/data-centres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2019-Q1/all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2018-Q4/all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2020-Q1/other-customers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2024-Q2/data-centres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2020-Q1/data-centres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2018-Q1/all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2021-Q3/data-centres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2021-Q1/all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2020-Q1/all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2022-Q4/other-customers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2017-Q4/other-customers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2015-Q1/data-centres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2015-Q4/other-customers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2016-Q1/all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2023-Q2/other-customers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2022-Q2/all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2017-Q1/data-centres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2019-Q3/all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2015-Q3/all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2020-Q3/all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2022-Q4/all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2025-Q3/all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2021-Q1/data-centres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2019-Q2/other-customers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2021-Q4/other-customers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2015-Q4/data-centres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2016-Q1/data-centres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2025-Q2/data-centres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2019-Q3/other-customers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2024-Q1/data-centres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2020-Q3/other-customers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2019-Q4/other-customers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2023-Q2/data-centres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2024-Q2/other-customers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2024-Q3/all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2024-Q4/data-centres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2016-Q2/other-customers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2024-Q1/all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2016-Q3/other-customers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2018-Q1/other-customers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2024-Q2/all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2025-Q3/other-customers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2017-Q1/other-customers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2023-Q4/other-customers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2023-Q4/all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2016-Q2/all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2015-Q4/all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2025-Q2/other-customers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2020-Q2/data-centres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2017-Q3/other-customers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2016-Q1/other-customers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2019-Q3/data-centres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2019-Q1/data-centres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2023-Q3/all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2021-Q3/all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2025-Q1/data-centres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2021-Q2/other-customers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2022-Q3/other-customers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#Consumption> .
+<http://example.org/dce#consumption/2025-Q3/all> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2025-Q3> .
+<http://example.org/dce#consumption/2018-Q1/data-centres> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2018-Q1> .
+<http://example.org/dce#consumption/2018-Q3/other-customers> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2018-Q3> .
+<http://example.org/dce#consumption/2018-Q4/data-centres> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2018-Q4> .
+<http://example.org/dce#consumption/2022-Q2/all> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2022-Q2> .
+<http://example.org/dce#consumption/2018-Q3/data-centres> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2018-Q3> .
+<http://example.org/dce#consumption/2016-Q1/all> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2016-Q1> .
+<http://example.org/dce#consumption/2025-Q2/other-customers> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2025-Q2> .
+<http://example.org/dce#consumption/2018-Q1/all> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2018-Q1> .
+<http://example.org/dce#consumption/2023-Q4/other-customers> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2023-Q4> .
+<http://example.org/dce#consumption/2021-Q2/all> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2021-Q2> .
+<http://example.org/dce#consumption/2017-Q4/other-customers> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2017-Q4> .
+<http://example.org/dce#consumption/2021-Q3/all> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2021-Q3> .
+<http://example.org/dce#consumption/2016-Q4/all> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2016-Q4> .
+<http://example.org/dce#consumption/2016-Q2/other-customers> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2016-Q2> .
+<http://example.org/dce#consumption/2019-Q1/data-centres> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2019-Q1> .
+<http://example.org/dce#consumption/2025-Q4/all> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2025-Q4> .
+<http://example.org/dce#consumption/2024-Q3/other-customers> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2024-Q3> .
+<http://example.org/dce#consumption/2021-Q4/other-customers> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2021-Q4> .
+<http://example.org/dce#consumption/2017-Q3/other-customers> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2017-Q3> .
+<http://example.org/dce#consumption/2023-Q2/all> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2023-Q2> .
+<http://example.org/dce#consumption/2022-Q3/other-customers> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2022-Q3> .
+<http://example.org/dce#consumption/2018-Q4/other-customers> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2018-Q4> .
+<http://example.org/dce#consumption/2021-Q2/data-centres> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2021-Q2> .
+<http://example.org/dce#consumption/2022-Q3/data-centres> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2022-Q3> .
+<http://example.org/dce#consumption/2019-Q3/other-customers> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2019-Q3> .
+<http://example.org/dce#consumption/2021-Q4/all> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2021-Q4> .
+<http://example.org/dce#consumption/2024-Q4/all> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2024-Q4> .
+<http://example.org/dce#consumption/2023-Q1/data-centres> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2023-Q1> .
+<http://example.org/dce#consumption/2025-Q1/other-customers> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2025-Q1> .
+<http://example.org/dce#consumption/2018-Q2/data-centres> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2018-Q2> .
+<http://example.org/dce#consumption/2022-Q1/all> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2022-Q1> .
+<http://example.org/dce#consumption/2024-Q4/other-customers> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2024-Q4> .
+<http://example.org/dce#consumption/2017-Q1/data-centres> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2017-Q1> .
+<http://example.org/dce#consumption/2021-Q1/other-customers> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2021-Q1> .
+<http://example.org/dce#consumption/2017-Q1/other-customers> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2017-Q1> .
+<http://example.org/dce#consumption/2020-Q1/other-customers> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2020-Q1> .
+<http://example.org/dce#consumption/2016-Q1/other-customers> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2016-Q1> .
+<http://example.org/dce#consumption/2019-Q1/all> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2019-Q1> .
+<http://example.org/dce#consumption/2024-Q1/data-centres> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2024-Q1> .
+<http://example.org/dce#consumption/2016-Q2/data-centres> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2016-Q2> .
+<http://example.org/dce#consumption/2015-Q1/other-customers> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2015-Q1> .
+<http://example.org/dce#consumption/2015-Q3/other-customers> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2015-Q3> .
+<http://example.org/dce#consumption/2020-Q4/other-customers> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2020-Q4> .
+<http://example.org/dce#consumption/2023-Q1/other-customers> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2023-Q1> .
+<http://example.org/dce#consumption/2024-Q2/other-customers> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2024-Q2> .
+<http://example.org/dce#consumption/2022-Q4/data-centres> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2022-Q4> .
+<http://example.org/dce#consumption/2024-Q4/data-centres> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2024-Q4> .
+<http://example.org/dce#consumption/2017-Q4/all> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2017-Q4> .
+<http://example.org/dce#consumption/2018-Q1/other-customers> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2018-Q1> .
+<http://example.org/dce#consumption/2020-Q1/data-centres> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2020-Q1> .
+<http://example.org/dce#consumption/2015-Q3/data-centres> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2015-Q3> .
+<http://example.org/dce#consumption/2021-Q2/other-customers> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2021-Q2> .
+<http://example.org/dce#consumption/2017-Q2/data-centres> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2017-Q2> .
+<http://example.org/dce#consumption/2019-Q2/data-centres> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2019-Q2> .
+<http://example.org/dce#consumption/2023-Q3/other-customers> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2023-Q3> .
+<http://example.org/dce#consumption/2024-Q1/all> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2024-Q1> .
+<http://example.org/dce#consumption/2025-Q4/other-customers> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2025-Q4> .
+<http://example.org/dce#consumption/2019-Q4/all> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2019-Q4> .
+<http://example.org/dce#consumption/2020-Q4/data-centres> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2020-Q4> .
+<http://example.org/dce#consumption/2015-Q4/data-centres> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2015-Q4> .
+<http://example.org/dce#consumption/2020-Q4/all> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2020-Q4> .
+<http://example.org/dce#consumption/2024-Q2/data-centres> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2024-Q2> .
+<http://example.org/dce#consumption/2015-Q2/all> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2015-Q2> .
+<http://example.org/dce#consumption/2020-Q3/all> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2020-Q3> .
+<http://example.org/dce#consumption/2021-Q4/data-centres> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2021-Q4> .
+<http://example.org/dce#consumption/2016-Q3/data-centres> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2016-Q3> .
+<http://example.org/dce#consumption/2020-Q2/all> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2020-Q2> .
+<http://example.org/dce#consumption/2018-Q4/all> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2018-Q4> .
+<http://example.org/dce#consumption/2023-Q3/data-centres> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2023-Q3> .
+<http://example.org/dce#consumption/2015-Q2/data-centres> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2015-Q2> .
+<http://example.org/dce#consumption/2022-Q1/data-centres> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2022-Q1> .
+<http://example.org/dce#consumption/2017-Q4/data-centres> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2017-Q4> .
+<http://example.org/dce#consumption/2020-Q2/other-customers> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2020-Q2> .
+<http://example.org/dce#consumption/2020-Q3/other-customers> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2020-Q3> .
+<http://example.org/dce#consumption/2022-Q4/all> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2022-Q4> .
+<http://example.org/dce#consumption/2016-Q2/all> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2016-Q2> .
+<http://example.org/dce#consumption/2016-Q3/all> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2016-Q3> .
+<http://example.org/dce#consumption/2022-Q1/other-customers> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2022-Q1> .
+<http://example.org/dce#consumption/2025-Q4/data-centres> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2025-Q4> .
+<http://example.org/dce#consumption/2015-Q4/other-customers> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2015-Q4> .
+<http://example.org/dce#consumption/2018-Q2/other-customers> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2018-Q2> .
+<http://example.org/dce#consumption/2018-Q3/all> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2018-Q3> .
+<http://example.org/dce#consumption/2025-Q3/data-centres> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2025-Q3> .
+<http://example.org/dce#consumption/2024-Q3/data-centres> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2024-Q3> .
+<http://example.org/dce#consumption/2016-Q4/data-centres> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2016-Q4> .
+<http://example.org/dce#consumption/2020-Q3/data-centres> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2020-Q3> .
+<http://example.org/dce#consumption/2022-Q4/other-customers> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2022-Q4> .
+<http://example.org/dce#consumption/2021-Q3/other-customers> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2021-Q3> .
+<http://example.org/dce#consumption/2022-Q3/all> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2022-Q3> .
+<http://example.org/dce#consumption/2023-Q2/data-centres> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2023-Q2> .
+<http://example.org/dce#consumption/2019-Q4/other-customers> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2019-Q4> .
+<http://example.org/dce#consumption/2024-Q1/other-customers> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2024-Q1> .
+<http://example.org/dce#consumption/2024-Q3/all> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2024-Q3> .
+<http://example.org/dce#consumption/2015-Q1/data-centres> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2015-Q1> .
+<http://example.org/dce#consumption/2016-Q3/other-customers> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2016-Q3> .
+<http://example.org/dce#consumption/2020-Q1/all> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2020-Q1> .
+<http://example.org/dce#consumption/2023-Q4/all> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2023-Q4> .
+<http://example.org/dce#consumption/2022-Q2/other-customers> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2022-Q2> .
+<http://example.org/dce#consumption/2019-Q1/other-customers> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2019-Q1> .
+<http://example.org/dce#consumption/2020-Q2/data-centres> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2020-Q2> .
+<http://example.org/dce#consumption/2017-Q2/all> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2017-Q2> .
+<http://example.org/dce#consumption/2017-Q2/other-customers> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2017-Q2> .
+<http://example.org/dce#consumption/2018-Q2/all> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2018-Q2> .
+<http://example.org/dce#consumption/2025-Q2/data-centres> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2025-Q2> .
+<http://example.org/dce#consumption/2015-Q2/other-customers> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2015-Q2> .
+<http://example.org/dce#consumption/2023-Q3/all> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2023-Q3> .
+<http://example.org/dce#consumption/2023-Q4/data-centres> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2023-Q4> .
+<http://example.org/dce#consumption/2016-Q1/data-centres> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2016-Q1> .
+<http://example.org/dce#consumption/2021-Q1/data-centres> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2021-Q1> .
+<http://example.org/dce#consumption/2023-Q2/other-customers> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2023-Q2> .
+<http://example.org/dce#consumption/2025-Q3/other-customers> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2025-Q3> .
+<http://example.org/dce#consumption/2023-Q1/all> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2023-Q1> .
+<http://example.org/dce#consumption/2019-Q2/other-customers> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2019-Q2> .
+<http://example.org/dce#consumption/2025-Q1/data-centres> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2025-Q1> .
+<http://example.org/dce#consumption/2021-Q3/data-centres> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2021-Q3> .
+<http://example.org/dce#consumption/2025-Q1/all> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2025-Q1> .
+<http://example.org/dce#consumption/2017-Q3/data-centres> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2017-Q3> .
+<http://example.org/dce#consumption/2019-Q4/data-centres> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2019-Q4> .
+<http://example.org/dce#consumption/2019-Q3/all> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2019-Q3> .
+<http://example.org/dce#consumption/2025-Q2/all> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2025-Q2> .
+<http://example.org/dce#consumption/2019-Q2/all> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2019-Q2> .
+<http://example.org/dce#consumption/2024-Q2/all> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2024-Q2> .
+<http://example.org/dce#consumption/2015-Q3/all> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2015-Q3> .
+<http://example.org/dce#consumption/2022-Q2/data-centres> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2022-Q2> .
+<http://example.org/dce#consumption/2016-Q4/other-customers> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2016-Q4> .
+<http://example.org/dce#consumption/2015-Q4/all> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2015-Q4> .
+<http://example.org/dce#consumption/2019-Q3/data-centres> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2019-Q3> .
+<http://example.org/dce#consumption/2017-Q1/all> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2017-Q1> .
+<http://example.org/dce#consumption/2017-Q3/all> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2017-Q3> .
+<http://example.org/dce#consumption/2015-Q1/all> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2015-Q1> .
+<http://example.org/dce#consumption/2021-Q1/all> <http://example.org/dce#inPeriod> <http://example.org/dce#quarter/2021-Q1> .
+<http://example.org/dce#consumption/2022-Q1/other-customers> <http://example.org/dce#value> "6653.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2021-Q3/all> <http://example.org/dce#value> "6779.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2023-Q3/data-centres> <http://example.org/dce#value> "1625.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2016-Q1/other-customers> <http://example.org/dce#value> "6310.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2019-Q3/other-customers> <http://example.org/dce#value> "5661.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2020-Q1/data-centres> <http://example.org/dce#value> "691.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2024-Q3/other-customers> <http://example.org/dce#value> "5720.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2025-Q1/data-centres> <http://example.org/dce#value> "1821.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2019-Q2/all> <http://example.org/dce#value> "6349.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2017-Q3/data-centres> <http://example.org/dce#value> "450.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2018-Q2/all> <http://example.org/dce#value> "6845.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2022-Q4/data-centres> <http://example.org/dce#value> "1457.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2019-Q2/data-centres> <http://example.org/dce#value> "601.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2016-Q4/all> <http://example.org/dce#value> "6307.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2018-Q4/other-customers> <http://example.org/dce#value> "6010.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2018-Q4/data-centres> <http://example.org/dce#value> "591.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2022-Q2/other-customers> <http://example.org/dce#value> "6237.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2025-Q2/other-customers> <http://example.org/dce#value> "6232.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2024-Q2/data-centres> <http://example.org/dce#value> "1692.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2021-Q1/other-customers> <http://example.org/dce#value> "6426.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2015-Q3/other-customers> <http://example.org/dce#value> "5467.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2016-Q3/other-customers> <http://example.org/dce#value> "5540.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2015-Q3/all> <http://example.org/dce#value> "5783.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2018-Q1/other-customers> <http://example.org/dce#value> "6606.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2021-Q2/all> <http://example.org/dce#value> "7222.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2018-Q1/all> <http://example.org/dce#value> "7097.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2020-Q1/all> <http://example.org/dce#value> "7399.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2017-Q2/all> <http://example.org/dce#value> "6429.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2019-Q1/all> <http://example.org/dce#value> "7128.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2019-Q4/data-centres> <http://example.org/dce#value> "672.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2022-Q4/all> <http://example.org/dce#value> "7404.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2017-Q1/data-centres> <http://example.org/dce#value> "407.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2025-Q4/all> <http://example.org/dce#value> "8420.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2016-Q2/other-customers> <http://example.org/dce#value> "6111.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2017-Q4/all> <http://example.org/dce#value> "6461.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2017-Q1/other-customers> <http://example.org/dce#value> "6460.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2024-Q1/all> <http://example.org/dce#value> "8348.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2020-Q2/other-customers> <http://example.org/dce#value> "5707.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2025-Q3/data-centres> <http://example.org/dce#value> "1956.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2023-Q2/data-centres> <http://example.org/dce#value> "1554.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2025-Q4/data-centres> <http://example.org/dce#value> "1991.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2024-Q4/all> <http://example.org/dce#value> "8108.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2018-Q1/data-centres> <http://example.org/dce#value> "491.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2019-Q2/other-customers> <http://example.org/dce#value> "5749.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2023-Q4/all> <http://example.org/dce#value> "7701.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2019-Q4/all> <http://example.org/dce#value> "6728.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2019-Q4/other-customers> <http://example.org/dce#value> "6056.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2020-Q4/data-centres> <http://example.org/dce#value> "852.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2017-Q2/other-customers> <http://example.org/dce#value> "5996.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2019-Q3/data-centres> <http://example.org/dce#value> "638.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2020-Q3/all> <http://example.org/dce#value> "6381.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2022-Q3/other-customers> <http://example.org/dce#value> "5714.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2024-Q3/all> <http://example.org/dce#value> "7513.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2020-Q2/all> <http://example.org/dce#value> "6429.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2021-Q2/data-centres> <http://example.org/dce#value> "987.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2019-Q1/data-centres> <http://example.org/dce#value> "578.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2018-Q3/all> <http://example.org/dce#value> "6187.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2017-Q4/other-customers> <http://example.org/dce#value> "5988.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2023-Q4/data-centres> <http://example.org/dce#value> "1663.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2021-Q2/other-customers> <http://example.org/dce#value> "6235.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2020-Q4/all> <http://example.org/dce#value> "6847.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2024-Q1/data-centres> <http://example.org/dce#value> "1659.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2023-Q1/all> <http://example.org/dce#value> "8038.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2016-Q1/data-centres> <http://example.org/dce#value> "341.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2015-Q2/all> <http://example.org/dce#value> "6086.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2021-Q3/data-centres> <http://example.org/dce#value> "1035.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2025-Q2/all> <http://example.org/dce#value> "8127.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2022-Q3/data-centres> <http://example.org/dce#value> "1336.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2022-Q4/other-customers> <http://example.org/dce#value> "5948.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2025-Q4/other-customers> <http://example.org/dce#value> "6429.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2021-Q3/other-customers> <http://example.org/dce#value> "5744.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2021-Q4/other-customers> <http://example.org/dce#value> "6089.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2023-Q1/other-customers> <http://example.org/dce#value> "6542.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2015-Q3/data-centres> <http://example.org/dce#value> "316.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2024-Q4/data-centres> <http://example.org/dce#value> "1830.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2019-Q1/other-customers> <http://example.org/dce#value> "6550.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2016-Q2/all> <http://example.org/dce#value> "6471.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2020-Q4/other-customers> <http://example.org/dce#value> "5996.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2018-Q4/all> <http://example.org/dce#value> "6601.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2018-Q2/data-centres> <http://example.org/dce#value> "527.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2024-Q2/other-customers> <http://example.org/dce#value> "6243.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2024-Q2/all> <http://example.org/dce#value> "7935.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2024-Q3/data-centres> <http://example.org/dce#value> "1793.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2017-Q1/all> <http://example.org/dce#value> "6867.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2020-Q1/other-customers> <http://example.org/dce#value> "6708.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2015-Q4/data-centres> <http://example.org/dce#value> "329.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2019-Q3/all> <http://example.org/dce#value> "6299.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2020-Q2/data-centres> <http://example.org/dce#value> "722.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2021-Q4/data-centres> <http://example.org/dce#value> "1069.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2018-Q3/other-customers> <http://example.org/dce#value> "5614.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2015-Q1/all> <http://example.org/dce#value> "6565.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2020-Q3/data-centres> <http://example.org/dce#value> "766.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2016-Q1/all> <http://example.org/dce#value> "6651.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2021-Q4/all> <http://example.org/dce#value> "7158.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2016-Q3/data-centres> <http://example.org/dce#value> "386.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2017-Q4/data-centres> <http://example.org/dce#value> "472.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2023-Q2/all> <http://example.org/dce#value> "7706.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2021-Q1/all> <http://example.org/dce#value> "7347.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2022-Q3/all> <http://example.org/dce#value> "7050.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2023-Q3/other-customers> <http://example.org/dce#value> "5510.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2017-Q3/other-customers> <http://example.org/dce#value> "5519.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2015-Q1/other-customers> <http://example.org/dce#value> "6274.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2025-Q3/all> <http://example.org/dce#value> "7734.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2022-Q1/data-centres> <http://example.org/dce#value> "1194.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2025-Q2/data-centres> <http://example.org/dce#value> "1894.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2023-Q4/other-customers> <http://example.org/dce#value> "6038.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2022-Q2/data-centres> <http://example.org/dce#value> "1287.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2025-Q1/all> <http://example.org/dce#value> "8706.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2016-Q2/data-centres> <http://example.org/dce#value> "361.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2022-Q2/all> <http://example.org/dce#value> "7524.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2017-Q2/data-centres> <http://example.org/dce#value> "433.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2016-Q4/other-customers> <http://example.org/dce#value> "5912.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2023-Q2/other-customers> <http://example.org/dce#value> "6152.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2023-Q1/data-centres> <http://example.org/dce#value> "1497.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2018-Q2/other-customers> <http://example.org/dce#value> "6318.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2025-Q1/other-customers> <http://example.org/dce#value> "6884.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2016-Q3/all> <http://example.org/dce#value> "5926.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2016-Q4/data-centres> <http://example.org/dce#value> "395.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2015-Q4/all> <http://example.org/dce#value> "6165.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2015-Q4/other-customers> <http://example.org/dce#value> "5836.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2015-Q2/data-centres> <http://example.org/dce#value> "304.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2025-Q3/other-customers> <http://example.org/dce#value> "5778.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2024-Q1/other-customers> <http://example.org/dce#value> "6689.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2021-Q1/data-centres> <http://example.org/dce#value> "922.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2020-Q3/other-customers> <http://example.org/dce#value> "5615.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2018-Q3/data-centres> <http://example.org/dce#value> "574.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2015-Q1/data-centres> <http://example.org/dce#value> "291.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2017-Q3/all> <http://example.org/dce#value> "5969.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2022-Q1/all> <http://example.org/dce#value> "7847.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2024-Q4/other-customers> <http://example.org/dce#value> "6278.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2023-Q3/all> <http://example.org/dce#value> "7136.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://example.org/dce#consumption/2015-Q2/other-customers> <http://example.org/dce#value> "5783.0"^^<http://www.w3.org/2001/XMLSchema#float> .

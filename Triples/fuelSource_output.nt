@@ -1,0 +1,39 @@
+<http://example.org/dce#fuelSource/wind> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#FuelSource> .
+<http://example.org/dce#fuelSource/oil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#FuelSource> .
+<http://example.org/dce#fuelSource/gas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#FuelSource> .
+<http://example.org/dce#fuelSource/waste> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#FuelSource> .
+<http://example.org/dce#fuelSource/battery-storage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#FuelSource> .
+<http://example.org/dce#fuelSource/other-renewable> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#FuelSource> .
+<http://example.org/dce#fuelSource/distillate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#FuelSource> .
+<http://example.org/dce#fuelSource/renewable-hydro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#FuelSource> .
+<http://example.org/dce#fuelSource/biomass-peat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#FuelSource> .
+<http://example.org/dce#fuelSource/coal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#FuelSource> .
+<http://example.org/dce#fuelSource/pumped-storage-hydro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#FuelSource> .
+<http://example.org/dce#fuelSource/solar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#FuelSource> .
+<http://example.org/dce#fuelSource/other-non-renewable> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/dce#FuelSource> .
+<http://example.org/dce#fuelSource/pumped-storage-hydro> <http://example.org/dce#renewable> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://example.org/dce#fuelSource/coal> <http://example.org/dce#renewable> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://example.org/dce#fuelSource/distillate> <http://example.org/dce#renewable> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://example.org/dce#fuelSource/gas> <http://example.org/dce#renewable> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://example.org/dce#fuelSource/wind> <http://example.org/dce#renewable> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://example.org/dce#fuelSource/biomass-peat> <http://example.org/dce#renewable> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://example.org/dce#fuelSource/solar> <http://example.org/dce#renewable> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://example.org/dce#fuelSource/battery-storage> <http://example.org/dce#renewable> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://example.org/dce#fuelSource/renewable-hydro> <http://example.org/dce#renewable> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://example.org/dce#fuelSource/other-non-renewable> <http://example.org/dce#renewable> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://example.org/dce#fuelSource/oil> <http://example.org/dce#renewable> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://example.org/dce#fuelSource/waste> <http://example.org/dce#renewable> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://example.org/dce#fuelSource/other-renewable> <http://example.org/dce#renewable> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://example.org/dce#fuelSource/other-renewable> <http://www.w3.org/2000/01/rdf-schema#label> "Other Renewable" .
+<http://example.org/dce#fuelSource/renewable-hydro> <http://www.w3.org/2000/01/rdf-schema#label> "Renewable Hydro" .
+<http://example.org/dce#fuelSource/biomass-peat> <http://www.w3.org/2000/01/rdf-schema#label> "Biomass/Peat" .
+<http://example.org/dce#fuelSource/other-non-renewable> <http://www.w3.org/2000/01/rdf-schema#label> "Other Non-Renewable" .
+<http://example.org/dce#fuelSource/pumped-storage-hydro> <http://www.w3.org/2000/01/rdf-schema#label> "Pumped Storage Hydro" .
+<http://example.org/dce#fuelSource/battery-storage> <http://www.w3.org/2000/01/rdf-schema#label> "Battery Storage" .
+<http://example.org/dce#fuelSource/coal> <http://www.w3.org/2000/01/rdf-schema#label> "Coal" .
+<http://example.org/dce#fuelSource/oil> <http://www.w3.org/2000/01/rdf-schema#label> "Oil" .
+<http://example.org/dce#fuelSource/distillate> <http://www.w3.org/2000/01/rdf-schema#label> "Distillate" .
+<http://example.org/dce#fuelSource/solar> <http://www.w3.org/2000/01/rdf-schema#label> "Solar" .
+<http://example.org/dce#fuelSource/waste> <http://www.w3.org/2000/01/rdf-schema#label> "Waste" .
+<http://example.org/dce#fuelSource/gas> <http://www.w3.org/2000/01/rdf-schema#label> "Gas" .
+<http://example.org/dce#fuelSource/wind> <http://www.w3.org/2000/01/rdf-schema#label> "Wind" .
