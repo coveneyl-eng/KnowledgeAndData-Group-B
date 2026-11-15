@@ -1,0 +1,58 @@
+@prefix rml: <http://semweb.mmlab.be/ns/rml#> .
+@prefix rr:  <http://www.w3.org/ns/r2rml#> .
+@prefix ql:  <http://semweb.mmlab.be/ns/ql#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix geo:  <http://www.opengis.net/ont/geosparql#> .
+@prefix mce:  <http://example.org/dce#> .
+<#WindFarmMap> a rr:TriplesMap ;
+  rml:logicalSource [
+    rml:source "wind_farms_clean.csv" ;
+    rml:referenceFormulation ql:CSV
+  ] ;
+  rr:subjectMap [
+    rr:template "http://example.org/dce#windFarm/{windfarm_id}" ;
+    rr:class mce:WindFarm
+  ] ;
+  rr:predicateObjectMap [
+    rr:predicate mce:locatedIn;
+    rr:objectMap [
+      rr:template "http://example.org/dce#county/{county_id}" ;
+      rr:termType rr:IRI
+    ]
+  ] ;
+  rr:predicateObjectMap [
+    rr:predicate rdfs:label ;
+    rr:objectMap [
+      rml:reference "label"
+    ]
+  ] ;
+    rr:predicateObjectMap [
+    rr:predicate mce:connectionDate ;
+    rr:objectMap [ rml:reference "connection_date" ; rr:datatype xsd:date ]
+  ] ;
+    rr:predicateObjectMap [
+    rr:predicate mce:exportCapacityMW ;
+    rr:objectMap [ rml:reference "capacity_mw" ; rr:datatype xsd:float ]
+  ];
+    rr:predicateObjectMap [
+    rr:predicate geo:hasGeometry ;
+    rr:objectMap [
+      rr:template "http://example.org/dce#windFarm/{windfarm_id}/geometry" ;
+      rr:termType rr:IRI
+    ]
+  ].
+  <#WindFarmGeometryMap> a rr:TriplesMap ;
+  rml:logicalSource [
+    rml:source "wind_farms_clean.csv" ;
+    rml:referenceFormulation ql:CSV
+  ] ;
+  rr:subjectMap [
+    rr:template "http://example.org/dce#windFarm/{windfarm_id}/geometry" ;
+    rr:class geo:Geometry
+  ] ;
+  rr:predicateObjectMap [
+    rr:predicate geo:asWKT ;
+    rr:objectMap [ rml:reference "wkt" ; rr:datatype geo:wktLiteral ]
+  ] .
+

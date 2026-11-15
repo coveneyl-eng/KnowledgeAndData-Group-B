@@ -1,0 +1,37 @@
+@prefix rml: <http://semweb.mmlab.be/ns/rml#> .
+@prefix rr:  <http://www.w3.org/ns/r2rml#> .
+@prefix ql:  <http://semweb.mmlab.be/ns/ql#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix geo:  <http://www.opengis.net/ont/geosparql#> .
+@prefix mce:  <http://example.org/dce#> .
+<#QuarterMap> a rr:TriplesMap ;
+  rml:logicalSource [
+    rml:source "quarters.csv" ;
+    rml:referenceFormulation ql:CSV
+  ] ;
+  rr:subjectMap [
+    rr:template "http://example.org/dce#quarter/{quarter_id}" ;
+    rr:class mce:Quarter
+  ] ;
+  rr:predicateObjectMap [
+    rr:predicate rdfs:label ;
+    rr:objectMap [ rml:reference "quarter_id" ]
+  ] ;
+    rr:predicateObjectMap [
+    rr:predicate mce:inPeriod ;
+    rr:objectMap [ rr:template "http://example.org/dce#year/{year_id}" ]
+  ] .
+<#YearMap> a rr:TriplesMap ;
+  rml:logicalSource [
+    rml:source "quarters.csv" ;
+    rml:referenceFormulation ql:CSV
+  ] ;
+  rr:subjectMap [
+    rr:template "http://example.org/dce#year/{year_id}" ;
+    rr:class mce:Year
+  ] ;
+  rr:predicateObjectMap [
+    rr:predicate rdfs:label ;
+    rr:objectMap [ rml:reference "year_id" ]
+  ] .
