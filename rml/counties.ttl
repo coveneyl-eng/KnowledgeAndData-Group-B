@@ -4,15 +4,15 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix geo:  <http://www.opengis.net/ont/geosparql#> .
-@prefix mce:  <http://example.org/dce#> .
+@prefix dce:  <http://example.org/dce#> .
 <#CountyMapping> a rr:TriplesMap ;
   rml:logicalSource [
-    rml:source "counties.csv" ;
+    rml:source "data/clean_data/counties.csv" ;
     rml:referenceFormulation ql:CSV
   ] ;
   rr:subjectMap [
     rr:template "http://example.org/dce#county/{county_id}" ;
-    rr:class mce:County
+    rr:class dce:County
   ] ;
 
   rr:predicateObjectMap [
@@ -21,7 +21,7 @@
   ] ;
 
   rr:predicateObjectMap [
-    rr:predicate mce:inProvince ;
-    rr:objectMap [ rr:template "http://example.org/mce#province/{province}" ]
+    rr:predicate dce:province ;
+    rr:objectMap [ rml:reference "province" ; rr:datatype xsd:string ]
   ] .
 

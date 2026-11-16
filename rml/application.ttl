@@ -4,18 +4,18 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix geo:  <http://www.opengis.net/ont/geosparql#> .
-@prefix mce:  <http://example.org/dce#> .
+@prefix dce:  <http://example.org/dce#> .
 <#ApplicationMap> a rr:TriplesMap ;
   rml:logicalSource [
-    rml:source "datacentre_applications_clean_pending_decisions.csv" ;
+    rml:source "data/clean_data/datacentre_applications_clean_pending_decisions.csv" ;
     rml:referenceFormulation ql:CSV
   ] ;
   rr:subjectMap [
     rr:template "http://example.org/dce#application/{application_id}" ;
-    rr:class mce:Application
+    rr:class dce:DataCentreApplication
   ] ;
   rr:predicateObjectMap [
-    rr:predicate mce:locatedIn ;
+    rr:predicate dce:locatedIn ;
     rr:objectMap [
       rr:template "http://example.org/dce#county/{county_id}" ;
       rr:termType rr:IRI
@@ -28,15 +28,15 @@
     ]
   ] ;
     rr:predicateObjectMap [
-    rr:predicate mce:decisionDate ;
+    rr:predicate dce:decisionDate ;
     rr:objectMap [ rml:reference "decision_date" ; rr:datatype xsd:date ]
   ] ;
   rr:predicateObjectMap [
-    rr:predicate mce:applicationDate ;
+    rr:predicate dce:applicationDate ;
     rr:objectMap [ rml:reference "application_date" ; rr:datatype xsd:date ]
   ] ;
     rr:predicateObjectMap [
-    rr:predicate mce:decisionStatus ;
+    rr:predicate dce:decisionStatus ;
     rr:objectMap [ rml:reference "decision_status" ]
   ];
     rr:predicateObjectMap [
@@ -48,7 +48,7 @@
   ].
   <#ApplicationGeometryMap> a rr:TriplesMap ;
   rml:logicalSource [
-    rml:source "datacentre_applications_clean_pending_decisions.csv" ;
+    rml:source "data/clean_data/datacentre_applications_clean_pending_decisions.csv" ;
     rml:referenceFormulation ql:CSV
   ] ;
   rr:subjectMap [

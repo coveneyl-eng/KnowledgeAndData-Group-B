@@ -4,32 +4,32 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix geo:  <http://www.opengis.net/ont/geosparql#> .
-@prefix mce:  <http://example.org/dce#> .
+@prefix dce:  <http://example.org/dce#> .
 <#MonthMap> a rr:TriplesMap ;
   rml:logicalSource [
-    rml:source "months.csv" ;
+    rml:source "data/clean_data/months.csv" ;
     rml:referenceFormulation ql:CSV
   ] ;
   rr:subjectMap [
     rr:template "http://example.org/dce#month/{month_id}" ;
-    rr:class mce:Month
+    rr:class dce:Month
   ] ;
   rr:predicateObjectMap [
     rr:predicate rdfs:label ;
     rr:objectMap [ rml:reference "month_id" ]
   ] ;
     rr:predicateObjectMap [
-    rr:predicate mce:inPeriod ;
+    rr:predicate dce:partOf ;
     rr:objectMap [ rr:template "http://example.org/dce#quarter/{quarter_id}" ]
   ] .
 <#QuarterMap> a rr:TriplesMap ;
   rml:logicalSource [
-    rml:source "months.csv" ;
+    rml:source "data/clean_data/months.csv" ;
     rml:referenceFormulation ql:CSV
   ] ;
   rr:subjectMap [
     rr:template "http://example.org/dce#quarter/{quarter_id}" ;
-    rr:class mce:Quarter
+    rr:class dce:Quarter
   ] ;
   rr:predicateObjectMap [
     rr:predicate rdfs:label ;

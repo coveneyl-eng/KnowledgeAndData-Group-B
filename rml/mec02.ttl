@@ -4,29 +4,29 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix geo:  <http://www.opengis.net/ont/geosparql#> .
-@prefix mce:  <http://example.org/dce#> .
-<#EnergyProductionMap> a rr:TriplesMap ;
+@prefix dce:  <http://example.org/dce#> .
+<#EnergyConsumptionMap> a rr:TriplesMap ;
   rml:logicalSource [
-    rml:source "meg02_clean.csv" ;
+    rml:source "data/clean_data/mec02_clean.csv" ;
     rml:referenceFormulation ql:CSV
   ] ;
   rr:subjectMap [
-    rr:template "http://example.org/dce#production/{month_id}/{fuel_id}" ;
-    rr:class mce:Production
+    rr:template "http://example.org/dce#consumption/{quarter_id}/{sector_id}" ;
+    rr:class dce:Consumption
   ] ;
   rr:predicateObjectMap [
-    rr:predicate mce:inPeriod ;
-    rr:objectMap [ rr:template "http://example.org/dce#month/{month_id}" ]
+    rr:predicate dce:inPeriod ;
+    rr:objectMap [ rr:template "http://example.org/dce#quarter/{quarter_id}" ]
   ] ;
     rr:predicateObjectMap [
-    rr:predicate mce:value ;
+    rr:predicate dce:value ;
     rr:objectMap [ rml:reference "value" ; rr:datatype xsd:float ]
   ] ;
     rr:predicateObjectMap [
-    rr:predicate mce:unit ;
+    rr:predicate dce:unit ;
     rr:objectMap [ rml:reference "unit" ; rr:datatype xsd:string ]
   ] ;
-  rr:predicateObjectMap [
-    rr:predicate mce:hasFuelSource ;
-  rr:objectMap [ rr:template "http://example.org/dce#fuelSource/{fuel_id}" ]
-] .
+    rr:predicateObjectMap [
+    rr:predicate dce:sector ;
+    rr:objectMap [ rml:reference "sector" ]
+  ] .

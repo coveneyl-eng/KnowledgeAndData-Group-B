@@ -4,15 +4,15 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix geo:  <http://www.opengis.net/ont/geosparql#> .
-@prefix mce:  <http://example.org/dce#> .
+@prefix dce:  <http://example.org/dce#> .
 <#FuelSourceMap> a rr:TriplesMap ;
   rml:logicalSource [
-    rml:source "fuel_sources.csv" ;
+    rml:source "data/clean_data/fuel_sources.csv" ;
     rml:referenceFormulation ql:CSV
   ] ;
   rr:subjectMap [
     rr:template "http://example.org/dce#fuelSource/{fuel_id}" ;
-    rr:class mce:FuelSource
+    rr:class dce:FuelSource
   ] ;
   rr:predicateObjectMap [
     rr:predicate rdfs:label ;
@@ -21,6 +21,6 @@
     ]
   ] ;
     rr:predicateObjectMap [
-    rr:predicate mce:renewable ;
+    rr:predicate dce:renewable ;
     rr:objectMap [ rml:reference "renewable" ; rr:datatype xsd:boolean ]
   ].
