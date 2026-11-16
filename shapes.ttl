@@ -1,4 +1,4 @@
-@prefix mce: <http://example.org/dce#> .
+@prefix dce: <http://example.org/dce#> .
 @prefix sh:  <http://www.w3.org/ns/shacl#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
@@ -9,9 +9,9 @@
 # Wind farm validation
 #################################################################
 
-mce:WindFarmShape
+dce:WindFarmShape
     a sh:NodeShape ;
-    sh:targetClass mce:WindFarm ;
+    sh:targetClass dce:WindFarm ;
 
     sh:property [
         sh:path rdfs:label ;
@@ -20,22 +20,22 @@ mce:WindFarmShape
     ] ;
 
     sh:property [
-        sh:path mce:exportCapacityMW ;
+        sh:path dce:exportCapacityMW ;
         sh:minCount 1 ;
         sh:datatype xsd:float ;
         sh:minExclusive 0 ;
     ] ;
 
     sh:property [
-        sh:path mce:connectionDate ;
+        sh:path dce:connectionDate ;
         sh:minCount 1 ;
         sh:datatype xsd:date ;
     ] ;
 
     sh:property [
-        sh:path mce:locatedIn ;
+        sh:path dce:locatedIn ;
         sh:minCount 1 ;
-        sh:class mce:County ;
+        sh:class dce:County ;
     ] ;
 
     sh:property [
@@ -50,75 +50,75 @@ mce:WindFarmShape
 # MEC03 observations are county-level. Therefore locatedIn is optional.
 #################################################################
 
-mce:ConsumptionShape
+dce:ConsumptionShape
     a sh:NodeShape ;
-    sh:targetClass mce:Consumption ;
+    sh:targetClass dce:Consumption ;
 
     sh:property [
-        sh:path mce:value ;
+        sh:path dce:value ;
         sh:minCount 1 ;
         sh:datatype xsd:float ;
         sh:minInclusive 0 ;
     ] ;
 
     sh:property [
-        sh:path mce:unit ;
+        sh:path dce:unit ;
         sh:minCount 1 ;
         sh:datatype xsd:string ;
     ] ;
 
     sh:property [
-        sh:path mce:sector ;
+        sh:path dce:sector ;
         sh:minCount 1 ;
         sh:datatype xsd:string ;
     ] ;
 
     sh:property [
-        sh:path mce:inPeriod ;
+        sh:path dce:inPeriod ;
         sh:minCount 1 ;
         sh:maxCount 1 ;
         sh:or (
-            [ sh:class mce:Year ]
-            [ sh:class mce:Quarter ]
+            [ sh:class dce:Year ]
+            [ sh:class dce:Quarter ]
         ) ;
     ] ;
 
     sh:property [
-        sh:path mce:locatedIn ;
-        sh:class mce:County ;
+        sh:path dce:locatedIn ;
+        sh:class dce:County ;
     ] .
 
 #################################################################
 # Electricity production validation
 #################################################################
 
-mce:ProductionShape
+dce:ProductionShape
     a sh:NodeShape ;
-    sh:targetClass mce:Production ;
+    sh:targetClass dce:Production ;
 
     sh:property [
-        sh:path mce:value ;
+        sh:path dce:value ;
         sh:minCount 1 ;
         sh:datatype xsd:float ;
         sh:minInclusive 0 ;
     ] ;
 
     sh:property [
-        sh:path mce:unit ;
+        sh:path dce:unit ;
         sh:minCount 1 ;
         sh:datatype xsd:string ;
     ] ;
 
     sh:property [
-        sh:path mce:inPeriod ;
+        sh:path dce:inPeriod ;
         sh:minCount 1 ;
         sh:maxCount 1 ;
-        sh:class mce:Month ;
+        sh:class dce:Month ;
     ] ;
 
     sh:property [
-        sh:path mce:hasFuelSource ;
+        sh:path dce:hasFuelSource ;
         sh:minCount 1 ;
         sh:maxCount 1 ;
-        sh:class mce:FuelSource ;
+        sh:class dce:FuelSource ;
     ] .
