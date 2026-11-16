@@ -15,6 +15,17 @@ observation/meg02/{month_id}/{fuel_id}
 windfarm/{windfarm_id}  
 application/{application_id}
 
+## Data Used:
+The raw data used is present under data/old_data, while the cleaned data is under data/clean_data.
+```preprocess.py``` cleans the data, extracts relevant columns and stores it under clean_data.
+
+## Mapping/Uplifting:
+RMl is used to uplift the data from CSV files into triples in RDF format. Each CSV file in clean_data has a corresponding uplifting file under ```rml``` folder.
+The resultant triples are stored under the ```Triples``` folder.
+
+## Ontology:
+The ontology is defined in the ```ontology_dce.ttl``` file. The ontology is defined in Turtle format and the ontology graph is made using Protégé. It defines the classes and properties used in the data.
+
 ## Validate Knowledge Graph using SHACL:
 Added a shapes.ttl file to validate three shapes in KG [WindFarmShape, ConsumptionShape, ProductionShape]
 To validate: ```curl.exe -X POST -H "Accept: text/turtle" -F "file=@<path_to_shapes.ttl_file>;type=text/turtle" "http://localhost:7200/rest/repositories/irish-data-centres-graph/validate/file"```
