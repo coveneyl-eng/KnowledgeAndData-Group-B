@@ -1,7 +1,9 @@
 import re
+
 import numpy as np
 import pandas as pd
 from pyproj import Transformer
+
 
 def make_id(text):
     text = str(text).lower()
@@ -9,6 +11,7 @@ def make_id(text):
         r"[^a-z0-9]+", "-", text
     )  # Replace non-alphanumeric characters with hyphens
     return text.strip("-")
+
 
 # Counties
 PROVINCES = {
@@ -101,8 +104,12 @@ mec02 = pd.DataFrame(
 mec02.to_csv("data/clean_data/mec02_clean.csv", index=False)
 
 # MEC03
-mec03 = pd.read_csv("data/old_data/MEC03.20261108133109.csv")
-mec03["county_id"] = mec03["Counties & Dublin Postal Districts"].map(county_id)
+mec03 = pd.read_csv("data/old_data/MEC03.20261117100402.csv")
+mec03["county_id"] = (
+    mec03["Counties & Dublin Postal Districts"]
+    .str.replace(r"^Dublin \d+\w*$", "Dublin", regex=True)
+    .map(county_id)
+)
 mec03 = mec03[mec03.county_id != ""]  # drops national total and Not Coded
 SECTOR03 = {"-": "all", "10": "residential", "20": "non-residential"}
 mec03 = pd.DataFrame(
@@ -115,11 +122,18 @@ mec03 = pd.DataFrame(
         "unit": "GWh",
     }
 )
+mec03 = mec03.groupby(
+    ["year_id", "county_id", "sector_id", "sector", "unit"], as_index=False, sort=False
+)["value"].sum()[["year_id", "county_id", "sector_id", "sector", "value", "unit"]]
 mec03.to_csv("data/clean_data/mec03_clean.csv", index=False)
 
 # MEG02
-meg02 = pd.read_csv("data/old_data/MEG02.20261108134036.csv")
-meg02 = meg02[(meg02["C04200V04972"] != "-") & meg02["VALUE"].notna()]
+meg02 = pd.read_csv("data/old_data/MEG02.20261117095647.csv")
+meg02 = meg02[
+    (meg02["Time Bands"] == "All time periods")
+    & (meg02["C04200V04972"] != "-")
+    & meg02["VALUE"].notna()
+]
 meg02 = pd.DataFrame(
     {
         "month_id": meg02["TLIST(M1)"]
@@ -135,9 +149,8 @@ meg02.to_csv("data/clean_data/meg02_clean.csv", index=False)
 # Data centre applications
 RAW_PLANNING = "data/old_data/IrishPlanningApplications_8793309899677015036.csv.gz"
 
-DATA_CENTRE = (
-    r'\bdata[ -]?(?:centre|center|hall|storage facilit|processing (?:centre|facilit))s?\b|\bdatacent(?:re|er)|data cent$|edge computing|computing facility|hyperscale|\bserver (?:hall|building|farm)s?\b'
-)
+DATA_CENTRE = r"\bdata[ -]?(?:centre|center|hall|storage facilit|processing (?:centre|facilit))s?\b|\bdatacent(?:re|er)|data cent$|edge computing|computing facility|hyperscale|\bserver (?:hall|building|farm)s?\b"
+
 
 def planning_county(a):
     """'Fingal County Council' -> 'Dublin'; 'Cork City Council' -> 'Cork'."""
@@ -168,7 +181,6 @@ def iso_date(col):
     return pd.to_datetime(
         col, format="%m/%d/%Y %I:%M:%S %p", errors="coerce"
     ).dt.strftime("%Y-%m-%d")
-
 
 
 app = pd.read_csv(RAW_PLANNING, low_memory=False)
@@ -230,8 +242,7 @@ wind = pd.DataFrame(
         "connection_date": date.dt.strftime("%Y-%m-%d"),
         "capacity_mw": wind["MEC__MW_"],
         "wkt": [
-            f"POINT({x} {y})"
-            for x, y in zip(longitude.round(6), latitude.round(6))
+            f"POINT({x} {y})" for x, y in zip(longitude.round(6), latitude.round(6))
         ],
     }
 )
