@@ -1,3 +1,4 @@
+
 @prefix dce: <http://example.org/dce#> .
 @prefix sh:  <http://www.w3.org/ns/shacl#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
@@ -7,118 +8,145 @@
 
 #################################################################
 # Wind farm validation
-#################################################################
 
+# Defines a SHACL NodeShape for validating instances of WindFarm.
 dce:WindFarmShape
     a sh:NodeShape ;
+
+    # Apply this shape to every resource belonging to the WindFarm class.
     sh:targetClass dce:WindFarm ;
 
+    # Check that every wind farm has a label.
     sh:property [
         sh:path rdfs:label ;
-        sh:minCount 1 ;
-        sh:datatype xsd:string ;
+        sh:minCount 1 ;          # At least one label must exist.
+        sh:datatype xsd:string ; # The label must be a string.
     ] ;
 
+    # Validate the wind farm's electricity export capacity.
     sh:property [
         sh:path dce:exportCapacityMW ;
-        sh:minCount 1 ;
-        sh:datatype xsd:float ;
-        sh:minExclusive 0 ;
+        sh:minCount 1 ;             # Capacity must be provided.
+        sh:datatype xsd:float ;     # Capacity must be a floating-point number.
+        sh:minExclusive 0 ;         # Capacity must be greater than zero.
     ] ;
 
+    # Validate the date on which the wind farm was connected.
     sh:property [
         sh:path dce:connectionDate ;
-        sh:minCount 1 ;
-        sh:datatype xsd:date ;
+        sh:minCount 1 ;          # A connection date is required.
+        sh:datatype xsd:date ;   # The value must be a valid date.
     ] ;
 
+    # Ensure that the wind farm is associated with a county.
     sh:property [
         sh:path dce:locatedIn ;
-        sh:minCount 1 ;
-        sh:class dce:County ;
+        sh:minCount 1 ;             # At least one county must be specified.
+        sh:class dce:County ;       # The linked resource must be a County.
     ] ;
 
+    # Ensure that the wind farm has an associated geographic geometry.
     sh:property [
         sh:path geo:hasGeometry ;
-        sh:minCount 1 ;
-        sh:class geo:Geometry ;
+        sh:minCount 1 ;             # A geometry must be provided.
+        sh:class geo:Geometry ;     # The linked resource must be a Geometry.
     ] .
+
 
 #################################################################
 # Electricity consumption validation
-# MEC02 observations are national/sector-level and have no county;
-# MEC03 observations are county-level. Therefore locatedIn is optional.
-#################################################################
+# MEC02 observations are national/sector-level and do not have a county association.
+# MEC03 observations are county-level and can have a county association. Therefore, locatedIn is optional.
 
+# Defines a shape for validating electricity consumption observations.
 dce:ConsumptionShape
     a sh:NodeShape ;
+
+    # Apply this shape to every instance of Consumption.
     sh:targetClass dce:Consumption ;
 
+    # Validate the recorded electricity consumption value.
     sh:property [
         sh:path dce:value ;
-        sh:minCount 1 ;
-        sh:datatype xsd:float ;
-        sh:minInclusive 0 ;
+        sh:minCount 1 ;             # A consumption value is required.
+        sh:datatype xsd:float ;     # The value must be a floating-point number.
+        sh:minInclusive 0 ;         # Consumption cannot be negative.
     ] ;
 
+    # Validate the unit in which consumption is measured.
     sh:property [
         sh:path dce:unit ;
-        sh:minCount 1 ;
-        sh:datatype xsd:string ;
+        sh:minCount 1 ;             # A unit must be specified.
+        sh:datatype xsd:string ;    # The unit must be a string.
     ] ;
 
+    # Validate the sector associated with the observation.
     sh:property [
         sh:path dce:sector ;
-        sh:minCount 1 ;
-        sh:datatype xsd:string ;
+        sh:minCount 1 ;             # A sector must be specified.
+        sh:datatype xsd:string ;    # The sector must be a string.
     ] ;
 
+    # Ensure that each consumption observation is associated
+    # with exactly one valid reporting period.
     sh:property [
         sh:path dce:inPeriod ;
-        sh:minCount 1 ;
-        sh:maxCount 1 ;
+        sh:minCount 1 ;             # A reporting period is required.
+        sh:maxCount 1 ;             # Only one reporting period is allowed.
+
+        # The reporting period must be either a Year or a Quarter.
         sh:or (
             [ sh:class dce:Year ]
             [ sh:class dce:Quarter ]
         ) ;
     ] ;
 
+    # County association is optional because some observations
+    # represent national-level data rather than county-level data.
     sh:property [
         sh:path dce:locatedIn ;
-        sh:class dce:County ;
+        sh:class dce:County ;       # If provided, it must link to a County.
     ] .
+
 
 #################################################################
 # Electricity production validation
-#################################################################
 
+# Defines a shape for validating electricity production observations.
 dce:ProductionShape
     a sh:NodeShape ;
+
+    # Apply this shape to every instance of Production.
     sh:targetClass dce:Production ;
 
+    # Validate the recorded electricity production value.
     sh:property [
         sh:path dce:value ;
-        sh:minCount 1 ;
-        sh:datatype xsd:float ;
-        sh:minInclusive 0 ;
+        sh:minCount 1 ;             # A production value is required.
+        sh:datatype xsd:float ;     # The value must be a floating-point number.
+        sh:minInclusive 0 ;         # Production cannot be negative.
     ] ;
 
+    # Validate the unit used to measure electricity production.
     sh:property [
         sh:path dce:unit ;
-        sh:minCount 1 ;
-        sh:datatype xsd:string ;
+        sh:minCount 1 ;             # A unit must be specified.
+        sh:datatype xsd:string ;    # The unit must be a string.
     ] ;
 
+    # Ensure that production observations have exactly one monthly period.
     sh:property [
         sh:path dce:inPeriod ;
-        sh:minCount 1 ;
-        sh:maxCount 1 ;
-        sh:class dce:Month ;
+        sh:minCount 1 ;             # A reporting period is required.
+        sh:maxCount 1 ;             # Only one reporting period is allowed.
+        sh:class dce:Month ;        # The period must be a Month resource.
     ] ;
 
+    # Ensure that every production observation is associated
+    # with exactly one fuel source.
     sh:property [
         sh:path dce:hasFuelSource ;
-        sh:minCount 1 ;
-        sh:maxCount 1 ;
-        sh:class dce:FuelSource ;
+        sh:minCount 1 ;                 # A fuel source is required.
+        sh:maxCount 1 ;                 # Only one fuel source is allowed.
+        sh:class dce:FuelSource ;       # The linked resource must be a FuelSource.
     ] .
