@@ -42,12 +42,12 @@ The raw data used is present under data/old_data, while the cleaned data is unde
 ### Cleaned datasets
 
 | Output                              | Source                         | Grain                  | Steps                                                                                                                                                 |
-| ----------------------------------- | ------------------------------ | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| ----------------------------------- | ------------------------------ | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `mec02_clean.csv`                   | CSO MEC02                      | quarter × sector       | Electricity use by data centres vs other customers                                                                                                    |
 | `mec03_clean.csv`                   | CSO MEC03                      | year × county × sector | Dublin postal districts merged into Dublin and summed                                                                                                 |
 | `meg02_clean.csv`                   | CSO MEG02                      | month × fuel           | Kept "All time periods" only, dropped the all-fuels total, MWh→GWh                                                                                    |
 | `datacentre_applications_clean.csv` | Irish Planning Applications    | application            | Filtered by keyword regex on the description, de-duplicated, decision standardised to Granted/Refused/Withdrawn/Invalid/Other, Web Mercator → lon/lat |
-| `wind_farms_clean.csv`              | EirGrid wind farms (June 2022) | wind farm              | Irish Grid (EPSG:29903) → WGS84 via `pyproj`, offshore farms assigned `offshore`                                                                      |     |
+| `wind_farms_clean.csv`              | EirGrid wind farms (June 2022) | wind farm              | Irish Grid (EPSG:29903) → WGS84 via `pyproj`, offshore farms assigned `offshore`                                                                      |
 
 ## Mapping/Uplifting:
 
