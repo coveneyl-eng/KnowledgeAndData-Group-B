@@ -15,10 +15,39 @@ observation/meg02/{month_id}/{fuel_id}
 windfarm/{windfarm_id}  
 application/{application_id}
 
-## Data Used:
+## Data Preprocessing
+
+```bash
+python preprocess.py
+```
 
 The raw data used is present under data/old_data, while the cleaned data is under data/clean_data.
-`preprocess.py` cleans the data, extracts relevant columns and stores it under clean_data.
+
+### Conventions
+
+- **IDs** are lowercase slugs, with any run of non-alphanumeric characters replaced by a hyphen (e.g. `Renewable Hydro` → `renewable-hydro`, `Co. Dublin` → `dublin`).
+- **Energy values** are in **GWh** (MEG02 is converted from MWh).
+- **Dates** are ISO `YYYY-MM-DD`. Periods use `YYYY`, `YYYY-Qn` and `YYYY-MM`.
+- **Locations** are WGS84 longitude/latitude stored as WKT `POINT(lon lat)`, rounded to 6 decimal places.
+- Rows for national totals or uncoded areas are dropped. Only the 26 counties of the Republic of Ireland are kept, plus an `offshore` pseudo-county for wind farms.
+
+### Lookup tables (generated)
+
+| File                                      | Description                                       |
+| ----------------------------------------- | ------------------------------------------------- |
+| `counties.csv`                            | 26 counties + province, plus `offshore`           |
+| `years.csv`, `quarters.csv`, `months.csv` | Time hierarchy 2015–2025 (month → quarter → year) |
+| `fuel_sources.csv`                        | Fuel types with a `renewable` flag                |
+
+### Cleaned datasets
+
+| Output                              | Source                         | Grain                  | Steps                                                                                                                                                 |
+| ----------------------------------- | ------------------------------ | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| `mec02_clean.csv`                   | CSO MEC02                      | quarter × sector       | Electricity use by data centres vs other customers                                                                                                    |
+| `mec03_clean.csv`                   | CSO MEC03                      | year × county × sector | Dublin postal districts merged into Dublin and summed                                                                                                 |
+| `meg02_clean.csv`                   | CSO MEG02                      | month × fuel           | Kept "All time periods" only, dropped the all-fuels total, MWh→GWh                                                                                    |
+| `datacentre_applications_clean.csv` | Irish Planning Applications    | application            | Filtered by keyword regex on the description, de-duplicated, decision standardised to Granted/Refused/Withdrawn/Invalid/Other, Web Mercator → lon/lat |
+| `wind_farms_clean.csv`              | EirGrid wind farms (June 2022) | wind farm              | Irish Grid (EPSG:29903) → WGS84 via `pyproj`, offshore farms assigned `offshore`                                                                      |     |
 
 ## Mapping/Uplifting:
 
