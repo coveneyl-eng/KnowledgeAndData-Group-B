@@ -9,7 +9,25 @@ Prefixes:
 @prefix geo:  <http://www.opengis.net/ont/geosparql#> . --- GeoSPARQL prefix for geometric mappings
 @prefix dce:  <http://example.org/dce#> .          --- Our Groups ontology prefix (Data Centre Energy)
 
+rr:TriplesMap to define Mappings
+rml:LogicalSource
+  ql:CSV                          -- For data Sources
 
+Class definition example:
+    rr:subjectMap [
+    rr:template "http://example.org/dce#application/{application_id}" ;
+    rr:class dce:DataCentreApplication
+  ] ;
+
+Predicate Definition Example:
+  rr:predicateObjectMap [
+    rr:predicate dce:locatedIn ;
+    rr:objectMap [
+      rr:template "http://example.org/dce#county/{county_id}" ;
+      rr:termType rr:IRI
+    ]
+  ] ;
+(Links Application To County)
 
 County Mapping:
 county.csv
