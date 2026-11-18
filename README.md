@@ -1,4 +1,4 @@
-# KnowledgeAndData-Group-9
+# Group-C
 
 - `http://example.org/dce#` holds the ontology (classes and properties)
 - `http://example.org/dce/id/` holds the data (instances)
@@ -48,6 +48,14 @@ The raw data used is present under data/old_data, while the cleaned data is unde
 | `meg02_clean.csv`                   | CSO MEG02                      | month × fuel           | Kept "All time periods" only, dropped the all-fuels total, MWh→GWh                                                                                    |
 | `datacentre_applications_clean.csv` | Irish Planning Applications    | application            | Filtered by keyword regex on the description, de-duplicated, decision standardised to Granted/Refused/Withdrawn/Invalid/Other, Web Mercator → lon/lat |
 | `wind_farms_clean.csv`              | EirGrid wind farms (June 2022) | wind farm              | Irish Grid (EPSG:29903) → WGS84 via `pyproj`, offshore farms assigned `offshore`                                                                      |
+
+## Data Proceessing
+
+```bash
+python process.py
+```
+
+Process implemnts morph_kgc to convert ttl files to triples
 
 ## Mapping/Uplifting:
 
