@@ -9,8 +9,10 @@ Prefixes:
 @prefix geo:  <http://www.opengis.net/ont/geosparql#> . --- GeoSPARQL prefix for geometric mappings
 @prefix dce:  <http://example.org/dce#> .          --- Our Groups ontology prefix (Data Centre Energy)
 
-County Mapping:
 
+
+County Mapping:
+county.csv
   Class:
   county_id -> dce:County
   
@@ -20,6 +22,7 @@ County Mapping:
   rr:template "http://example.org/dce#province/{province}"
 
 Application Mapping:
+datacentre_applications_clean.csv
   Class:
   application_id -> dce: Application
   application_id -> dce: Application/Geometry
@@ -33,6 +36,7 @@ Application Mapping:
   Application/Geometry geo:asWKT 'wkt' geo:wktLiteral
 
 WindFarm Mapping:
+wind_farms_clean.csv
   Class:
   WindFarm_id -> dce: WindFarm
   WindFarm_id -> dce: WindFarm/Geometry
@@ -45,6 +49,7 @@ WindFarm Mapping:
   WindFarm dce:exportCapacityMW 'capacity_mw' xsd:float
 
 FuelSource Mapping:
+fuel_sources.csv
   Class:
   fuel_id -> dce: FuelSource
   
@@ -53,6 +58,7 @@ FuelSource Mapping:
   Fuel_Source dce:renewable 'renewable' xsd: boolean
 
 MEC02 Mapping:
+mec02_clean.csv
   Class:
   quarter_id/sector_id -> Consumption
 
@@ -63,6 +69,7 @@ MEC02 Mapping:
   Consumption dce:sector 'sector'
   
 MEC03 Mapping:
+mec03_clean.csv
   Class:
   year_id/county_id/sector_id -> Consumption
 
@@ -73,7 +80,8 @@ MEC03 Mapping:
   Consumption dce:sector 'sector'
   Consumption dce:locatedIn County
 
-MEG03 Mapping:
+MEG02 Mapping:
+meg02_clean.csv
   Class:
   month_id/fuel_id -> Production
 
@@ -84,6 +92,7 @@ MEG03 Mapping:
   Production dce:hasFuelSource FuelSource
 
 Months Mapping:
+months.csv
   Class:
   month_id -> Month
   quarter_id -> Quarter
@@ -94,6 +103,7 @@ Months Mapping:
   Quarter rdfs:label 'quarter_id'
 
 Quarters Mapping:
+quarters.csv
   Class:
   quarter_id -> Quarter
   year_id -> Year
@@ -104,6 +114,7 @@ Quarters Mapping:
   Year rdfs:label 'year_id'
 
 Years Mapping:
+years.csv
   Class:
   year_id -> Year
 
