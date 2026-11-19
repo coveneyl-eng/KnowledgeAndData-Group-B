@@ -69,4 +69,5 @@ The ontology is defined in the `ontology_dce.ttl` file. The ontology is defined 
 ## Validate Knowledge Graph using SHACL:
 
 Added a shapes.ttl file to validate three shapes in KG [WindFarmShape, ConsumptionShape, ProductionShape]
-To validate: `curl.exe -X POST -H "Accept: text/turtle" -F "file=@<path_to_shapes.ttl_file>;type=text/turtle" "http://localhost:7200/rest/repositories/irish-data-centres-graph/validate/file"`
+To validate: <br>
+`curl.exe -X POST -H "Accept: text/turtle" -F "file=@<path_to_shapes.ttl_file>;type=text/turtle" -o validation_report.ttl "http://localhost:7200/rest/repositories/irish-data-centres-graph/validate/file"`
